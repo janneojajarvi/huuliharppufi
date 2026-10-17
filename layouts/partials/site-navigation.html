@@ -1,0 +1,48 @@
+<nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="{{ .Site.Home.RelPermalink }}" class="f3 fw2 hover-white no-underline white-90 dib">
+      {{ .Site.Title }}
+    </a>
+    <div class="flex-l items-center">
+      {{ if .Site.Menus.main }}
+        <ul class="pl0 mr3 center">
+          {{ range .Site.Menus.main }}
+            {{ if not .HasChildren }}
+              <li class="pv1 ph2 dib">
+                <a class="hover-white no-underline white-90" href="{{ .URL }}" title="{{ .Name }}">
+                  {{ .Name }}
+                </a>
+              </li>
+            {{ else }}
+              <li class="pv1 ph2 dib relative group">
+                <a class="hover-white no-underline white-90" href="{{ .URL }}" title="{{ .Name }}">
+                  {{ .Name }} ▾
+                </a>
+                <ul class="sub-menu pl0">
+                  {{ range .Children }}
+                    {{ if not .HasChildren }}
+                      <li>
+                        <a href="{{ .URL }}">{{ .Name }}</a>
+                      </li>
+                    {{ else }}
+                      <li class="relative">
+                        <a href="{{ .URL }}">{{ .Name }} ▸</a>
+                        <ul class="sub-menu pl0">
+                          {{ range .Children }}
+                            <li>
+                              <a href="{{ .URL }}">{{ .Name }}</a>
+                            </li>
+                          {{ end }}
+                        </ul>
+                      </li>
+                    {{ end }}
+                  {{ end }}
+                </ul>
+              </li>
+            {{ end }}
+          {{ end }}
+        </ul>
+      {{ end }}
+    </div>
+  </div>
+</nav>

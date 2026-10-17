@@ -1,0 +1,127 @@
+<header class="site-header pv3 ph4 bg-near-black white">
+  <div class="site-title mb2">
+    <a href="{{ if eq .Site.Language.Lang "en" }}/en/{{ else }}/{{ end }}" class="link white-90 hover-silver fs-6 fw7">
+      {{ .Site.Title }}
+    </a>
+    <span style="font-size: 0.85rem; color: #a0aec0; margin-left: 10px;">
+      | {{ .Site.Params.tagline }}
+    </span>
+  </div>
+
+  <div style="margin-top: 4px; margin-bottom: 16px; font-size: 0.85rem; display: flex; align-items: center; gap: 12px;">
+    <a href="/" style="color: {{ if eq .Site.Language.Lang "fi" }}#ed8936{{ else }}white{{ end }}; text-decoration: underline;">Suomeksi</a>
+    <a href="/en/harmonica-lessons-by-janne-ojajarvi/" style="color: {{ if eq .Site.Language.Lang "en" }}#ed8936{{ else }}white{{ end }}; text-decoration: underline;">English 🇬🇧</a>
+  </div>
+
+  <nav class="w-100">
+    <ul class="custom-nav-menu">
+      {{ if eq .Site.Language.Lang "fi" }}
+        <li class="custom-nav-item"><a href="/" class="link white-90 hover-silver fs-6 fw7">ETUSIVU</a></li>
+        
+        <li class="custom-nav-item has-dropdown">
+          <a href="/oppitunnit/" class="link white-90 hover-silver fs-6 fw7">OPPITUNNIT ˅</a>
+          <ul class="custom-dropdown">
+            <li><a href="/oppitunnit/" style="font-weight: bold; border-bottom: 1px solid #eee; padding-bottom: 6px; margin-bottom: 4px;">Oppitunnit</a></li>
+            <li><a href="/etaopetus/">Etäopetus</a></li>
+            <li><a href="/opetuksen-aihealueet/">Opetuksen aihealueet</a></li>
+            <li><a href="/hinnat/">Hinnat</a></li>
+            <li><a href="/huuliharppukurssit/">Kurssit / ryhmäopetus</a></li>
+            <li><a href="/muut-soittimet/">Muut soittimet</a></li>
+          </ul>
+        </li>
+
+        <li class="custom-nav-item has-dropdown">
+          <a href="/huuliharppu/" class="link white-90 hover-silver fs-6 fw7">HUULIHARPPU ˅</a>
+          <ul class="custom-dropdown">
+            <li><a href="/huuliharppu/" style="font-weight: bold; border-bottom: 1px solid #eee; padding-bottom: 6px; margin-bottom: 4px;">Tietoa huuliharpusta</a></li>
+            <li><a href="/oppimateriaali/vinkkeja-huuliharpun-ostoon/">Vinkkejä huuliharpun ostoon</a></li>
+            <li><a href="/oppimateriaali/">Oppimateriaali</a></li>
+            <li><a href="/huuliharpun-huolto-ja-saato/">Huuliharpun huolto ja säätö</a></li>
+            <li><a href="/huuliharpun-rakenne-ja-toiminta/">Huuliharpun rakenne ja toiminta</a></li>
+            <li><a href="/tietoa-huuliharpusta/huuliharppumallit/">Huuliharppumallit</a></li>
+            <li><a href="/tietoa-huuliharpusta/viritysjarjestelmat/">Viritysjärjestelmät</a></li>
+          </ul>
+        </li>
+
+        <li class="custom-nav-item has-dropdown">
+          <a href="/kappaleet-harjoitukset/" class="link white-90 hover-silver fs-6 fw7">KAPPALEET & HARJOITUKSET ˅</a>
+          <ul class="custom-dropdown">
+            <li><a href="/kappaleet-harjoitukset/" style="font-weight: bold; border-bottom: 1px solid #eee; padding-bottom: 6px; margin-bottom: 4px;">Ohjelmistoa ja harjoituksia</a></li>
+            <li><a href="/harpputunefinder/">Harpputunefinder</a></li>
+            <li><a href="/lisamateriaalia/">Lisämateriaalia</a></li>
+            <li><a href="/viikon-perinnekappaale/">Viikon perinnekappaale</a></li>
+          </ul>
+        </li>
+
+        <li class="custom-nav-item"><a href="/kontakti/" class="link white-90 hover-silver fs-6 fw7">KONTAKTI</a></li>
+        <li class="custom-nav-item"><a href="/tekijasta/" class="link white-90 hover-silver fs-6 fw7">TEKIJÄSTÄ</a></li>
+        
+        <li class="custom-nav-item has-dropdown">
+          <a href="/linkit/" class="link white-90 hover-silver fs-6 fw7">LINKIT ˅</a>
+          <ul class="custom-dropdown">
+            <li><a href="/linkit/" style="font-weight: bold; border-bottom: 1px solid #eee; padding-bottom: 6px; margin-bottom: 4px;">Linkit</a></li>
+            <li><a href="/huuliharpun-kustomoijat/">Huuliharpun kustomoijat ja korjaajat</a></li>
+            <li><a href="/oppimateriaali/harjoittelun-tueksi-ohjelmia/">Harjoittelun tueksi ohjelmia</a></li>
+            <li><a href="/kuunteluvinkkeja/">Kuunteluvinkkejä</a></li>
+          </ul>
+        </li>
+
+      {{ else }}
+        <li class="custom-nav-item"><a href="/en/harmonica-lessons-by-janne-ojajarvi/" class="link white-90 hover-silver fs-6 fw7">HOME</a></li>
+        <li class="custom-nav-item has-dropdown">
+          <a href="/en/harmonica-lessons-by-janne-ojajarvi/" class="link white-90 hover-silver fs-6 fw7">LESSONS ˅</a>
+          <ul class="custom-dropdown">
+            <li><a href="/en/harmonica-lessons-by-janne-ojajarvi/" style="font-weight: bold; border-bottom: 1px solid #eee; padding-bottom: 6px; margin-bottom: 4px;">Harmonica Lessons</a></li>
+            <li><a href="/en/online-lessons/">Online lessons</a></li>
+            <li><a href="/en/exercises-and-tunes-for-diatonic-harmonica/">Exercises and tunes</a></li>
+            <li><a href="/en/tips-for-buying-your-first-harmonica/">Tips for buying</a></li>
+          </ul>
+        </li>
+        <li class="custom-nav-item"><a href="/en/about-janne-ojajarvi/" class="link white-90 hover-silver fs-6 fw7">ABOUT</a></li>
+        <li class="custom-nav-item"><a href="/en/links/" class="link white-90 hover-silver fs-6 fw7">LINKS</a></li>
+        <li class="custom-nav-item"><a href="/en/contact/" class="link white-90 hover-silver fs-6 fw7">CONTACT</a></li>
+      {{ end }}
+    </ul>
+  </nav>
+</header>
+
+<style>
+  main img {
+    object-fit: scale-down;
+    display: block;
+    margin: 20px auto;
+  }
+
+  .custom-nav-menu { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: 20px; margin: 0; position: relative; }
+  .custom-nav-item { position: relative; }
+  .custom-dropdown { display: none; position: absolute; top: 100%; left: 0; background: #fff; min-width: 280px; box-shadow: 0px 8px 16px rgba(0,0,0,0.15); list-style: none; padding: 10px 0; z-index: 100; border-radius: 4px; }
+  .custom-dropdown li a { color: #333 !important; padding: 8px 16px; display: block; text-decoration: none; font-size: 0.9rem; white-space: normal; }
+  .custom-dropdown li a:hover { background: #f1f1f1; color: #ed8936 !important; }
+  .custom-nav-item.has-dropdown:hover .custom-dropdown { display: block; }
+  .custom-nav-item.has-dropdown.open .custom-dropdown { display: block; }
+</style>
+
+<script>
+  document.querySelectorAll('.custom-nav-item.has-dropdown > a').forEach(function(item) {
+    item.addEventListener('click', function(e) {
+      if (window.matchMedia('(hover: none)').matches) {
+        const parentLi = this.parentElement;
+        if (!parentLi.classList.contains('open')) {
+          e.preventDefault();
+          document.querySelectorAll('.custom-nav-item.has-dropdown').forEach(function(li) {
+            if (li !== parentLi) li.classList.remove('open');
+          });
+          parentLi.classList.add('open');
+        }
+      }
+    });
+  });
+
+  document.addEventListener('click', function(e) {
+    if (!e.target.closest('.custom-nav-item.has-dropdown')) {
+      document.querySelectorAll('.custom-nav-item.has-dropdown').forEach(function(li) {
+        li.classList.remove('open');
+      });
+    }
+  });
+</script>

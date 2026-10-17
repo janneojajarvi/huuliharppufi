@@ -1,0 +1,16 @@
+---
+title: "Trad. tune of the week 5: Polska efter Johan Erik Taklax II"
+type: "post"
+---
+
+https://youtu.be/-u8khjXxjlc
+
+[Sheet &amp; tabs](/tradtabs/)
+
+Played with Taklax-tuned C harp.
+
+[More about Taklax-tuning.](/viritysjarjestelmat/)
+
+[Taklax-tuning chart.](/wp-content/uploads/2017/03/viritys_taklax.jpg?w=440&amp;h=237)
+
+#harmonica #bluesharp #traditionalfolk #folkmusic #onlinelessons #skypelessons #finnishfolkharmonica #huuliharppu #bluesharppu #huuliharppuopetus #etäsoittotunnit

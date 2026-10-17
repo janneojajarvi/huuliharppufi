@@ -1,0 +1,14 @@
+{{ define "header" }}
+  {{ partial "site-header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+  <article class="pa3 pa4-ns nested-copy-line-height max-w8 center">
+    <header class="fn w-100 style-color">
+      <h1 class="f1 athelas mt3 mb1">{{ .Title }}</h1>
+    </header>
+    <div class="nested-lh-copy serif f4 nested-links mid-gray">
+      {{ .Content }}
+    </div>
+  </article>
+{{ end }}

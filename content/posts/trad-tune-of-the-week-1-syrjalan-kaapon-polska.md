@@ -1,0 +1,8 @@
+---
+title: "Trad. tune of the week 1: Syrjälän Kaapon polska"
+type: "post"
+---
+
+https://youtu.be/YxYCGdTowl0
+
+#harmonica #bluesharp #traditionalfolk #folkmusic #onlinelessons #skypelessons #finnishfolkharmonica #huuliharppu #bluesharppu #huuliharppuopetus #etäsoittotunnit

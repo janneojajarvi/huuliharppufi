@@ -1,0 +1,31 @@
+baseURL = 'http://localhost:1313/'
+defaultContentLanguage = 'fi'
+theme = 'ananke'
+
+[params]
+  recent_posts_number = 5
+  background_color_class = "bg-near-black"
+  custom_css = ["css/custom.css"]
+
+[languages.fi]
+  languageCode = 'fi-fi'
+  languageName = 'Suomeksi'
+  weight = 1
+  title = 'Huuliharppu.fi'
+  contentDir = "content"
+  [languages.fi.params]
+    site_description = "Learn harmonica"
+    tagline = "Opi soittamaan huuliharppua! Learn to play harmonica!"
+
+[languages.en]
+  languageCode = 'en-us'
+  languageName = 'English'
+  weight = 2
+  title = 'Huuliharppu.fi'
+  contentDir = "content/en"
+  [languages.en.params]
+    site_description = "Learn harmonica"
+    tagline = "Learn to play harmonica!"
+
+[markup.goldmark.renderer]
+  unsafe = true

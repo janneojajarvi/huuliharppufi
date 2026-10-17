@@ -1,0 +1,20 @@
+{{ define "header" }}
+  {{ partial "site-header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+<main class="pb7" role="main">
+  <article class="mw8 center ph3 mt4 nested-copy-line-height lh-copy f4 nested-links mid-gray">
+    <h1 class="f1 athelas">{{ .Title }}</h1>
+    {{ .Content }}
+    
+    <div class="mt4">
+      {{ range .Pages }}
+        <div class="mb3">
+          <a href="{{ .RelPermalink }}" class="f4 db link blue hover-dark-blue fw6">{{ .Title }}</a>
+        </div>
+      {{ end }}
+    </div>
+  </article>
+</main>
+{{ end }}
