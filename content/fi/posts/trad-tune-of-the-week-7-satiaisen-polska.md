@@ -7,7 +7,7 @@ type: "post"
 https://youtu.be/vqzujsr_Zvw
 </div>
 
-[Sheet &amp; tabs](/tradtabs/)
+[Sheet &amp; tabs](/huuliharppufi/tradtabs/)
 
 Trad. after Antti Vesterinen (Kannonkoski, Finland).
 

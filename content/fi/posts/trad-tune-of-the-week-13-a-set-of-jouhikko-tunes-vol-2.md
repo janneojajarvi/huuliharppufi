@@ -11,5 +11,5 @@ The tune played originally by Feodor Pratsu (Impilahti, Karelia).
 
 #harmonica #bluesharp #traditionalfolk #folkmusic #onlinelessons #skypelessons #huuliharppu #bluesharppu #huuliharppuopetus #etäsoittotunnit
 
-[Sheet &amp; tabs](/tradtabs/): /tradtabs/
+[Sheet &amp; tabs](/huuliharppufi/tradtabs/): /tradtabs/
 

@@ -5,7 +5,7 @@ title: "Tietoa huuliharpusta"
 type: "page"
 ---
 
-[Huuliharpun rakenne ja toiminta](/huuliharpun-rakenne-ja-toiminta/)<br>
-[Erilaiset huuliharppumallit](/huuliharppumallit/)<br>
-[Huuliharpun viritysjärjestelmät](/viritysjarjestelmat/)
+[Huuliharpun rakenne ja toiminta](/huuliharppufi/huuliharpun-rakenne-ja-toiminta/)<br>
+[Erilaiset huuliharppumallit](/huuliharppufi/huuliharppumallit/)<br>
+[Huuliharpun viritysjärjestelmät](/huuliharppufi/viritysjarjestelmat/)
 

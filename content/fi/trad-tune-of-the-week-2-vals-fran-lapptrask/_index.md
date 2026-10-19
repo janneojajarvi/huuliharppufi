@@ -9,6 +9,6 @@ https://youtu.be/MYhQST1bIlw
 
 Vals från Lappträsk (Waltz from Lappträsk) Trad. after Karl Karlsson (Lapinjärvi, Finland), arr. Janne Ojajärvi.
 
-[Sheet &amp; tabs](/tradtabs/)
+[Sheet &amp; tabs](/huuliharppufi/tradtabs/)
 
 #harmonica #bluesharp #traditionalfolk #folkmusic #onlinelessons #skypelessons #finnishfolkharmonica #huuliharppu #bluesharppu #huuliharppuopetus #etäsoittotunnit

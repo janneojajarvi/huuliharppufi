@@ -9,16 +9,16 @@ Osta nuottimateriaalipaketti (PDF) kromaattiselle huuliharpulle täältä: https
 
 <em>Tabulatuurien lukuohje: V = venttiili pohjassa</em>
 
-[Asemaharjoitus: C-kromaattisella Bb-mollia](/wp-content/uploads/2016/06/c-kromaattisella-bb-mollia.pdf)
+[Asemaharjoitus: C-kromaattisella Bb-mollia](/huuliharppufi/wp-content/uploads/2016/06/c-kromaattisella-bb-mollia.pdf)
 
-[Asemaharjoitus: C-kromaattisella Ab-duuria](/wp-content/uploads/2016/06/c-kromaattisella-ab-duuria.pdf)
+[Asemaharjoitus: C-kromaattisella Ab-duuria](/huuliharppufi/wp-content/uploads/2016/06/c-kromaattisella-ab-duuria.pdf)
 
-[Mara Mara Minne](/wp-content/uploads/2016/06/mara-mara-minne.pdf)
+[Mara Mara Minne](/huuliharppufi/wp-content/uploads/2016/06/mara-mara-minne.pdf)
 
-[Kringellek från Siljansnäs](/wp-content/uploads/2016/06/kringellek-fracc8an-siljansnacc88s.pdf)
+[Kringellek från Siljansnäs](/huuliharppufi/wp-content/uploads/2016/06/kringellek-fracc8an-siljansnacc88s.pdf)
 
-[Brurleken Hennes Mor](/wp-content/uploads/2016/06/brurleken-hennes-mor.pdf)
+[Brurleken Hennes Mor](/huuliharppufi/wp-content/uploads/2016/06/brurleken-hennes-mor.pdf)
 
-[Grannas bastu](/wp-content/uploads/2016/06/grannas-bastu-krom.pdf)
+[Grannas bastu](/huuliharppufi/wp-content/uploads/2016/06/grannas-bastu-krom.pdf)
 
-[Autumn Leaves](/wp-content/uploads/2016/06/autumn-leaves.pdf)
+[Autumn Leaves](/huuliharppufi/wp-content/uploads/2016/06/autumn-leaves.pdf)

@@ -7,7 +7,7 @@ type: "post"
 https://youtu.be/a64ANDeLH64
 </div>
 
-[Sheet &amp; tabs](/tradtabs/)
+[Sheet &amp; tabs](/huuliharppufi/tradtabs/)
 
 Peli-Jussin syömämarssi. trad. after Elias Tallari (Kuortane, Finland), arr. Janne Ojajärvi
 

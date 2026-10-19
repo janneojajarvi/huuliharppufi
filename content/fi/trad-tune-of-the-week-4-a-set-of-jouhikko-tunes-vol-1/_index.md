@@ -7,6 +7,6 @@ type: "page"
 
 https://youtu.be/XlTSU7pLrLk&nbsp;
 
-[Sheet &amp; tabs](/tradtabs/)
+[Sheet &amp; tabs](/huuliharppufi/tradtabs/)
 
 #harmonica #bluesharp #traditionalfolk #folkmusic #onlinelessons #skypelessons  #huuliharppu #bluesharppu #huuliharppuopetus #etäsoittotunnit

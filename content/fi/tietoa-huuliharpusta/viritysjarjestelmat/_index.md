@@ -51,7 +51,7 @@ Tässä variaatiossa on mahdollista soittaa harmonisen mollin 6. sävel ilman ta
 
 [soundcloud url="https://api.soundcloud.com/tracks/315553579" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="66" iframe="true" /]
 
-[<img src="/wp-content/uploads/2017/03/viritys_harmoninen-molli-paddy.jpg?w=300" alt="" class="wp-image-700" />](/wp-content/uploads/2017/03/viritys_harmoninen-molli-paddy.jpg)
+[<img src="/wp-content/uploads/2017/03/viritys_harmoninen-molli-paddy.jpg?w=300" alt="" class="wp-image-700" />](/huuliharppufi/wp-content/uploads/2017/03/viritys_harmoninen-molli-paddy.jpg)
 
 ### Luonnollinen molli (Natural minor tuning)
 
@@ -91,7 +91,7 @@ Jouko Kyhälän kehittämä viritys, jossa 2. ja 5. reiän imuäänet on viritet
 
 ### Tuplaborduuna-viritys (Double Drone tuning)
 
-Tuplaborduuna-viritys on Janne Ojajärven kehittämä viritys, joka mahdollistaa borduunasoitossa kahden eri borduunasävelen käytön melodiaa säestämään. Siinä viritetään 2-reiän puhallusääni kokosävelaskel alaspäin. Viritykseen on mahdollista lisätä myös korkea borduuna virittämällä 10-reiän imusävel kokosävelaskel matalammaksi. Tätä viritystä voi kokeilla “turvallisesti” [kiinnittämällä pieni pala sinitarraa](/valiaikainen-viritys-alaspain-sinitarralla/) madallettaviin kieliin, kunnes vire on haluttu.
+Tuplaborduuna-viritys on Janne Ojajärven kehittämä viritys, joka mahdollistaa borduunasoitossa kahden eri borduunasävelen käytön melodiaa säestämään. Siinä viritetään 2-reiän puhallusääni kokosävelaskel alaspäin. Viritykseen on mahdollista lisätä myös korkea borduuna virittämällä 10-reiän imusävel kokosävelaskel matalammaksi. Tätä viritystä voi kokeilla “turvallisesti” [kiinnittämällä pieni pala sinitarraa](/huuliharppufi/valiaikainen-viritys-alaspain-sinitarralla/) madallettaviin kieliin, kunnes vire on haluttu.
 
 [soundcloud url="https://api.soundcloud.com/tracks/315553604" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="66" iframe="true" /]
 

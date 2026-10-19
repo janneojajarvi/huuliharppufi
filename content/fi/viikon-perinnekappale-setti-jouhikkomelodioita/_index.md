@@ -7,6 +7,6 @@ date: "2020-04-16"
 
 https://youtu.be/XlTSU7pLrLk
 
-Soitettu [jouhikkovireisellä](/viritysjarjestelmat/) "Low E"-harpulla.
+Soitettu [jouhikkovireisellä](/huuliharppufi/viritysjarjestelmat/) "Low E"-harpulla.
 
-[Lisätietoa kappaleesta tästä linkistä](/trad-tune-of-the-week-4-a-set-of-jouhikko-tunes-vol-1/)
+[Lisätietoa kappaleesta tästä linkistä](/huuliharppufi/trad-tune-of-the-week-4-a-set-of-jouhikko-tunes-vol-1/)

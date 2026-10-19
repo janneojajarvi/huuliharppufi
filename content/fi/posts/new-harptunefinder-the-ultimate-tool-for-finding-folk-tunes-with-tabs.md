@@ -23,7 +23,7 @@ Työkalu on vielä testivaiheessa, joten siitä voi löytyä vielä puutteita.
 <li>**Soita ja tallenna:** Kuuntele kappale selaimessa, säädä tempoa ja tallenna suosikkisi sydän-napilla myöhempää harjoittelua varten.</li>
 </ul>
 
-<em>Kokeile työkalua </em><em>**[tästä linkistä](/harpputunefinder/)**</em><em> ja löydä uusi suosikkikappaleesi!</em>
+<em>Kokeile työkalua </em><em>**[tästä linkistä](/huuliharppufi/harpputunefinder/)**</em><em> ja löydä uusi suosikkikappaleesi!</em>
 
 
 [<img src="https://huuliharppusivu.wordpress.com/wp-content/uploads/2026/04/esitkuva1fin-1.jpeg?w=560" alt="HarpTuneFinder" class="wp-image-4301" />](https://huuliharppusivu.wordpress.com/wp-content/uploads/2026/04/esitkuva1fin-1.jpeg)<figcaption class="wp-element-caption">Screenshot</figcaption>
@@ -33,5 +33,5 @@ Työkalu on vielä testivaiheessa, joten siitä voi löytyä vielä puutteita.
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 
-This article in English **[here](/posts/new-tool-for-finding-harp-tunes/).**
+This article in English **[here](/huuliharppufi/posts/new-tool-for-finding-harp-tunes/).**
 

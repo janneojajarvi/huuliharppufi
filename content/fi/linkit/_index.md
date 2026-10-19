@@ -5,11 +5,11 @@ title: "Linkit"
 type: "page"
 ---
 
-[Huuliharpun kustomoijat ja korjaajat](/huuliharpun-kustomoijat/)
+[Huuliharpun kustomoijat ja korjaajat](/huuliharppufi/huuliharpun-kustomoijat/)
 
-[Harjoittelun tuoeksi ohjelmia](/harjoittelun-tueksi-ohjelmia/)
+[Harjoittelun tuoeksi ohjelmia](/huuliharppufi/harjoittelun-tueksi-ohjelmia/)
 
-[Kuunteluvinkkejä](/kuunteluvinkkeja/)
+[Kuunteluvinkkejä](/huuliharppufi/kuunteluvinkkeja/)
 
 Suomen huuliharpistit ry: [http://www.suomenhuuliharpistit.fi/](http://www.suomenhuuliharpistit.fi/)
 

@@ -7,7 +7,7 @@ type: "page"
 
 https://youtu.be/vqzujsr_Zvw
 
-[Sheet &amp; tabs](/tradtabs/)
+[Sheet &amp; tabs](/huuliharppufi/tradtabs/)
 
 Played with G harp
 

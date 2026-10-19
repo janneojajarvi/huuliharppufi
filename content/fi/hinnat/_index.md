@@ -11,7 +11,7 @@ Huuliharppukoulu Janne Ojajärvi tarjoaa opetusta seuraavilla hinnoilla:
 
 Hinnat sisältävät arvonlisäveron 25,5%.
 
-Kysy lisää hinnoittelusta [täältä](/kontakti/).
+Kysy lisää hinnoittelusta [täältä](/huuliharppufi/kontakti/).
 
 Ylläolevat hinnat pätevät huuliharpun, pitkähuilun ja munniharpunsoiton opetukseen (sekä lähi- että etäopetus).
 

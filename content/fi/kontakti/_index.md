@@ -7,7 +7,7 @@ type: "page"
 
 Janne Ojajärven soittotuntien tilanne 6.7.2026 -&gt; uusille oppilaille tilaa 1.11.2026 alkaen. Muita opettajia/kursseja kannattaa tiedustella kansalaisopistojen ja työväenopistojen sekä Suomen [Huuliharpistit ry](https://www.suomenhuuliharpistit.fi/):n kautta.
 
-Lisätietoa Janne Ojajärven soittotunneista [**tästä linkistä.**](/oppitunnit/)
+Lisätietoa Janne Ojajärven soittotunneista [**tästä linkistä.**](/huuliharppufi/oppitunnit/)
 
 <p style="font-style:italic;font-weight:500">Haluatko oppia huuliharpun perusteet, syventyä improvisaatioon tai hallita vaativat tekniikat, kuten **bendaukset** ja **ylitaivutukset**? Opetan kaiken tasoisia soittajia aloittelijoista edistyneisiin harrastajiin.
 

@@ -7,9 +7,9 @@ type: "page"
 
 KIELIANSATSI (engl. tongue blocking)
 
-Kieliansatsissa peitetään kielellä kaikki muut suuhun osuvat reiät, paitsi ne joita halutaan soittaa. Kieliansatseja on useita erilaisia. Kieliansatsit mahdollistavat samanaikaisen sointukomppauksen melodiasoiton aikana, sekä pariäänien soiton. Taivutustekniikoiden käyttö taas on kieliansatsilla huomattavasti vaikeampaa kuin [huuliansatsilla](/huuliansatsi/).
+Kieliansatsissa peitetään kielellä kaikki muut suuhun osuvat reiät, paitsi ne joita halutaan soittaa. Kieliansatseja on useita erilaisia. Kieliansatsit mahdollistavat samanaikaisen sointukomppauksen melodiasoiton aikana, sekä pariäänien soiton. Taivutustekniikoiden käyttö taas on kieliansatsilla huomattavasti vaikeampaa kuin [huuliansatsilla](/huuliharppufi/huuliansatsi/).
 
-![Kieliansatsi](/wp-content/uploads/2015/10/kieliansatsi.jpg?w=300)
+![Kieliansatsi](/huuliharppufi/wp-content/uploads/2015/10/kieliansatsi.jpg?w=300)
 
 *Kieliansatsi*
 

@@ -9,13 +9,13 @@ type: "page"
 
 &nbsp;
 
-[Virittäminen ja juuttuneen kielen vapauttaminen](/huuliharpun-huolto-ja-saato/virittaminen-ja-juuttuneen-kielen-vapauttaminen/)
+[Virittäminen ja juuttuneen kielen vapauttaminen](/huuliharppufi/huuliharpun-huolto-ja-saato/virittaminen-ja-juuttuneen-kielen-vapauttaminen/)
 
-[Väliaikainen viritys alaspäin sinitarralla](/huuliharpun-huolto-ja-saato/valiaikainen-viritys-alaspain-sinitarralla/)
+[Väliaikainen viritys alaspäin sinitarralla](/huuliharppufi/huuliharpun-huolto-ja-saato/valiaikainen-viritys-alaspain-sinitarralla/)
 
-[Kielikulman säätö](/huuliharpun-huolto-ja-saato/kielikulman-saato/)
+[Kielikulman säätö](/huuliharppufi/huuliharpun-huolto-ja-saato/kielikulman-saato/)
 
-[Kielen vaihtaminen](/huuliharpun-huolto-ja-saato/kielen-vaihtaminen/)
+[Kielen vaihtaminen](/huuliharppufi/huuliharpun-huolto-ja-saato/kielen-vaihtaminen/)
 
 &nbsp;
 
@@ -25,11 +25,11 @@ type: "page"
 
 <em>Seuraavissa luvuissa kuvailtavat toimenpiteet voivat johtaa soittimen menemiseen pilalle. Vastuu oheisten ohjeiden soveltamisesta käytäntöön on lukijalla.</em>
 
-[Välystäminen (embossing)](/huuliharpun-huolto-ja-saato/valystaminen/)
+[Välystäminen (embossing)](/huuliharppufi/huuliharpun-huolto-ja-saato/valystaminen/)
 
-[Kielen muotoilu (arcing)](/huuliharpun-huolto-ja-saato/kielen-muotoilu/)
+[Kielen muotoilu (arcing)](/huuliharppufi/huuliharpun-huolto-ja-saato/kielen-muotoilu/)
 
-[Kielen juuren vahaaminen](/huuliharpun-huolto-ja-saato/kielen-juuren-vahaaminen/)
+[Kielen juuren vahaaminen](/huuliharppufi/huuliharpun-huolto-ja-saato/kielen-juuren-vahaaminen/)
 
-[Ilmatiiviyden kohennus hiomalla kampaa](/huuliharpun-huolto-ja-saato/ilmatiiviyden-kohennus-hiomalla-kampaa/)
+[Ilmatiiviyden kohennus hiomalla kampaa](/huuliharppufi/huuliharpun-huolto-ja-saato/ilmatiiviyden-kohennus-hiomalla-kampaa/)
 

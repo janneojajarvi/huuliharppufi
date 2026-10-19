@@ -7,7 +7,7 @@ type: "page"
 
 https://youtu.be/KMhJRoIteEU
 
-[Sheet &amp; tabs](/tradtabs/)
+[Sheet &amp; tabs](/huuliharppufi/tradtabs/)
 
 Trad. from Maria-Helena Spoof's songbook.
 

@@ -5,7 +5,7 @@ title: "Opetusvideot"
 type: "page"
 ---
 
-[Huuliharpun hankintaopas](/posts/huuliharpun-hankintaopas/)
+[Huuliharpun hankintaopas](/huuliharppufi/posts/huuliharpun-hankintaopas/)
 
-[Huuliharpun soiton alkeet](/posts/huuliharpun-soiton-alkeet/)
+[Huuliharpun soiton alkeet](/huuliharppufi/posts/huuliharpun-soiton-alkeet/)
 

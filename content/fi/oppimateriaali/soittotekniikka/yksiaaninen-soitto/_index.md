@@ -9,9 +9,9 @@ Ensimmäinen henkäys huuliharppuun tuottaa todennäköisesti useimmilla soittaj
 
 Soittajan on hyvä tiedostaa, että suun tilavuus vaikuttaa äänien syttyvyyteen ja sävelten sointiin. Usein huuliharpun imusävelien soittamista kuvaillaan imemiseksi, vaikka käytännössä se onkin useimmiten lähempänä sisäänhengittämistä. Perusajatuksena on se, että matalat äänet vaativat suuremman suun sisätilan ja korkeat pienemmän. Matalia ääniä soittaessa suun sisätila vastaa suunnilleen samaa mitä se on sanoessa vokaaleja A ja U. Korkeampia ääniä soittaessa suun sisätilan muoto siirtyy koko ajan enemmän vokaalin I suuntaan. Sopivaa suun tilavuutta voi etsiä laulamalla tai viheltämällä sävelen, jota soittaa. Suu hakeutuu sitä kautta lähelle huuliharpun äänen vaatimaa tilaa.
 
-[Huuliansatsi](/huuliansatsi/)
+[Huuliansatsi](/huuliharppufi/huuliansatsi/)
 
-[Kieliansatsi](/kieliansatsi/)
+[Kieliansatsi](/huuliharppufi/kieliansatsi/)
 
 [soundcloud url="https://api.soundcloud.com/tracks/288784177" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="80" iframe="true" /]<br>
 <em>Liuku "uu"-vokaalista vokaaliin "ii"</em>

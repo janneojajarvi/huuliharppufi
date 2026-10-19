@@ -5,17 +5,17 @@ title: "Snufkin tabs / Nuuska Muikkunen tabulatuurinuotit"
 type: "page"
 ---
 
-[Nuuska Muikkusen tanssimelodia / Snufkin dance melody](/wp-content/uploads/2022/03/nuuska-muikkusen-tanssimelodia-rytmitabs.pdf)
+[Nuuska Muikkusen tanssimelodia / Snufkin dance melody](/huuliharppufi/wp-content/uploads/2022/03/nuuska-muikkusen-tanssimelodia-rytmitabs.pdf)
 
-[Nuuska Muikkusen siltamelodia / Snufkin bridge melody](/wp-content/uploads/2022/03/nuuska_muikkusen_siltamelodia_rytmitabs.pdf)
+[Nuuska Muikkusen siltamelodia / Snufkin bridge melody](/huuliharppufi/wp-content/uploads/2022/03/nuuska_muikkusen_siltamelodia_rytmitabs.pdf)
 
 <em>(Tekijänoikeudellisista syistä en voi jakaa täällä varsinaista nuottia / Because of copyrights I can't share here a complete sheet music)</em>
 
 Already learnt this? Check for more tunes here
 
-[Tunes and exercises for blues harp](/exercises-and-tunes-for-diatonic-harmonica/), or here:
+[Tunes and exercises for blues harp](/huuliharppufi/exercises-and-tunes-for-diatonic-harmonica/), or here:
 
-[/harptunefinder/](/harptunefinder/)
+[/harptunefinder/](/huuliharppufi/harptunefinder/)
 
 PS. kuuntele täältä Janne Ojajärven soittamat huuliharput "Kometen kommer"-TV-animaatiossa, jossa Tove Jansson on itse kertojana: [https://arenan.yle.fi/1-77098902](https://arenan.yle.fi/1-77098902)
 

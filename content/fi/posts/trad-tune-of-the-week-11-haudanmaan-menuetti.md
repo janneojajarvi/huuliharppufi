@@ -9,7 +9,7 @@ Trad. tune of the week: Haudanmaan menuetti
 
 Trad. after Matti Haudanmaa (Kortesjärvi, Finland).
 
-[Sheet &amp; tabs](/tradtabs/)
+[Sheet &amp; tabs](/huuliharppufi/tradtabs/)
 
 #harmonica #bluesharp #traditionalfolk #folkmusic #onlinelessons #skypelessons #finnishfolkharmonica #huuliharppu #bluesharppu #huuliharppuopetus #etäsoittotunnit
 

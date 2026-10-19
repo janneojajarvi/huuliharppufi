@@ -76,7 +76,7 @@ David McKelvy - Huuliharppuopas. [https://www.booky.fi/tuote/david_mckelvy/huuli
 
 Janne Ojajärvi - Huuliharppujamivihko. [http://kansanmusiikki-instituutti.valmiskauppa.fi/huuliharppujamivihko-p-892.html](http://kansanmusiikki-instituutti.valmiskauppa.fi/huuliharppujamivihko-p-892.html)
 
-Jari Komulainen &amp; Janne Ojajärvi: [Turpahöylän ensitahdit - Huuliharpun alkeet ja ohjelmistoa.](/uusi-huuliharppuopaskirja-julkaistu/)
+Jari Komulainen &amp; Janne Ojajärvi: [Turpahöylän ensitahdit - Huuliharpun alkeet ja ohjelmistoa.](/huuliharppufi/uusi-huuliharppuopaskirja-julkaistu/)
 
 Jantso Jokelin - Huuliharppukirja. [http://www.adlibris.com/fi/kirja/huuliharppukirja-9789524832526](http://www.adlibris.com/fi/kirja/huuliharppukirja-9789524832526)
 

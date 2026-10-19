@@ -7,21 +7,21 @@ type: "page"
 
 ### Bluesharppu:
 
-[Kappaleita ja harjoituksia](/kappaleet-harjoitukset/)
+[Kappaleita ja harjoituksia](/huuliharppufi/kappaleet-harjoitukset/)
 
 [Lisää kappaleita pelkkinä tabulatuureina](https://www.learntheharmonica.com/free-beatles-harmonica-tabs)
 
 ### Kromaattinen huuliharppu:
 
-[Kappaleita](/harjoituksia-ja-kappaleita-kromaattiselle-huuliharpulle/)
+[Kappaleita](/huuliharppufi/harjoituksia-ja-kappaleita-kromaattiselle-huuliharpulle/)
 
-[Harjoituksia](/harjoituksia-ja-kappaleita-kromaattiselle-huuliharpulle/)
+[Harjoituksia](/huuliharppufi/harjoituksia-ja-kappaleita-kromaattiselle-huuliharpulle/)
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 
-[Lisämateriaalia](/lisamateriaalia/)
+[Lisämateriaalia](/huuliharppufi/lisamateriaalia/)
 
-Löydä kappaleita [HarppuTuneFinderillä](/harpputunefinder/)
+Löydä kappaleita [HarppuTuneFinderillä](/huuliharppufi/harpputunefinder/)
 
-[Viikon perinnekappale -blogi (vuodelta 2020)](/trad-tune-of-the-week/)
+[Viikon perinnekappale -blogi (vuodelta 2020)](/huuliharppufi/trad-tune-of-the-week/)
 

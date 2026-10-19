@@ -7,5 +7,5 @@ type: "page"
 
 Opetan huuliharppua yksityisesti sekä etä- että lähiopetuksena. 
 
-Tiedustelut yksityistunneista [tästä linkistä.](/kontakti/)
+Tiedustelut yksityistunneista [tästä linkistä.](/huuliharppufi/kontakti/)
 

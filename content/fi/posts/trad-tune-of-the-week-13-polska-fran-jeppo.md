@@ -9,5 +9,5 @@ Trad. tune of the week: Polska från Jeppo
 
 #harmonica #bluesharp #traditionalfolk #folkmusic #onlinelessons #skypelessons #finnishfolkharmonica #huuliharppu #bluesharppu #huuliharppuopetus #etäsoittotunnit
 
-[Sheet &amp; tabs](/tradtabs/): /tradtabs/
+[Sheet &amp; tabs](/huuliharppufi/tradtabs/): /tradtabs/
 

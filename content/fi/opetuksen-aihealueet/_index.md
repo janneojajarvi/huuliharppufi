@@ -54,8 +54,8 @@ Tässä mahdollisia opetuksen aihealueita.
 - jazz
 - iskelmä
 - elokuvamusiikki
--&gt; [Ääniesimerkkejä huuliharpusta eri musiikkityyleissä](/musiikkityylit/)
-[Tiedustelut yksityistunneista.](/kontakti/)
+-&gt; [Ääniesimerkkejä huuliharpusta eri musiikkityyleissä](/huuliharppufi/musiikkityylit/)
+[Tiedustelut yksityistunneista.](/huuliharppufi/kontakti/)
 
 </div>
 &nbsp;

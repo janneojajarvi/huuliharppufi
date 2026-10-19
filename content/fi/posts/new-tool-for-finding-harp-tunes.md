@@ -23,7 +23,7 @@ With this application, you can search thousands of tunes directly from **TheSess
 <li>**Play &amp; Save:** Listen to the tune in your browser, adjust the tempo, and save your favorites with the heart icon for future practice.</li>
 </ul>
 
-<em>Try out the tool from [**this link**](/harptunefinder/) and discover your next favorite tune!</em>
+<em>Try out the tool from [**this link**](/huuliharppufi/harptunefinder/) and discover your next favorite tune!</em>
 
 <em> </em>
 

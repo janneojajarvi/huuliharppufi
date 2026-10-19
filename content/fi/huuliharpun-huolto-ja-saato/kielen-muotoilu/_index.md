@@ -11,11 +11,11 @@ Huom! Huuliharpun säätäminen mm. kielen muotoilu omalla vastuulla!
 
 Kielikulman säätöön ja kielen muotoiluun ei riitä, että vain tarkastelet kieltä katseellasi. Sinun täytyy myös saada tuntuma säädön vaikutukseen kielen responssiin. Soita säädettyä kieltä, kokeile taivutuksia ja melodiakulkuja. Kieli kaaren muokkaus vaikuttaa myös sen sointiväriin. Kieliaukkojen välystyksen aikana saatat muutta tahtomattasi myös kielen muotoa, jolloin ne kannattaa tarkistaa vielä välystyksen jälkeen.
 
-[<img class="wp-image-754 size-medium" src="/wp-content/uploads/2019/06/suorakieli2-1.jpg?w=300" alt="Suorakieli" width="300" height="183" />](/wp-content/uploads/2019/06/suorakieli2-1.jpg) Ylitaivutuksille säädetty suoristetty kieli. Kieli painuu vähän alaspäin heti juurestaan, mutta on muuten lähes suora.
+[<img class="wp-image-754 size-medium" src="/wp-content/uploads/2019/06/suorakieli2-1.jpg?w=300" alt="Suorakieli" width="300" height="183" />](/huuliharppufi/wp-content/uploads/2019/06/suorakieli2-1.jpg) Ylitaivutuksille säädetty suoristetty kieli. Kieli painuu vähän alaspäin heti juurestaan, mutta on muuten lähes suora.
 
-[<img class="wp-image-751 size-medium" src="/wp-content/uploads/2019/06/pyoristetytkulmat.jpg?w=300" alt="Pyörisetyt kielen kulmat" width="300" height="140" />](/wp-content/uploads/2019/06/pyoristetytkulmat.jpg) Kielen kulmia on pyöristetty hieman, jotta ilma pääsee kielen ohi eikä terävä kulm tartu kieliaukon reunoihin.
+[<img class="wp-image-751 size-medium" src="/wp-content/uploads/2019/06/pyoristetytkulmat.jpg?w=300" alt="Pyörisetyt kielen kulmat" width="300" height="140" />](/huuliharppufi/wp-content/uploads/2019/06/pyoristetytkulmat.jpg) Kielen kulmia on pyöristetty hieman, jotta ilma pääsee kielen ohi eikä terävä kulm tartu kieliaukon reunoihin.
 
-[<img class="wp-image-752 size-medium" src="/wp-content/uploads/2019/06/kayrakieli.jpg?w=300" alt="Käyrä kieli" width="300" height="80" />](/wp-content/uploads/2019/06/kayrakieli.jpg) Eräs tapa säätää kieli ylitaivutustekniikan käyttöä varten on tehdä kielen keskikohtaan kaari, joka käy kieliaukon reunan alapuolella. Silloin kielen kärkeen täytyy tehdä kieliaukosta ylös nouseva kaari.
+[<img class="wp-image-752 size-medium" src="/wp-content/uploads/2019/06/kayrakieli.jpg?w=300" alt="Käyrä kieli" width="300" height="80" />](/huuliharppufi/wp-content/uploads/2019/06/kayrakieli.jpg) Eräs tapa säätää kieli ylitaivutustekniikan käyttöä varten on tehdä kielen keskikohtaan kaari, joka käy kieliaukon reunan alapuolella. Silloin kielen kärkeen täytyy tehdä kieliaukosta ylös nouseva kaari.
 
 Overblow.com -sivuston ylläpitäjä Tinus Koorn kuvailee kielikulman säätöä seuraavalla tavalla:
 "Käytän kahta parametriä testaamaan, että kieli on säädetty haluamallani tavalla. Ensimmäinen on se määrä, jonka voin taivuttaa kieltä ennenkuin se sammuu. Toinen on ilman määrä joka vuotaa karkuun kun kieli on sammutettu.

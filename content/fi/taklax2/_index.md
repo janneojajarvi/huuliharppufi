@@ -7,12 +7,12 @@ type: "page"
 
 https://youtu.be/-u8khjXxjlc
 
-[Sheet &amp; tabs](/tradtabs/)
+[Sheet &amp; tabs](/huuliharppufi/tradtabs/)
 
 Played with Taklax-tuned C harp.
 
-[More about Taklax-tuning.](/viritysjarjestelmat/)
+[More about Taklax-tuning.](/huuliharppufi/viritysjarjestelmat/)
 
-[Taklax-tuning chart.](/wp-content/uploads/2017/03/viritys_taklax.jpg?w=440&amp;h=237)
+[Taklax-tuning chart.](/huuliharppufi/wp-content/uploads/2017/03/viritys_taklax.jpg?w=440&amp;h=237)
 
 #harmonica #bluesharp #traditionalfolk #folkmusic #onlinelessons #skypelessons #finnishfolkharmonica #huuliharppu #bluesharppu #huuliharppuopetus #etäsoittotunnit

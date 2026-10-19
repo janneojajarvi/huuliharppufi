@@ -5,17 +5,17 @@ date: 2023-01-01T00:00:00+02:00
 title: "Oppitunnit"
 ---
 
-Huuliharppu.fi:n ylläpitäjä Janne Ojajärvi tarjoaa huuliharpunsoiton opetusta monipuolisesti eri ikäisille ja tasoisille soittajille. Opetus voidaan toteuttaa joko [etäopetuksena](/etaopetus/) tai kasvokkain. Myös ryhmätunnit ovat mahdollisia. Huuliharppujen sävellajeista, malleista tai neuvoa hankintaan voit kysyä [Jannelta](/kontakti/). Soitonopetuksen musiikkityylit ja sisältö räätälöidään oppilaan tarpeiden ja mielenkiinnon mukaan. Muiden kaupunkien opettajista vinkkejä [täältä.](/huuliharppuopettajia/)
+Huuliharppu.fi:n ylläpitäjä Janne Ojajärvi tarjoaa huuliharpunsoiton opetusta monipuolisesti eri ikäisille ja tasoisille soittajille. Opetus voidaan toteuttaa joko [etäopetuksena](/huuliharppufi/etaopetus/) tai kasvokkain. Myös ryhmätunnit ovat mahdollisia. Huuliharppujen sävellajeista, malleista tai neuvoa hankintaan voit kysyä [Jannelta](/huuliharppufi/kontakti/). Soitonopetuksen musiikkityylit ja sisältö räätälöidään oppilaan tarpeiden ja mielenkiinnon mukaan. Muiden kaupunkien opettajista vinkkejä [täältä.](/huuliharppufi/huuliharppuopettajia/)
 
-Esimerkkejä opetettavista musiikkityyleistä: kansanmusiikki, blues, rock, pop, country, irlantilainen kansanmusiikki, elokuvamusiikki, ym. Lisää tietoa ja ääniesimerkkejä [musiikkityyleistä täältä.](/musiikkityylit/)
+Esimerkkejä opetettavista musiikkityyleistä: kansanmusiikki, blues, rock, pop, country, irlantilainen kansanmusiikki, elokuvamusiikki, ym. Lisää tietoa ja ääniesimerkkejä [musiikkityyleistä täältä.](/huuliharppufi/musiikkityylit/)
 
-Esimerkkejä [huuliharppujen malleista](/huuliharppumallit/): bluesharppu (= diatoninen 10-reikäinen huuliharppu eli se "tavallinen huuliharppu"), kromaatinen huuliharppu, oktaaviviritteinen huuliharppu (esim. echo tai comet).
+Esimerkkejä [huuliharppujen malleista](/huuliharppufi/huuliharppumallit/): bluesharppu (= diatoninen 10-reikäinen huuliharppu eli se "tavallinen huuliharppu"), kromaatinen huuliharppu, oktaaviviritteinen huuliharppu (esim. echo tai comet).
 
-[Opetuksen aihealueet](/opetuksen-aihealueet/)
+[Opetuksen aihealueet](/huuliharppufi/opetuksen-aihealueet/)
 
 Opetus tapahtuu joko etäopetuksena tai lähiopetuksena Helsingissä.
 
-Yksityisopetuksesta kiinnostuneet voivat ottaa Janneen yhteyttä [tästä linkistä](/kontakti/) löytyvällä lomakkeella.
+Yksityisopetuksesta kiinnostuneet voivat ottaa Janneen yhteyttä [tästä linkistä](/huuliharppufi/kontakti/) löytyvällä lomakkeella.
 
 **Usein kysytyt kysymykset**
 
@@ -29,11 +29,11 @@ Tottakai voit. Huuliharpunsoiton voi aloittaa milloin vain taitotasosta, iästä
 
 <em>**En omista huuliharppua. Mistä voisin saada edullisen mutta toimivan huuliharpun soittoharrastuksen aloitukseen?**</em>
 
-[Tänne](/vinkkeja-huuliharpun-ostoon/) olen koonnut suosittelemiani huuliharppumalleja huuliharpunsoiton aloittamisen avuksi: [/oppimateriaali/vinkkeja-huuliharpun-ostoon/](/vinkkeja-huuliharpun-ostoon/)
+[Tänne](/huuliharppufi/vinkkeja-huuliharpun-ostoon/) olen koonnut suosittelemiani huuliharppumalleja huuliharpunsoiton aloittamisen avuksi: [/oppimateriaali/vinkkeja-huuliharpun-ostoon/](/huuliharppufi/vinkkeja-huuliharpun-ostoon/)
 
 **<em>Onko olemassa nuottikirjaa huuliharpulle, jonka kappaleiden soittamiseen ei tarvitse vaikeita soittotekniikoita (esim. taivutustekniikoita)?</em>**
 
-Onpa hyvinkin. [Tästä linkistä](/uusi-huuliharppuopaskirja-julkaistu/) löytyy sellainen, jossa on paljon kappaleita.
+Onpa hyvinkin. [Tästä linkistä](/huuliharppufi/uusi-huuliharppuopaskirja-julkaistu/) löytyy sellainen, jossa on paljon kappaleita.
 
 <p class="has-text-color has-link-color" style="color:#e9ebec">
 

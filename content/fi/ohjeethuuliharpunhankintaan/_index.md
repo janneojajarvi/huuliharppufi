@@ -31,7 +31,7 @@ Suomessa huuliharppujen valikoima kivijalkakaupoissa vaihtelee, mutta tässä ov
 
 **Tärkeä huomio:** Huuliharppu on hygieniatuote, joten niillä ei yleensä ole palautusoikeutta, jos pakkaus on avattu. Siksi on erityisen tärkeää lukea yllä olevat vinkit huolella ja valita kerralla oikea malli!
 
-Jos sopivan huuliharpun valinta yhä mietityttää, niin voit ottaa yhteyttä minuun [tämän sivun](/kontakti/) kautta.
+Jos sopivan huuliharpun valinta yhä mietityttää, niin voit ottaa yhteyttä minuun [tämän sivun](/huuliharppufi/kontakti/) kautta.
 
 ### <br>Tässä muutamia suosittelemiani huuliharppumalleja:
 

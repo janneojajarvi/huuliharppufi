@@ -5,7 +5,7 @@ type: "post"
 
 https://youtu.be/KMhJRoIteEU
 
-[Sheet &amp; tabs](/tradtabs/)
+[Sheet &amp; tabs](/huuliharppufi/tradtabs/)
 
 Played with C harp.
 

@@ -11,9 +11,9 @@ type: "page"
 
 Huuliharpun (bluesharppu) interaktiivinen sävelkartta: [https://codepen.io/Janne-Ojaj-rvi/full/ZYpKRaW](https://codepen.io/Janne-Ojaj-rvi/full/ZYpKRaW) (näyttää myös tabulatuurit ja sävelet nuottiviivastolla). © Janne Ojajärvi
 
-HarppuTuneFinder - Hae tietokannoista perinnekappaleita ja luo niille automaattisesti tabulatuurit + muita hyödyllisiä toimintoja: [/harpputunefinder](/harpputunefinder/)[HarppuTuneFinder](/harpputunefinder/)
+HarppuTuneFinder - Hae tietokannoista perinnekappaleita ja luo niille automaattisesti tabulatuurit + muita hyödyllisiä toimintoja: [/harpputunefinder](/huuliharppufi/harpputunefinder/)[HarppuTuneFinder](/huuliharppufi/harpputunefinder/)
 
-Visuaalinen metronomi: [/visuaalinen-metronomi/](/visuaalinen-metronomi/)  © Janne Ojajärvi
+Visuaalinen metronomi: [/visuaalinen-metronomi/](/huuliharppufi/visuaalinen-metronomi/)  © Janne Ojajärvi
 
 Bluesharpun interaktiivinen taivutuskaavio [**perustaivutuksilla**](https://codepen.io/Janne-Ojaj-rvi/full/qEamyaM) ja [**ylitaivutuksilla**](https://codepen.io/Janne-Ojaj-rvi/full/MYjmBmv).  © Janne Ojajärvi
 

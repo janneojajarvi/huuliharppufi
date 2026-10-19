@@ -11,4 +11,4 @@ Trad. tune of the week: A-duurimarssi
 
 #harmonica #bluesharp #traditionalfolk #folkmusic #onlinelessons #skypelessons #finnishfolkharmonica #huuliharppu #bluesharppu #huuliharppuopetus #etäsoittotunnit
 
-[Sheet & tabs](/tradtabs/): /tradtabs/
+[Sheet & tabs](/huuliharppufi/tradtabs/): /tradtabs/

@@ -39,13 +39,13 @@ Asemat C-duuri-vireisellä bluesharpulla:
 
 Käytännöllisyyden vuoksi asemia 7.-12. kutsutaan yleensä niiden aloitussävelten alennetuilla nimillä (engl. flat position). Tällöin asemien aloitussävelet ja nimet lasketaan kvinttiympyrässä alaspäin, esimerkiksi 11. asema Bb on alennettu asema (2nd flat position).
 
-[<img src="https://huuliharppusivu.wordpress.com/wp-content/uploads/2015/11/kvinttiympyracc88_asemat.jpg?w=300" alt="Kvinttiympyrä" class="wp-image-137" />](/wp-content/uploads/2015/11/kvinttiympyracc88_asemat.jpg)<figcaption class="wp-element-caption">Asemat C-bluesharpulla</figcaption>
+[<img src="https://huuliharppusivu.wordpress.com/wp-content/uploads/2015/11/kvinttiympyracc88_asemat.jpg?w=300" alt="Kvinttiympyrä" class="wp-image-137" />](/huuliharppufi/wp-content/uploads/2015/11/kvinttiympyracc88_asemat.jpg)<figcaption class="wp-element-caption">Asemat C-bluesharpulla</figcaption>
 
 Käytetyin asema bluesmusiikissa lienee 2. asema, jossa soitettavaan sävellajiin tarvitaan kvinttiä matalampi huuliharppu esimerkiksi jos blueskappale menee G-duurista (tai G-miksolyydisessä moodissa), soitettaisiin sitä perinteisesti C-harpulla. Hyvin yleinen asema on myös 3. asema, jolloin C-harpulla soittaessa soitettaisiin D-doorista, hyvin mollimaista asteikkoa. Monet mollikansansävelmät menevätkin tarkemmin tarkasteltuna juuri doorisessa asteikossa esim. "Scarborough fair".
 
 Seuraavassa kaaviossa näkyy mitkä kvinttiasemien sävellajit soivat minkäkin sävellajin bluesharpulla.
 
-[<img src="https://huuliharppusivu.wordpress.com/wp-content/uploads/2015/11/kvinttiasemakaavio.jpg?w=300" alt="Kvinttiasemakaavio" class="wp-image-133" />](/wp-content/uploads/2015/11/kvinttiasemakaavio.jpg)<figcaption class="wp-element-caption">Kvinttiasemat</figcaption>
+[<img src="https://huuliharppusivu.wordpress.com/wp-content/uploads/2015/11/kvinttiasemakaavio.jpg?w=300" alt="Kvinttiasemakaavio" class="wp-image-133" />](/huuliharppufi/wp-content/uploads/2015/11/kvinttiasemakaavio.jpg)<figcaption class="wp-element-caption">Kvinttiasemat</figcaption>
 
 &nbsp;
 
