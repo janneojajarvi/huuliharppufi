@@ -1,5 +1,6 @@
 ---
 title: "Oppitunnit"
+draft: false
 type: "page"
 ---
 
