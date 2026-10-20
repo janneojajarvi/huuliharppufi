@@ -15,14 +15,14 @@ Pariäänisoitossa (engl. double blocking, splitting, octaving) kieltä käytet�
 
 *Oktaavi-intervalli C-harpulla rei'istä 1 ja 4*
 
-[soundcloud url="https://api.soundcloud.com/tracks/288986730" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="80" iframe="true" /]
+<iframe width="100%" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/288986730&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 <em>Oktaavi-intervalli C-harpulla rei'istä 1 ja 4</em>
 
 ![Pariääniä Bb-duuriharpulla](/huuliharppufi/wp-content/uploads/2015/10/pariaania.jpg)
 
 *Pariääniä Bb-duuriharpulla*
 
-[soundcloud url="https://api.soundcloud.com/tracks/288963597" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="80" iframe="true" /]
+<iframe width="100%" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/288963597&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 <em>Pariääniä Bb-duuriharpulla</em>
 
 Ks. pariääniharjoituksia.

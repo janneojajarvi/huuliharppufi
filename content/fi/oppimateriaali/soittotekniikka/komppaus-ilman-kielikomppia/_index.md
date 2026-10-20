@@ -12,10 +12,10 @@ Komppaus huuliansatsilla tapahtuu paljolti samaan tapaan kuin junaimitaation soi
 Alla kaksi esimerkkiä joissa asemilla tarkoitetaan soitettavaa sävellajia. Jos alla olevat soinnut eivät olisi asiayhteydess
 
 Jossain muussa kontekstissa esim. yksittäin soitettuina alla olevat soinnut olisivat kukin eri asemia.
-[soundcloud url="https://api.soundcloud.com/tracks/288963589" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="80" iframe="true" /]
+<iframe width="100%" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/288963589&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 <em>Komppaus C-duuriharpulla 1. asemasta sävellajista C.</em>
 
-[soundcloud url="https://api.soundcloud.com/tracks/288963594" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="80" iframe="true" /]
+<iframe width="100%" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/288963594&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 <em>Komppaus C-duuriharpulla 2. asemasta sävellajista G.</em>
 
 Lähteet:

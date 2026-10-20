@@ -9,7 +9,7 @@ Käsien käyttö on olennainen työkalu soittajan oman soinnin muotoilemiseksi. 
 
 **Käsitremolo**
 
-[soundcloud url="https://api.soundcloud.com/tracks/288963634" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="80" iframe="true" /]
+<iframe width="100%" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/288963634&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 Avoimen ja suljetun kupin välillä vaihtaminen voidaan tehdä tehostemaisen nopeasti, jolloin saadaan aikaiseksi eräänlainen tremoloefekti. Käsitremolo on erityisen tehokas pienellä bluesharpulla, sillä se mahtuu hyvin käsien muodostaman kupin sisään. Käsitremolo muokkaa samanaikaisesti äänen voimakkuutta, sekä väriä.
 
@@ -17,7 +17,7 @@ Tremolo saadaan aikaiseksi avaamalla ja sulkemalla tiivistä käsikuppia nopeast
 
 **Wah wah**
 
-[soundcloud url="https://api.soundcloud.com/tracks/288963638" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="80" iframe="true" /]
+<iframe width="100%" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/288963638&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 Wah wah -efekti saadaan aikaan aloittamalla sävel suljetusta kupista ja avaamalla kuppi se heti sävelen sytyttyä. Tällöin aikaansaatu ääni kuulostaa etäisesti ankkamaiselta tai sähkökitaran wah-pedaalilta.
 

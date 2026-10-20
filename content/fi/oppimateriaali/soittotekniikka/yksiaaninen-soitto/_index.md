@@ -13,7 +13,7 @@ Soittajan on hyvä tiedostaa, että suun tilavuus vaikuttaa äänien syttyvyytee
 
 [Kieliansatsi](/huuliharppufi/kieliansatsi/)
 
-[soundcloud url="https://api.soundcloud.com/tracks/288784177" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="80" iframe="true" /]<br>
+<iframe width="100%" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/288784177&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><br>
 <em>Liuku "uu"-vokaalista vokaaliin "ii"</em>
 
 Lähteet:

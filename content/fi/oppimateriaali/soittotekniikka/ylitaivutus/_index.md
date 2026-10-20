@@ -9,16 +9,16 @@ Ylitaivutus (engl. overbend, overbending) on taivutustekniikka, jossa tuotettu t
 
 Ylitaivutuksessa sulkeutuva kieli (joka soi yksinään normaalissa soitossa) lakkaa kokonaan soimasta ja aukeava kieli soi yksinään.&nbsp; Ensimmäinen vaiihe ylitaivutuksessa on sulkeutuvan kielen sammuttaminen. Esimerkiksi diatonisen C-huuliharpun 4. reiän puhallussävel on normaalisti C. Ylipuhallusta käyttäessä soittaja pyrkii ensimmäiseksi suuontelon muotoa muokkaamalla sammuttamaan sulkeutuva C-kielen. Kun C-kieli sammuu, soittaja muokkaa suutaan sellaiseksi, että se saa D-kielen soimaan aukeavana. Tällöin aikaansaatu sävelkorkeus on D# eli puoli sävelaskelta korkeampi kuin saman reiän imusävel. Ylitaivutusta harjoitellessa saattaa soittajalta jäädä aluksi vahingossa sulkeutuva kieli soimaan samaan aikaan avautuvan kielen kanssa aiheuttaen kirskuvia hälyääniä.
 
-[soundcloud url="https://api.soundcloud.com/tracks/288963625" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="80" iframe="true" /]<br>
+<iframe width="100%" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/288963625&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><br>
 <em>Hälyääniä yrittäessä ylipuhaltaa A-duuriharpun 3-reiästä</em>
 
-[soundcloud url="https://api.soundcloud.com/tracks/288963628" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="80" iframe="true" /]<br>
+<iframe width="100%" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/288963628&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><br>
 <em>Hälyääniä yrittäessä ylipuhaltaa C-duuriharpun 5-reiästä</em>
 
-[soundcloud url="https://api.soundcloud.com/tracks/288963629" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="80" iframe="true" /]<br>
+<iframe width="100%" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/288963629&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><br>
 <em>Hälyääniä yrittäessä yli-imua</em>
 
-[soundcloud url="https://api.soundcloud.com/tracks/288963622" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="80" iframe="true" /]<br>
+<iframe width="100%" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/288963622&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><br>
 <em>Onnistuneet ylipuhallukset A-duuriharpun rei'istä 4. ja 6.</em>
 
 Haastavinta ylitaivutuksessa onkin ehkä löytää suuontelun muoto, joka sammuttaa sulkeutuvan kielen. Ylitaivutusta voi harjoitella aluksi irroittamalla huuliharpun kuoret ja sammuttamalla soitettavan reiän sulkeutuvan kielen sormella esim. harjoitellessa ylipuhallusta 4. reiästä sammutetaan sormella 4. reiän puhalluskieli. Sen jälkeen pyritään suuontelon tilaa muokkaamalla saamaan 4. reiän imukieli soimaan puhaltamalla.
@@ -29,10 +29,10 @@ Ylitaivutussäädöistä löytyy paljon tietoa myös englanninkieliseltä sivust
 
 Ylitaivutusten sointi eroaa hieman perustaivutuksista, sekä taivuttamattomasta äänestä. Taivutus- ja ylitaivutustekniikat hallitseva soittaja pystyy soittamaan diatonisella bluesharpulla täysin kromaattisesti.
 
-[soundcloud url="https://api.soundcloud.com/tracks/288784192" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="80" iframe="true" /]<br>
+<iframe width="100%" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/288784192&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><br>
 <em>Kaikki C-duuriharpun 4-reiästä saatavat sävelet taivutuksineen ja ylitaivutuksineen.</em>
 
-[soundcloud url="https://api.soundcloud.com/tracks/288784188" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="80" iframe="true" /]<br>
+<iframe width="100%" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/288784188&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><br>
 <em>Kaikki diatonisella 10-reikäisellä C-huuliharpulla saatavat sävelet taivutuksineen ja ylitaivutuksineen.</em>
 
 &nbsp;

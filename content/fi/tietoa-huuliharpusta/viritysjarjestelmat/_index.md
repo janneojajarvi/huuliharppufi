@@ -41,7 +41,7 @@ Country-virityksessä 5-reiän imuäänen (duuriasteikon 4. sävel) sävelkorkeu
 
 Monille suomalaisille mollissa soiville perinnesävelmille tyypillinen viritys. Siinä asteikon 3. ja 6. sävel (C-hapussa sävelet E ja A) on viritetty 1/2-sävelaskelta matalammalle, kuin Richter-virityksessä. Toimii mukavasti myös monissa klezmer-kappaleissa I ja II-asemista soitettuna.
 
-[soundcloud url="https://api.soundcloud.com/tracks/315742190" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="66" iframe="true" /]
+<iframe width="100%" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/315742190&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 <img src="/huuliharppufi/wp-content/uploads/2017/03/viritys_harmoninen-molli.jpg" alt="" class="wp-image-558" />
 
@@ -49,7 +49,7 @@ Monille suomalaisille mollissa soiville perinnesävelmille tyypillinen viritys. 
 
 Tässä variaatiossa on mahdollista soittaa harmonisen mollin 6. sävel ilman taivutuksia, joka tuo selkeyttä nopeisiin melodioihin esim. klezmer-melodioissa.
 
-[soundcloud url="https://api.soundcloud.com/tracks/315553579" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="66" iframe="true" /]
+<iframe width="100%" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/315553579&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 [<img src="/huuliharppufi/wp-content/uploads/2017/03/viritys_harmoninen-molli-paddy.jpg" alt="" class="wp-image-700" />](/huuliharppufi/wp-content/uploads/2017/03/viritys_harmoninen-molli-paddy.jpg)
 
@@ -63,7 +63,7 @@ Luonnolliseen molliin virittäessä on asteikon 3., 6. ja 7. sävel (C-hapussa s
 
 Huuliharppumestari Brendan Powerin kehittämä viritys, joka mahdollistaa ketterän melodiasoiton kahden oktaavin alueelta. Sopii hyvin melodiasoittoon. Siinä duuriasteikon 6. sävelen saa soitettua 3-reiästä ilman taivuttamista.
 
-[soundcloud url="https://api.soundcloud.com/tracks/315553592" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="66" iframe="true" /]
+<iframe width="100%" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/315553592&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 <img src="/huuliharppufi/wp-content/uploads/2017/03/viritys_paddyrichter.jpg" alt="" class="wp-image-561" />
 
@@ -77,7 +77,7 @@ Melody maker -virityksessä on nostettu 3. puhallusreiän säveltä kokosävelas
 
 Jouko Kyhälän kehittämä viritys, jossa viritetään 1. reiän imukieli ja 2. reiän puhalluskieli asteikon 5. säveleen (C-harpulla g:hen). Tämä mahdollistaa tukevan borduunasoiton, sillä se tuo borduunasoittoon yhden borduunakielen lisää sekä imu- että puhallusäänillä. Borduunavirityksellä borduunasoitto on myös helpompaa kuin richter-virityksellä. Virityksen nimi tulee muinaisesta suomalaisesta jouhikko-soittimesta, jossa käytettiin tyypillisesti borduuna-ääntä melodioiden säestykseen.
 
-[soundcloud url="https://api.soundcloud.com/tracks/315553597" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="66" iframe="true" /]
+<iframe width="100%" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/315553597&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 <img src="/huuliharppufi/wp-content/uploads/2017/03/viritys_jouhikko.jpg" alt="" class="wp-image-563" />
 
@@ -85,7 +85,7 @@ Jouko Kyhälän kehittämä viritys, jossa viritetään 1. reiän imukieli ja 2.
 
 Jouko Kyhälän kehittämä viritys, jossa 2. ja 5. reiän imuäänet on viritetty puolisävelaskelta korkeammalle, 7. reiän puhallussävel puolisävelaskelta matalammalle ja 3. reiän puhallussävel kokosävelaskeleen korkeammalle verrattuna richter-viritykseen. Kyhälä kehitti virityksen lähtökohtanaan perinnesävelmät joissa melodian modaliteetti vaihtelee esim. Korsnäsistä kotoisin olleen Johan Erik Taklaxin ohjelmistosta muinoin tallennetut sävelmät, joissa alaoktaavissa saattaa esiintyä molliterssi ja yläoktaavissa duuriterssi. Myös asteikon 6. sävelen korkeus saattaa vaihdella kesken kappaleen.
 
-[soundcloud url="https://api.soundcloud.com/tracks/315553584" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="66" iframe="true" /]
+<iframe width="100%" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/315553584&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 <img src="/huuliharppufi/wp-content/uploads/2017/03/viritys_taklax.jpg" alt="" class="wp-image-564" />
 
@@ -93,7 +93,7 @@ Jouko Kyhälän kehittämä viritys, jossa 2. ja 5. reiän imuäänet on viritet
 
 Tuplaborduuna-viritys on Janne Ojajärven kehittämä viritys, joka mahdollistaa borduunasoitossa kahden eri borduunasävelen käytön melodiaa säestämään. Siinä viritetään 2-reiän puhallusääni kokosävelaskel alaspäin. Viritykseen on mahdollista lisätä myös korkea borduuna virittämällä 10-reiän imusävel kokosävelaskel matalammaksi. Tätä viritystä voi kokeilla “turvallisesti” [kiinnittämällä pieni pala sinitarraa](/huuliharppufi/valiaikainen-viritys-alaspain-sinitarralla/) madallettaviin kieliin, kunnes vire on haluttu.
 
-[soundcloud url="https://api.soundcloud.com/tracks/315553604" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="66" iframe="true" /]
+<iframe width="100%" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/315553604&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 <img src="/huuliharppufi/wp-content/uploads/2017/03/viritys_tuplaborduuna.jpg" alt="" class="wp-image-565" />
 

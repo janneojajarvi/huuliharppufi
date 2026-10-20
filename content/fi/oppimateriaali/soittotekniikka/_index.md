@@ -14,8 +14,8 @@ Huuliharpun ensimmäinen henkäys tuottaa yleensä harmonisen duurisoinnun. Enne
 [Yksiääninen soitto](/huuliharppufi/oppimateriaali/soittotekniikka/yksiaaninen-soitto/)
 
 <ul class="wp-block-list">
-<li><a href="/huuliharppufi/oppimateriaali/soittotekniikka/huuliansatsi/">Huuliansatsi</a></li>
-<li><a href="/huuliharppufi/oppimateriaali/soittotekniikka/kieliansatsi/">Kieliansatsi</a></li>
+<li><a href="/huuliharppufi/huuliansatsi/">Huuliansatsi</a></li>
+<li><a href="/huuliharppufi/kieliansatsi/">Kieliansatsi</a></li>
 </ul>
 
 [Alukkeet ja kielitys](/huuliharppufi/oppimateriaali/soittotekniikka/alukkeet-ja-kielitys/)

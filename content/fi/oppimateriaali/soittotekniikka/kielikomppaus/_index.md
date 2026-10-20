@@ -11,7 +11,7 @@ Kielikomppauksessa soittaja soittaa jollain kieliansatsilla melodiaa yksiäänis
 
 Kielikompin harjoittelussa kannattaa keskittyä siihen, että hengitys ei tee muutoksia kompin rytmissä. Tarkoitus on pitää ilmavirta koko ajan tasaisena, jolloin rytmitys syntyy ainoastaan kielen liikkeistä.
 
-[soundcloud url="https://api.soundcloud.com/tracks/288963585" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="80" iframe="true" /]
+<iframe width="100%" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/288963585&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 <em>Kielikomppaus-esimerkki</em>
 
 [<img class="alignnone wp-image-393" src="/huuliharppufi/wp-content/uploads/2016/06/4-osakomppinuottikuva.jpg" alt="4-osakomppinuottikuva" width="446" height="116" />](/huuliharppufi/wp-content/uploads/2016/06/4-osakomppinuottikuva.jpg)

@@ -15,21 +15,21 @@ Diatonisella huuliharpulla trillit ja kortus tehdään tavallisesti samansuuntai
 
 *Triolikoru*
 
-[soundcloud url="https://api.soundcloud.com/tracks/288963603" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="80" iframe="true" /]
+<iframe width="100%" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/288963603&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 <em>Triolikoru</em>
 
 ![Trilli](/huuliharppufi/wp-content/uploads/2016/06/triolli_nuotti.jpg)
 
 *Trilli*
 
-[soundcloud url="https://api.soundcloud.com/tracks/288963607" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="80" iframe="true" /]
+<iframe width="100%" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/288963607&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 <em>Trilli</em>
 
 ![Etuheleet](/huuliharppufi/wp-content/uploads/2016/06/etuheleet_nuotti.jpg)
 
 *Etuheleet*
 
-[soundcloud url="https://api.soundcloud.com/tracks/288965800" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="80" iframe="true" /]
+<iframe width="100%" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/288965800&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 <em>Etuhele</em>
 
@@ -37,28 +37,28 @@ Diatonisella huuliharpulla trillit ja kortus tehdään tavallisesti samansuuntai
 
 *Glissando*
 
-[soundcloud url="https://api.soundcloud.com/tracks/288963612" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="80" iframe="true" /]
+<iframe width="100%" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/288963612&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 <em>Glissando</em>
 
 TAIVUTUSKORUT
 
 Bluesharpun taivutustekniikka tuo mahdollisuuden aivan omanlaisiinsa koruihin. Diatonisien korujen tapaiset triolikorut ja etuheleet voi soittaa myös taivutuskoruina. Erona taivutuskoruissa diatonisiin koruihin on kuitenkin se, että niissä sävelten välillä liu'utaan portaattomasti. Taivutuskorun intervalli on yleisimmin puolisävelaskel, mutta joissain rei'issä koru on mahdollista soittaa myös suuremmalla intervallilla esim. rei'issä 2, 3 ja 10. Taivutuskorut ovat soundiltaan hieman erilaisia kuin diatoniset korut.
 
-[soundcloud url="https://api.soundcloud.com/tracks/288963613" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="80" iframe="true" /]
+<iframe width="100%" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/288963613&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 <em>Taivutuskoruja</em>
 
 YLITAIVUTUSKORUT
 
 Ylitaivutuskorut mahdollistavat taivutuskorujen tyylisen portaattoman liu'un sävelestä toiseen. Ylitaivutuksilla on mahdollista taivuttaa säveltä noin puoli sävelaskelta ylöspäin sen taivuttamattomasta vireestä. Joistain rei'istä jopa enemmän esim. diatonisen C-duuriharpun 4. reiän ylipuhallusääntä voi taivuttaa ylöspäin aina jopa säveleen E asti. Ylipuhallus mahdollistaa siis yläpuolisten taivutuskorujen käytön.
 
-[soundcloud url="https://api.soundcloud.com/tracks/288963616" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="80" iframe="true" /]
+<iframe width="100%" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/288963616&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 <em>Ylitaivutuskoruja</em>
 
 VAIHTAJAKORUT
 
 Kromaattisella huuliharpulla on mahdollista soittaa diatonisten korujen lisäksi myös vaihtajamekanismin mahdollistavia koruja. Vaihtajaa painamalla sävelkorkeus nousee aina puolisävelaskelta ylemmäksi. Jos soittaja on valinnut sävellajin, jonka asteikossa vaihtaja on normaalisti pohjassa, niin korut ovat alapuolisia eli käyvät puoli sävelaskelta melodiaa matalammalla. Vaihtajakorujen sointimaailma riippuu pitkälti käytettävästä soittoasemasta.
 
-[soundcloud url="https://api.soundcloud.com/tracks/288963582" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="80" iframe="true" /]
+<iframe width="100%" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/288963582&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 <em>Vaihtajakoruja</em>
 Lähteet:
 
