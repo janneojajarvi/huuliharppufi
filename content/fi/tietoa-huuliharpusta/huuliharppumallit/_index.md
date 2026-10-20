@@ -21,7 +21,7 @@ Duurivireisiä diatonisia blueshuuliharppuja valmistetaan kaikissa sävellajeiss
 
 Yhdestä duuriviritteisestä bluesharpusta on mahdollista soittaa ilman taivutustekniikkaa seitsemän erilaista modaalista asteikkoa. Eri astekoiden soittamista kutsutaan yleisesti soittamiseksi eri [asemista](https://huuliharppusivu.wordpress.com/soittoasemat/).
 
-[soundcloud url="https://api.soundcloud.com/tracks/288963574" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="80" iframe="true" /]<br>
+<iframe width="100%" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/288963574&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><br>
 <em>C-duurivireinen diatoninen 10-reikäinen bluesharppu</em>
 
 &nbsp;
@@ -36,7 +36,7 @@ Kromaattisessa huuliharpussa jokaisen oktaavin kielijärjestys on samanlainen ku
 
 Kromaattinen harppu viritetään [tasavireiseksi](https://fi.wikipedia.org/wiki/Tasaviritys), joten siitä saatavat soinnut eivät soi yhtä puhtaasti kuin bluesharpussa. Kromaattisen huuliharpun toiminta perustuu vaihtajamekanismin lisäksi myös sen sisältämiin muovisiin venttiililäppiin, jotka vaikuttavat osaltaan sen sointiin, sekä soitettavuuteen. Kromaattisen harpun sointi on venttiililäppien ilmatiiviyden ansiosta kirkas. Venttiililäpät estävät kuitenkin kokonaisvaltaisen taivutustekniikan käytön. Sen kielet taipuvat hieman, mutta vain alle puolisävelaskeleen.
 
-[soundcloud url="https://api.soundcloud.com/tracks/288963578" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="80" iframe="true" /]<br>
+<iframe width="100%" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/288963578&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><br>
 <em>A-duurivireinen kromaattinen huuliharppu (Suzuki-merkkinen)</em>
 
 [<img src="/huuliharppufi/wp-content/uploads/2016/06/slide-oilrajaus.jpg" alt="Slide öljy" class="wp-image-327" />](/huuliharppufi/wp-content/uploads/2016/06/slide-oilrajaus.jpg)<figcaption class="wp-element-caption">Jotkut huuliharpistit käyttävät vaihtajamekanismissa Slide-öljyä</figcaption>
@@ -53,14 +53,14 @@ Parikielisissä huuliharpuissa yhtä säveltä tuottaa samaan aikaan kaksi eri k
 
 Tremoloviritteisissä harpuissa yhtä säveltä tuottaa kaksi samaan aikaan soivaa hieman eri korkeudelle viritettyä kieltä. Esimerkiksi matalimpien samaan aikaan soivien kielien korkeusero on noin 4-8 hertsiä. Samaan aikaan soivat kaksi hieman eri vireistä kieltä luovat sointiin huojuvankaltaisen tremolo-tehosteen. Tremoloviritteisiä harppuja valmistetaan sekä yksi- että kaksipuolisina. Yleensä kaksipuolisen tremoloharpun sävellajit ovat kvintin päässä toisistaan esim. C-duuri ja G-duuri. Suomessa suosittuja ovat olleet kuitenkin mallit, joissa toisella puolella on duurin sijaan molli esim. parina voivat olla a-molli ja C-duuri.
 
-[soundcloud url="https://api.soundcloud.com/tracks/288784183" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="80" iframe="true" /]<br>
+<iframe width="100%" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/288784183&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><br>
 <em>Parikielinen tremoloviritteinen Echo-huuliharppu</em>
 
 Oktaavivireinen huuliharppu on rakenteeltaan melko samanlainen kuin tremoloharppu. Siinä soiva sävelpari on kuitenkin toisistaan kauempana: oktaavin päässä. Tämä tuottaa melko tukevan soinnin, joka muistuttaa hieman yksirivisen haitarin oktaavi-äänikertaa.
 
 Suomessa yleisin oktaaviviritteinen malli on Hohnerin valmistama Comet-malli. Oktaaviviritteisiä huuliharppuja löytyy tremoloviritteisen tapaan myös kaksipuolisena, jolloin sävellajiparit ovat kvintin päässä toisistaan esim. C/G.
 
-[soundcloud url="https://api.soundcloud.com/tracks/288784185" params="auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true" width="100%" height="80" iframe="true" /]<br>
+<iframe width="100%" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/288784185&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><br>
 <em>Parikielinen oktaaviviritteinen Comet-huuliharppu</em>
 
 &nbsp;
@@ -75,7 +75,7 @@ Pitkä sointuhuuliharppu koostuu useista soinnuista, jotka saadaan soittamalla s
 
 Harmonetassa on päällä näppäimet, joista jokainen edustaa yhtä säveltä. Niitä painamalla saadaan yksi sävel kolmesta eri oktaavista riippuen puhallus- ja imupaikasta. Harmonetassa puhallus ja imu tuottavat aina saman sävelen tai soinnun. Harmonetan näppäinrakenne mahdollistaa duuri ja mollisointujen lisäksi myös sointujen soiton ilman terssiä, sekä monimutkaisimpien sointujen soiton kuten nelisoinnut ja vähennetyt soinnut. Harmonetan toiminnan takaavat venttiililäpät estävät taivutustekniikan tällä soittimella.
 
-[soundcloud url="https://api.soundcloud.com/tracks/288784182" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="80" iframe="true" /]<br>
+<iframe width="100%" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/288784182&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><br>
 <em>Sointuhuuliharppu "Harmonetta"</em>
 
 ### **Bassohuuliharp**pu
@@ -84,7 +84,7 @@ Harmonetassa on päällä näppäimet, joista jokainen edustaa yhtä säveltä. 
 
 Bassohuuliharpun toiminta eroaa muista huuliharpuista siinä, että sitä soitetaan ainoastaan puhaltamalla. Sen äänet on sijoitettu kahteen saranalla toisiinsa kiinnittyvään päällekkäiseen runkoon ja sen puhallusreikien soinnin tuottaa kaksi samanaikaisesti soivaa kieltä. Samanaikaisesti soivat kielet on viritetty oktaavin päähän toisistaan. Bassohuuliharpun soittotuntuma eroaa sen kielien suuren koon vuoksi muista huuliharpuista ja muihin harppuihin tottuneelle voi olla aluksi vaikea saada kaikkia parikieliä soimaan.
 
-[soundcloud url="https://api.soundcloud.com/tracks/288784190" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="80" iframe="true" /]<br>
+<iframe width="100%" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/288784190&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><br>
 <em>Hohnerin valmistama Bassohuuliharppu</em>
 
 ### Uudet innovaatiot
@@ -113,7 +113,7 @@ Ranskalainen valmistaja, joka hylkäsi perinteiset ruuvit. Heidän harpunsa on m
 
 Lähteet:
 
-Brendan Power. [http://brendan-power.com/](http://brendan-power.com/)  Katsottu 13.3.2026
+Brendan Power. [http://brendan-power.com/](http://brendan-power.com/)  Katsottu 13.3.2026
 
 Yonberg. [https://www.yonberg-harmonica.com](https://www.yonberg-harmonica.com) Katsottu 13.3.2026
 
@@ -124,4 +124,3 @@ Suzuki Music. [https://suzukimusic-global.com](https://suzukimusic-global.com) K
 Lekholm Instruments. [https://www.lekholminstruments.com/](https://www.lekholminstruments.com/) Katsottu 13.3.2026
 
 Jouko Kyhälä. 2007. Huuliharpun taipuisat kasvot. Kirjallinen työ: Vaaksan matkalla – diatonisen huuliharpun uudet mahdollisuudet. (Tohtorityö)
-
