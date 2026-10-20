@@ -26,9 +26,9 @@ Työkalu on vielä testivaiheessa, joten siitä voi löytyä vielä puutteita.
 <em>Kokeile työkalua </em><em>**[tästä linkistä](/huuliharppufi/harpputunefinder/)**</em><em> ja löydä uusi suosikkikappaleesi!</em>
 
 
-[<img src="https://huuliharppusivu.wordpress.com/huuliharppufi/wp-content/uploads/2026/04/esitkuva1fin-1.jpeg" alt="HarpTuneFinder" class="wp-image-4301" />](https://huuliharppusivu.wordpress.com/huuliharppufi/wp-content/uploads/2026/04/esitkuva1fin-1.jpeg)<figcaption class="wp-element-caption">Screenshot</figcaption>
+[<img src="/huuliharppufi/huuliharppufi/wp-content/uploads/2026/04/esitkuva1fin-1.jpeg" alt="HarpTuneFinder" class="wp-image-4301" />](/huuliharppufi/huuliharppufi/wp-content/uploads/2026/04/esitkuva1fin-1.jpeg)<figcaption class="wp-element-caption">Screenshot</figcaption>
 
-[<img src="https://huuliharppusivu.wordpress.com/huuliharppufi/wp-content/uploads/2026/04/esitkuva2fin-1.jpeg" alt="HarpTuneFinder" class="wp-image-4300" />](https://huuliharppusivu.wordpress.com/huuliharppufi/wp-content/uploads/2026/04/esitkuva2fin-1.jpeg)<figcaption class="wp-element-caption">Screenshot</figcaption>
+[<img src="/huuliharppufi/huuliharppufi/wp-content/uploads/2026/04/esitkuva2fin-1.jpeg" alt="HarpTuneFinder" class="wp-image-4300" />](/huuliharppufi/huuliharppufi/wp-content/uploads/2026/04/esitkuva2fin-1.jpeg)<figcaption class="wp-element-caption">Screenshot</figcaption>
 
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />

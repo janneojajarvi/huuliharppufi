@@ -27,6 +27,6 @@ With this application, you can search thousands of tunes directly from **TheSess
 
 <em> </em>
 
-[<img src="https://huuliharppusivu.wordpress.com/huuliharppufi/wp-content/uploads/2026/04/screenshot_20260407_193019_chrome8884504396162424982.jpg" alt="Find, convert, and play! Introducing the ultimate tool for harmonica players. Search thousands of folk tunes, generate automatic tabs, and filter songs based on your playing technique." class="wp-image-4338" />](https://huuliharppusivu.wordpress.com/huuliharppufi/wp-content/uploads/2026/04/screenshot_20260407_193534_chrome7386542716639509746.jpg)
+[<img src="/huuliharppufi/huuliharppufi/wp-content/uploads/2026/04/screenshot_20260407_193019_chrome8884504396162424982.jpg" alt="Find, convert, and play! Introducing the ultimate tool for harmonica players. Search thousands of folk tunes, generate automatic tabs, and filter songs based on your playing technique." class="wp-image-4338" />](/huuliharppufi/huuliharppufi/wp-content/uploads/2026/04/screenshot_20260407_193534_chrome7386542716639509746.jpg)
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />

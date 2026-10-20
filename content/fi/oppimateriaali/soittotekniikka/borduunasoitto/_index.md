@@ -9,7 +9,7 @@ Diatonisella 10-reikäisellä huuliharpulla eli "bluesharpulla" on mahdollista s
 
 Borduunasoittoon hyviä harjoituksia ovat muun muassa kappaleet joita arkistoäänitteiden perusteella on soitettu jouhikolla. Jouhikkokappaleet ovat ns. vanhan kerrostuman kansanmusiikkia, jonka estetiikka on verrattavissa muun muassa runonlauluun ja pienkanteleiden soittoon. Niissä tiettyä melodianpätkää tai teemaa soitetaan toistuvasti soittajan tyylin mukaan jatkuvasti hieman muunnellen. Tämä tekee sen minimalistisesta melodiikasta jatkuvaa ja alati muuntuvaa.
 
-Borduunasoitto vaatii hyvän [pariäänien ](https://huuliharppusivu.wordpress.com/soittotekniikka/pariaanien-soitto/)hallinnan.
+Borduunasoitto vaatii hyvän [pariäänien ](/huuliharppufi/oppimateriaali/soittotekniikka/pariaanien-soitto/)hallinnan.
 
 <img src="/huuliharppufi/wp-content/uploads/2015/11/borduunasoittoa.jpg" alt="borduunasoittoa" class="wp-image-450" />
 

@@ -7,39 +7,36 @@ type: "page"
 
 Huuliharpun ensimmäinen henkäys tuottaa yleensä harmonisen duurisoinnun. Ennen ensimmäistä henkäystä kannattaa huuliharppua lämmittää käsien välissä tai taskussa hetken ajan. Aloita rauhallisella ilmavirralla ennenkuin puhkut siihen kovasti. Huuliharpun käyttöikää pidentää sen rauhallinen lämmittely ennen kovaa soittoa. Lämmittelyn ei kuitenkaan tarvitse kestää kauaa.
 
-[Soittoasento](https://huuliharppusivu.wordpress.com/soittotekniikka/soittoasento/)
+[Soittoasento](/huuliharppufi/oppimateriaali/soittotekniikka/soittoasento/)
 
-[Hengitys](https://huuliharppusivu.wordpress.com/soittotekniikka/hengitys/)
+[Hengitys](/huuliharppufi/oppimateriaali/soittotekniikka/hengitys/)
 
-[Yksiääninen soitto](https://huuliharppusivu.wordpress.com/soittotekniikka/yksiaaninen-soitto/)
+[Yksiääninen soitto](/huuliharppufi/oppimateriaali/soittotekniikka/yksiaaninen-soitto/)
 
 <ul class="wp-block-list">
-<li>[Huuliansatsi](/huuliharppufi/huuliansatsi/)</li>
-
-<li>[Kieliansatsi](/huuliharppufi/kieliansatsi/)</li>
+<li><a href="/huuliharppufi/oppimateriaali/soittotekniikka/huuliansatsi/">Huuliansatsi</a></li>
+<li><a href="/huuliharppufi/oppimateriaali/soittotekniikka/kieliansatsi/">Kieliansatsi</a></li>
 </ul>
 
-[Alukkeet ja kielitys](https://huuliharppusivu.wordpress.com/alukkeet-ja-kielitys/)
+[Alukkeet ja kielitys](/huuliharppufi/oppimateriaali/soittotekniikka/alukkeet-ja-kielitys/)
 
-[Taivutus](https://huuliharppusivu.wordpress.com/taivutus/)
+[Taivutus](/huuliharppufi/oppimateriaali/soittotekniikka/taivutus/)
 
-[Komppaus (ilman kielikomppia)](https://huuliharppusivu.wordpress.com/komppaus-ilman-kielikomppia/)
+[Komppaus (ilman kielikomppia)](/huuliharppufi/oppimateriaali/soittotekniikka/komppaus-ilman-kielikomppia/)
 
-[Kielikomppaus](https://huuliharppusivu.wordpress.com/soittotekniikka/kielikomppaus/)
+[Kielikomppaus](/huuliharppufi/oppimateriaali/soittotekniikka/kielikomppaus/)
 
-[Pariäänisoitto](https://huuliharppusivu.wordpress.com/soittotekniikka/pariaanien-soitto/)
+[Pariäänisoitto](/huuliharppufi/oppimateriaali/soittotekniikka/pariaanien-soitto/)
 
-[Borduunasoitto](https://huuliharppusivu.wordpress.com/soittotekniikka/borduunasoitto/)
+[Borduunasoitto](/huuliharppufi/oppimateriaali/soittotekniikka/borduunasoitto/)
 
-[Korut](https://huuliharppusivu.wordpress.com/soittotekniikka/korut/)
+[Korut](/huuliharppufi/oppimateriaali/soittotekniikka/korut/)
 
-[Käsitremolo ja käsiefektit](https://huuliharppusivu.wordpress.com/soittotekniikka/kasitremolo-ja-kasiefektit/)
+[Käsitremolo ja käsiefektit](/huuliharppufi/oppimateriaali/soittotekniikka/kasitremolo-ja-kasiefektit/)
 
-[Vibratot](https://huuliharppusivu.wordpress.com/soittotekniikka/vibratot/)
+[Vibratot](/huuliharppufi/oppimateriaali/soittotekniikka/vibratot/)
 
-[Ylitaivutus](https://huuliharppusivu.wordpress.com/soittotekniikka/ylitaivutus/)
+[Ylitaivutus](/huuliharppufi/oppimateriaali/soittotekniikka/ylitaivutus/)
 
-[Kromaattinen huuliharppu](/huuliharppufi/harjoituksia-ja-kappaleita-kromaattiselle-huuliharpulle/)
-
-&nbsp;
+[Kromaattinen huuliharppu](/huuliharppufi/oppimateriaali/harjoituksia-ja-kappaleita-kromaattiselle-huuliharpulle/)
 
