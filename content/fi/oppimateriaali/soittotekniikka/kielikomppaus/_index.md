@@ -14,7 +14,7 @@ Kielikompin harjoittelussa kannattaa keskittyä siihen, että hengitys ei tee mu
 [soundcloud url="https://api.soundcloud.com/tracks/288963585" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="80" iframe="true" /]
 <em>Kielikomppaus-esimerkki</em>
 
-[<img class="alignnone wp-image-393" src="/wp-content/uploads/2016/06/4-osakomppinuottikuva.jpg?w=300" alt="4-osakomppinuottikuva" width="446" height="116" />](/huuliharppufi/wp-content/uploads/2016/06/4-osakomppinuottikuva.jpg)
+[<img class="alignnone wp-image-393" src="/huuliharppufi/wp-content/uploads/2016/06/4-osakomppinuottikuva.jpg?w=300" alt="4-osakomppinuottikuva" width="446" height="116" />](/huuliharppufi/wp-content/uploads/2016/06/4-osakomppinuottikuva.jpg)
 <em>Kielikomppia neljäsosille</em>
 
 Lähteet:

@@ -12,11 +12,11 @@ Kielen juuren vahaaminen auttaa pääsemään eroon ei-toivotuista häiriöään
 
 Avuksi tähän on käytetty muun muassa mehiläisvahaa, kynsilakkaa tai ortodonttista vahaa. Ortodonttinen vaha kestää melko hyvin kosteutta ja on helppo poistaa, jonka takia monet suosivat sitä. Pieni määrä vahaa laitetaan kielen juureen niin että sitä on vain kielen päällä.
 
-[<img class="wp-image-428 size-medium" src="/wp-content/uploads/2016/06/vahatutjuuret.jpg?w=300" alt="Vahatutjuuret" width="300" height="198" />](/huuliharppufi/wp-content/uploads/2016/06/vahatutjuuret.jpg) Ortodonttisella vahalla vahatut kielien juuret
+[<img class="wp-image-428 size-medium" src="/huuliharppufi/wp-content/uploads/2016/06/vahatutjuuret.jpg?w=300" alt="Vahatutjuuret" width="300" height="198" />](/huuliharppufi/wp-content/uploads/2016/06/vahatutjuuret.jpg) Ortodonttisella vahalla vahatut kielien juuret
 
-[<img class="wp-image-326 size-medium" src="/wp-content/uploads/2016/06/ortopedinenvahaaukirajaus.jpg?w=300" alt="OrtopedinenVahaAukiRajaus" width="300" height="239" />](/huuliharppufi/wp-content/uploads/2016/06/ortopedinenvahaaukirajaus.jpg) Ortodonttista vahaa myydään mm. apteekeissa.
+[<img class="wp-image-326 size-medium" src="/huuliharppufi/wp-content/uploads/2016/06/ortopedinenvahaaukirajaus.jpg?w=300" alt="OrtopedinenVahaAukiRajaus" width="300" height="239" />](/huuliharppufi/wp-content/uploads/2016/06/ortopedinenvahaaukirajaus.jpg) Ortodonttista vahaa myydään mm. apteekeissa.
 
-[<img class="size-medium wp-image-325 alignleft" src="/wp-content/uploads/2016/06/ortopedinenvahakiinnirajaus.jpg?w=300" alt="OrtopedinenVahaKiinniRajaus" width="300" height="192" />](/huuliharppufi/wp-content/uploads/2016/06/ortopedinenvahakiinnirajaus.jpg)
+[<img class="size-medium wp-image-325 alignleft" src="/huuliharppufi/wp-content/uploads/2016/06/ortopedinenvahakiinnirajaus.jpg?w=300" alt="OrtopedinenVahaKiinniRajaus" width="300" height="192" />](/huuliharppufi/wp-content/uploads/2016/06/ortopedinenvahakiinnirajaus.jpg)
 
 &nbsp;
 

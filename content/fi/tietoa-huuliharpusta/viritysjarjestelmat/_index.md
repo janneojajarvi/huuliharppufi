@@ -29,13 +29,13 @@ Alla lueteltuna muutamia blueshuuliharppujen virityksiä. Käytännössä virity
 
 Diatonisien huuliharppujen standardi on ns. “Richter”-viritys. Siinä puhaltamalla sointu mistä tahansa rei’istä saadaan soimaan huuliharpun oman sävellajin duurisointu esim. C-harpulla C-duurisointu. Richter-virityksessä 2-reiän imusävel ja 3-reiän puhallusävel ovat samankorkuiset.
 
-<img src="/wp-content/uploads/2017/03/viritys_richter.jpg?w=300" alt="" class="wp-image-556" />
+<img src="/huuliharppufi/wp-content/uploads/2017/03/viritys_richter.jpg?w=300" alt="" class="wp-image-556" />
 
 ### Country-viritys (Country tuning)
 
 Country-virityksessä 5-reiän imuäänen (duuriasteikon 4. sävel) sävelkorkeutta on nostettu puoli sävelaskelta ylöspäin, jolloin siitä voidaan soittaa sekä richter-viritystä korkeampi sävel, että alaspäin taivuttamalla richter-virityksen sävel. Country-viritys helpottaa kappaleiden soittoa, jossa näitä kumpaakin säveltä käytetään.
 
-<img src="/wp-content/uploads/2017/03/viritys_country.jpg?w=300" alt="" class="wp-image-557" />
+<img src="/huuliharppufi/wp-content/uploads/2017/03/viritys_country.jpg?w=300" alt="" class="wp-image-557" />
 
 ### Harmoninen molli (Harmonic minor tuning)
 
@@ -43,7 +43,7 @@ Monille suomalaisille mollissa soiville perinnesävelmille tyypillinen viritys. 
 
 [soundcloud url="https://api.soundcloud.com/tracks/315742190" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="66" iframe="true" /]
 
-<img src="/wp-content/uploads/2017/03/viritys_harmoninen-molli.jpg?w=300" alt="" class="wp-image-558" />
+<img src="/huuliharppufi/wp-content/uploads/2017/03/viritys_harmoninen-molli.jpg?w=300" alt="" class="wp-image-558" />
 
 ### Harmoninen molli Paddy Richter -variaatio
 
@@ -51,13 +51,13 @@ Tässä variaatiossa on mahdollista soittaa harmonisen mollin 6. sävel ilman ta
 
 [soundcloud url="https://api.soundcloud.com/tracks/315553579" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="66" iframe="true" /]
 
-[<img src="/wp-content/uploads/2017/03/viritys_harmoninen-molli-paddy.jpg?w=300" alt="" class="wp-image-700" />](/huuliharppufi/wp-content/uploads/2017/03/viritys_harmoninen-molli-paddy.jpg)
+[<img src="/huuliharppufi/wp-content/uploads/2017/03/viritys_harmoninen-molli-paddy.jpg?w=300" alt="" class="wp-image-700" />](/huuliharppufi/wp-content/uploads/2017/03/viritys_harmoninen-molli-paddy.jpg)
 
 ### Luonnollinen molli (Natural minor tuning)
 
 Luonnolliseen molliin virittäessä on asteikon 3., 6. ja 7. sävel (C-hapussa sävelet E ja A) viritetty 1/2-sävelaskelta matalammalle (verrattuna richter-viritykseen).
 
-<img src="/wp-content/uploads/2017/03/viritys_luonnollinen-molli.jpg?w=300" alt="" class="wp-image-559" />
+<img src="/huuliharppufi/wp-content/uploads/2017/03/viritys_luonnollinen-molli.jpg?w=300" alt="" class="wp-image-559" />
 
 ### Paddy Richter -viritys (Paddy Richter tuning)
 
@@ -65,13 +65,13 @@ Huuliharppumestari Brendan Powerin kehittämä viritys, joka mahdollistaa ketter
 
 [soundcloud url="https://api.soundcloud.com/tracks/315553592" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="66" iframe="true" /]
 
-<img src="/wp-content/uploads/2017/03/viritys_paddyrichter.jpg?w=300" alt="" class="wp-image-561" />
+<img src="/huuliharppufi/wp-content/uploads/2017/03/viritys_paddyrichter.jpg?w=300" alt="" class="wp-image-561" />
 
 ### Melody maker -viritys (Melody maker -tuning)
 
 Melody maker -virityksessä on nostettu 3. puhallusreiän säveltä kokosävelaskel ja asteikon 4. säveltä (C-harpulla F) puoli sävelaskelta. Kehitetty melodiasoittoon.
 
-<img src="/wp-content/uploads/2017/03/viritys_melodymaker.jpg?w=300" alt="" class="wp-image-562" />
+<img src="/huuliharppufi/wp-content/uploads/2017/03/viritys_melodymaker.jpg?w=300" alt="" class="wp-image-562" />
 
 ### Jouhikkoviritys
 
@@ -79,7 +79,7 @@ Jouko Kyhälän kehittämä viritys, jossa viritetään 1. reiän imukieli ja 2.
 
 [soundcloud url="https://api.soundcloud.com/tracks/315553597" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="66" iframe="true" /]
 
-<img src="/wp-content/uploads/2017/03/viritys_jouhikko.jpg?w=300" alt="" class="wp-image-563" />
+<img src="/huuliharppufi/wp-content/uploads/2017/03/viritys_jouhikko.jpg?w=300" alt="" class="wp-image-563" />
 
 ### Taklax-viritys
 
@@ -87,7 +87,7 @@ Jouko Kyhälän kehittämä viritys, jossa 2. ja 5. reiän imuäänet on viritet
 
 [soundcloud url="https://api.soundcloud.com/tracks/315553584" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="66" iframe="true" /]
 
-<img src="/wp-content/uploads/2017/03/viritys_taklax.jpg?w=300" alt="" class="wp-image-564" />
+<img src="/huuliharppufi/wp-content/uploads/2017/03/viritys_taklax.jpg?w=300" alt="" class="wp-image-564" />
 
 ### Tuplaborduuna-viritys (Double Drone tuning)
 
@@ -95,19 +95,19 @@ Tuplaborduuna-viritys on Janne Ojajärven kehittämä viritys, joka mahdollistaa
 
 [soundcloud url="https://api.soundcloud.com/tracks/315553604" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="66" iframe="true" /]
 
-<img src="/wp-content/uploads/2017/03/viritys_tuplaborduuna.jpg?w=300" alt="" class="wp-image-565" />
+<img src="/huuliharppufi/wp-content/uploads/2017/03/viritys_tuplaborduuna.jpg?w=300" alt="" class="wp-image-565" />
 
 ### Laajennettu Richter-viritys (Richter Extended tuning)
 
 Tässä virityksessä on viritetty koko harppu samassa suhteessa kuin kolme ensimmäistä reikää on viritetty richter-virityksessä. Käytännössä asteikon 4. ja 6. sävel on poistettu kokonaan, mutta ne saadaan soitettua taivuttamalla. Laajennettu richter-viritys mahdollistaa hieman kromaattisemman soiton verrattuna tavanomaiseen richter-viritykseen.
 
-<img src="/wp-content/uploads/2017/03/viritys_richterlaajennettu.jpg?w=300" alt="" class="wp-image-566" />
+<img src="/huuliharppufi/wp-content/uploads/2017/03/viritys_richterlaajennettu.jpg?w=300" alt="" class="wp-image-566" />
 
 ### PowerBender-viritys (PowerBender tuning)
 
 Brendan Powerin kehittämä viritys. Mahdollistaa hieman kromaattisemman soiton kuin Richter-viritys mm. asteikon 3. sävel on mahdollista soittaa matalampana ns. molliterssinä ilman ylitaivutustekniikan käyttöä.
 
-<img src="/wp-content/uploads/2017/03/viritys_powerbender.jpg?w=300" alt="" class="wp-image-571" />
+<img src="/huuliharppufi/wp-content/uploads/2017/03/viritys_powerbender.jpg?w=300" alt="" class="wp-image-571" />
 
 ### PowerDraw-viritys (PowerDraw tuning)
 
