@@ -7,9 +7,9 @@ type: "page"
 
 Hyvä soittoasento on ryhdikäs vapaan ilmavirran salliva asento. Älä kurota päätä soittimen luo vaan pidä pää suorassa ja tuo soitin suusi luokse. Klassisessa soitto-otteessa vasen käsi pitelee huuliharppua ja oikea käsi asettuu sen päälle "kupiksi". Oikealla kädellä säädellään sointia ja toteutetaan mahdollisia käsitehosteita. Reikien numerot alkavat vasemmalta ja kasvavat oikealle mennessä. Tällöin vasemmalle jäävät matalimmat sävelet ja oikealle korkeimmat.
 
-[<img src="/huuliharppufi/wp-content/uploads/2015/10/soitto-ote1.jpg" alt="soitto-ote1" class="wp-image-352" />](/huuliharppufi/wp-content/uploads/2015/10/soitto-ote1.jpg)
+[<img src="/huuliharppufi/wp-content/uploads/2015/10/soitto-ote1.jpg" style="max-width: 100%; height: auto; display: block; margin: 15px 0; border-radius: 4px;" />](/huuliharppufi/wp-content/uploads/2015/10/soitto-ote1.jpg)
 
-[<img src="/huuliharppufi/wp-content/uploads/2015/10/soitto-ote2.jpg" alt="soitto-ote2" class="wp-image-351" />](/huuliharppufi/wp-content/uploads/2015/10/soitto-ote2.jpg)
+[<img src="/huuliharppufi/wp-content/uploads/2015/10/soitto-ote2.jpg" style="max-width: 100%; height: auto; display: block; margin: 15px 0; border-radius: 4px;" />](/huuliharppufi/wp-content/uploads/2015/10/soitto-ote2.jpg)
 
 Seuraavaksi huuliharppu tuodaan huulien väliin. Huulten tulisi olla mahdollisimman rentoina. Mitä syvemmällä soitin on huulten välissä, sitä muhkeampi sointi huuliharpusta on mahdollista saada. Sointia hallitaankin pääosin suun tilavuutta muuttamalla. Soinnin akustinen viimeistely tehdään oikean käden otetta muuttelemalla.&nbsp; Huuliharpun soiton voi aloittaa ensimmäiseksi vain puhaltamalla ja sisäänhengittämällä sen läpi.
 
