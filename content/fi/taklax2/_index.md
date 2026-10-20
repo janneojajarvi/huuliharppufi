@@ -13,6 +13,6 @@ Played with Taklax-tuned C harp.
 
 [More about Taklax-tuning.](/huuliharppufi/viritysjarjestelmat/)
 
-[Taklax-tuning chart.](/huuliharppufi/wp-content/uploads/2017/03/viritys_taklax.jpg?w=440&amp;h=237)
+[Taklax-tuning chart.](/huuliharppufi/wp-content/uploads/2017/03/viritys_taklax.jpg&amp;h=237)
 
 #harmonica #bluesharp #traditionalfolk #folkmusic #onlinelessons #skypelessons #finnishfolkharmonica #huuliharppu #bluesharppu #huuliharppuopetus #etäsoittotunnit

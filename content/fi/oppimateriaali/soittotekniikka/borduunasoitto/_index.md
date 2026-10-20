@@ -11,7 +11,7 @@ Borduunasoittoon hyvi채 harjoituksia ovat muun muassa kappaleet joita arkisto채�
 
 Borduunasoitto vaatii hyv채n [pari채채nien ](https://huuliharppusivu.wordpress.com/soittotekniikka/pariaanien-soitto/)hallinnan.
 
-<img src="/huuliharppufi/wp-content/uploads/2015/11/borduunasoittoa.jpg?w=300" alt="borduunasoittoa" class="wp-image-450" />
+<img src="/huuliharppufi/wp-content/uploads/2015/11/borduunasoittoa.jpg" alt="borduunasoittoa" class="wp-image-450" />
 
 [soundcloud url="https://api.soundcloud.com/tracks/288963600" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="80" iframe="true" /]<br>
 <em>Borduunasoittoa A-duuriharpulla</em>

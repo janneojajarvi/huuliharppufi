@@ -9,4 +9,4 @@ Nyt voit ennakkotilata Hurja Halla -yhtyeen toisen albumi "Surma hiihti" ja tuke
 
 https://mesenaatti.me/3784/hurja-halla-surma-hiihti-albumin-cd-ennakkotilaus/
 
-![](https://huuliharppusivu.wordpress.com/wp-content/uploads/2025/05/dsc010408913852367652541983143822124156198617.jpg?w=1024)
+![](https://huuliharppusivu.wordpress.com/wp-content/uploads/2025/05/dsc010408913852367652541983143822124156198617.jpg)

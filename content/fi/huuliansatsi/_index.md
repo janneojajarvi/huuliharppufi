@@ -9,7 +9,7 @@ HUULIANSATSI (engl. lipping tai pucker)
 
 Huuliansatsi eli huulitekniikka on tekniikka jossa ilma ohjataan haluttuun reikään huuliharpussa pelkästään huulien avulla. Siinä muodostetaan huulilla pieni aukko, josta ilma mahtuu kulkemaan vain yhteen reikään kerralla. Tällä tekniikalla soittaessa on mahdollista käyttää taivutustekniikoita sujuvasti. Huuliansatsin heikkouksia taas on se, että pariäänien soitto ei ole mahdollista huulitekniikalla eli esim. 3- ja 5- reikien soitto samaan aikaan ilman 4-reikää. Tämä on mahdollista käyttämällä [kieliansatsia](/huuliharppufi/kieliansatsi/).
 
-![Huuliansatsi](/huuliharppufi/wp-content/uploads/2015/10/huuliansatsi.jpg?w=300)
+![Huuliansatsi](/huuliharppufi/wp-content/uploads/2015/10/huuliansatsi.jpg)
 
 *Huuliansatsi*
 
