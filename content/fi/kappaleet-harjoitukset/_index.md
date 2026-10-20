@@ -7,7 +7,7 @@ type: "page"
 
 ### Bluesharppu:
 
-[Kappaleita ja harjoituksia](/huuliharppufi/kappaleet-harjoitukset/)
+[Kappaleita ja harjoituksia](/huuliharppufi/kappaleet-ja-harjoitukset/)
 
 [Lisää kappaleita pelkkinä tabulatuureina](https://www.learntheharmonica.com/free-beatles-harmonica-tabs)
 
