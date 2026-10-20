@@ -5,7 +5,7 @@ title: "Uusi huuliharppuopaskirja julkaistu! / New harmonica book published!"
 date: "2022-01-17"
 ---
 
-![](/huuliharppufi/wp-content/uploads/2022/01/komulainen-ojajarvi-turpahotlan-ensitahdit4913997483244498255861.jpg)
+![](/huuliharppufi/huuliharppufi/wp-content/uploads/2022/01/komulainen-ojajarvi-turpahotlan-ensitahdit4913997483244498255861.jpg)
 
 In English below.
 

@@ -23,29 +23,25 @@ Kielikulman säätö lyhyesti:
  	<li>Ei niin lähelle että se menee kieliaukon reunan alle</li>
  	<li>Pyritään säilyttämään kielen kaareva muoto</li>
 </ol>
-[<img class="alignleft wp-image-314 size-medium" src="/wp-content/uploads/2016/06/kielikulma_kompromissirajaus.jpg" alt="Kompromissikielikulma" width="300" height="175" />](/huuliharppufi/wp-content/uploads/2016/06/kielikulma_kompromissirajaus.jpg)Imukielen kielikulma säädettynä kompromissikorkeudelle, jolloin taivutukset sekä äänekäs soitto onnistuu helposti. [kuva perussoittotavalle säädetystä kielestä]
+[<img class="alignleft wp-image-314 size-medium" src="/huuliharppufi/wp-content/uploads/2016/06/kielikulma_kompromissirajaus.jpg" alt="Kompromissikielikulma" width="300" height="175" />](/huuliharppufi/huuliharppufi/wp-content/uploads/2016/06/kielikulma_kompromissirajaus.jpg)Imukielen kielikulma säädettynä kompromissikorkeudelle, jolloin taivutukset sekä äänekäs soitto onnistuu helposti. [kuva perussoittotavalle säädetystä kielestä]
 
-[<img class="alignleft wp-image-315 size-medium" src="/wp-content/uploads/2016/06/kielikulmaliianisorajaus.jpg" alt="Suuri kielikulma" width="300" height="187" />](/huuliharppufi/wp-content/uploads/2016/06/kielikulmaliianisorajaus.jpg) Imukielen kielikulma säädettynä tosi suureksi. Näin suuri kulma on useimmiten liian suuri. Kieli ei syty helposti ja taivuttaminen on vaikeaa. Tällä kulmalla kielet kuluvat nopeasti.
+[<img class="alignleft wp-image-315 size-medium" src="/huuliharppufi/wp-content/uploads/2016/06/kielikulmaliianisorajaus.jpg" alt="Suuri kielikulma" width="300" height="187" />](/huuliharppufi/huuliharppufi/wp-content/uploads/2016/06/kielikulmaliianisorajaus.jpg) Imukielen kielikulma säädettynä tosi suureksi. Näin suuri kulma on useimmiten liian suuri. Kieli ei syty helposti ja taivuttaminen on vaikeaa. Tällä kulmalla kielet kuluvat nopeasti.
 
-[<img class="size-medium wp-image-332 alignleft" src="/wp-content/uploads/2015/11/kielikulmaliianpienirajaus.jpg" alt="Kielikulma liian pieni" width="300" height="209" />](/huuliharppufi/wp-content/uploads/2015/11/kielikulmaliianpienirajaus.jpg)Imukielen kielikulma säädettynä liian pieneksi. Kieli ei syty ollenkaan soimaan, sillä ilma ei pääse virtaamaan sen ohitse.
-
-&nbsp;
-
-[<img class="wp-image-333 size-large" src="/wp-content/uploads/2015/11/kielikulmaylitaivutusrajaus.jpg" alt="Kielikulma Ylitaivutus" width="474" height="113" />](/huuliharppufi/wp-content/uploads/2015/11/kielikulmaylitaivutusrajaus.jpg) Ylitaivutuksia varten pieneksi säädetty puhalluskielen kielikulma.
-
-[<img class="size-medium wp-image-334 alignleft" src="/wp-content/uploads/2015/11/kielikulmansacc88acc88tocc88puhalluskieli.jpg" alt="kielikulmansäätö Puhalluskieli" width="300" height="245" />](/huuliharppufi/wp-content/uploads/2015/11/kielikulmansacc88acc88tocc88puhalluskieli.jpg) Kielikulmaa voi säätää myös käyttäen messinkistä työkalua. Tässä kuvassa kielikulmaa suurennetaan.
+[<img class="size-medium wp-image-332 alignleft" src="/huuliharppufi/wp-content/uploads/2015/11/kielikulmaliianpienirajaus.jpg" alt="Kielikulma liian pieni" width="300" height="209" />](/huuliharppufi/huuliharppufi/wp-content/uploads/2015/11/kielikulmaliianpienirajaus.jpg)Imukielen kielikulma säädettynä liian pieneksi. Kieli ei syty ollenkaan soimaan, sillä ilma ei pääse virtaamaan sen ohitse.
 
 &nbsp;
 
-&nbsp;
+[<img class="wp-image-333 size-large" src="/huuliharppufi/wp-content/uploads/2015/11/kielikulmaylitaivutusrajaus.jpg" alt="Kielikulma Ylitaivutus" width="474" height="113" />](/huuliharppufi/huuliharppufi/wp-content/uploads/2015/11/kielikulmaylitaivutusrajaus.jpg) Ylitaivutuksia varten pieneksi säädetty puhalluskielen kielikulma.
 
-&nbsp;
-
-[<img class="size-medium wp-image-335 alignleft" src="/wp-content/uploads/2015/11/kielikulmansacc88acc88tocc88imukieli.jpg" alt="kielikulmansäätö Imukieli" width="288" height="300" />](/huuliharppufi/wp-content/uploads/2015/11/kielikulmansacc88acc88tocc88imukieli.jpg)Imukielen kielikulman pienentäminen kynnellä juuresta hieromalla.
+[<img class="size-medium wp-image-334 alignleft" src="/huuliharppufi/wp-content/uploads/2015/11/kielikulmansacc88acc88tocc88puhalluskieli.jpg" alt="kielikulmansäätö Puhalluskieli" width="300" height="245" />](/huuliharppufi/huuliharppufi/wp-content/uploads/2015/11/kielikulmansacc88acc88tocc88puhalluskieli.jpg) Kielikulmaa voi säätää myös käyttäen messinkistä työkalua. Tässä kuvassa kielikulmaa suurennetaan.
 
 &nbsp;
 
 &nbsp;
+
+&nbsp;
+
+[<img class="size-medium wp-image-335 alignleft" src="/huuliharppufi/wp-content/uploads/2015/11/kielikulmansacc88acc88tocc88imukieli.jpg" alt="kielikulmansäätö Imukieli" width="288" height="300" />](/huuliharppufi/huuliharppufi/wp-content/uploads/2015/11/kielikulmansacc88acc88tocc88imukieli.jpg)Imukielen kielikulman pienentäminen kynnellä juuresta hieromalla.
 
 &nbsp;
 
@@ -55,7 +51,11 @@ Kielikulman säätö lyhyesti:
 
 &nbsp;
 
-[<img class="size-medium wp-image-717 alignleft" src="/wp-content/uploads/2017/11/img_20171114_145150-1.jpg" alt="" width="225" height="300" />](/huuliharppufi/wp-content/uploads/2017/11/img_20171114_145150-1.jpg)Imukielen kielikulman suurentaminen irroittamatta kielilaattoja kammasta. Tämän voi tehdä periaatteessa vaikka hammastikulla. Kevyesti hieroen, vähän kerrallaan. Varsinkin jos teet tätä ensimmäistä kertaa.
+&nbsp;
+
+&nbsp;
+
+[<img class="size-medium wp-image-717 alignleft" src="/huuliharppufi/wp-content/uploads/2017/11/img_20171114_145150-1.jpg" alt="" width="225" height="300" />](/huuliharppufi/huuliharppufi/wp-content/uploads/2017/11/img_20171114_145150-1.jpg)Imukielen kielikulman suurentaminen irroittamatta kielilaattoja kammasta. Tämän voi tehdä periaatteessa vaikka hammastikulla. Kevyesti hieroen, vähän kerrallaan. Varsinkin jos teet tätä ensimmäistä kertaa.
 
 &nbsp;
 

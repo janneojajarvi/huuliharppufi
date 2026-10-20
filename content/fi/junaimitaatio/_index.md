@@ -7,4 +7,4 @@ type: "page"
 
 Junaimitaatioksi kutsutaan konsonenteilla aksentoitua höyryveturin äänimaailmaa matkivaa soittoa. Junarytmi koostuu vikkelästi aksentoiduista imulla ja puhalluksella saatavista soinnuista, joista luodaan vaihtelemalla erilaisia yhdistelmiä. Tämä toteutetaan perinteisesti huuliharpun sävelkorkeudeltaan matalassa päässä.
 
-[Tässä eräs versio junaimitaatiosta.](/huuliharppufi/wp-content/uploads/2015/10/junaimitaatio.pdf)
+[Tässä eräs versio junaimitaatiosta.](/huuliharppufi/huuliharppufi/wp-content/uploads/2015/10/junaimitaatio.pdf)

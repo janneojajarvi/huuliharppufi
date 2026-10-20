@@ -11,7 +11,7 @@ Huuliharpun soitinperheeseen kuuluu monen monta toinen toistaan kiehtovampaa mal
 
 ### **Diatoninen bluesharppu**
 
-[<img src="/wp-content/uploads/2016/06/bluesharppurajaus.jpg" alt="Bluesharppu" class="wp-image-310" />](/huuliharppufi/wp-content/uploads/2016/06/bluesharppurajaus.jpg)
+[<img src="/huuliharppufi/wp-content/uploads/2016/06/bluesharppurajaus.jpg" alt="Bluesharppu" class="wp-image-310" />](/huuliharppufi/huuliharppufi/wp-content/uploads/2016/06/bluesharppurajaus.jpg)
 
 Tämä malli on tunnetusti huuliharppujen ns. kantaisä. Siinä on kymmenen reikää, joista jokaisessa on yksi imu- ja yksi puhalluskieli. Bluesharpusta on myös olemassa useamman reiän omaavia malleja. Bluesharpun sointi on melko kirkasta ja erottuva, joten se ei useimmiten peity akustisten pienten yhtyeiden alle.
 
@@ -28,7 +28,7 @@ Yhdestä duuriviritteisestä bluesharpusta on mahdollista soittaa ilman taivutus
 
 ### **Kromaattinen huuliharppu vaihtajamekanismilla**
 
-[<img src="/wp-content/uploads/2016/06/kromaattinenrajaus.jpg" alt="Kromaattinen huuliharppu" class="wp-image-316" />](/huuliharppufi/wp-content/uploads/2016/06/kromaattinenrajaus.jpg)
+[<img src="/huuliharppufi/wp-content/uploads/2016/06/kromaattinenrajaus.jpg" alt="Kromaattinen huuliharppu" class="wp-image-316" />](/huuliharppufi/huuliharppufi/wp-content/uploads/2016/06/kromaattinenrajaus.jpg)
 
 Kromaattinen huuliharppu kehitettiin 1920-luvulla ja nousi nopeasti suosioon jazzmusiikin piireissä. Sen kolmioktaavisessa mallissa on 12 reikää, joita jokaista kohden on neljä kieltä. Kromaattisen harpun vaihtajamekanismi kuitenkin ohjaa ilman vain yhdelle imu-puhalluskieliparille kerrallaan.
 
@@ -39,15 +39,15 @@ Kromaattinen harppu viritetään [tasavireiseksi](https://fi.wikipedia.org/wiki/
 [soundcloud url="https://api.soundcloud.com/tracks/288963578" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="80" iframe="true" /]<br>
 <em>A-duurivireinen kromaattinen huuliharppu (Suzuki-merkkinen)</em>
 
-[<img src="/wp-content/uploads/2016/06/slide-oilrajaus.jpg" alt="Slide öljy" class="wp-image-327" />](/huuliharppufi/wp-content/uploads/2016/06/slide-oilrajaus.jpg)<figcaption class="wp-element-caption">Jotkut huuliharpistit käyttävät vaihtajamekanismissa Slide-öljyä</figcaption>
+[<img src="/huuliharppufi/wp-content/uploads/2016/06/slide-oilrajaus.jpg" alt="Slide öljy" class="wp-image-327" />](/huuliharppufi/huuliharppufi/wp-content/uploads/2016/06/slide-oilrajaus.jpg)<figcaption class="wp-element-caption">Jotkut huuliharpistit käyttävät vaihtajamekanismissa Slide-öljyä</figcaption>
 
 &nbsp;
 
 ### **Parikieliset huuliharput**
 
-[<img src="/wp-content/uploads/2016/06/echoharppurajaus.jpg" alt="Tremoloviritteinen harppu" class="wp-image-312" />](/huuliharppufi/wp-content/uploads/2016/06/echoharppurajaus.jpg)<figcaption class="wp-element-caption">Tremoloviritteinen harppu (Hohner Echo)</figcaption>
+[<img src="/huuliharppufi/wp-content/uploads/2016/06/echoharppurajaus.jpg" alt="Tremoloviritteinen harppu" class="wp-image-312" />](/huuliharppufi/huuliharppufi/wp-content/uploads/2016/06/echoharppurajaus.jpg)<figcaption class="wp-element-caption">Tremoloviritteinen harppu (Hohner Echo)</figcaption>
 
-[<img src="/wp-content/uploads/2016/06/cometrajaus.jpg" alt="Oktaaviviritteinen harppu" class="wp-image-311" />](/huuliharppufi/wp-content/uploads/2016/06/cometrajaus.jpg)<figcaption class="wp-element-caption">Oktaaviviritteinen harppu (Hohner Comet)</figcaption>
+[<img src="/huuliharppufi/wp-content/uploads/2016/06/cometrajaus.jpg" alt="Oktaaviviritteinen harppu" class="wp-image-311" />](/huuliharppufi/huuliharppufi/wp-content/uploads/2016/06/cometrajaus.jpg)<figcaption class="wp-element-caption">Oktaaviviritteinen harppu (Hohner Comet)</figcaption>
 
 Parikielisissä huuliharpuissa yhtä säveltä tuottaa samaan aikaan kaksi eri kieltä. Niissä kampa on jaettu poikittaissuunnassa kahteen riviin. Koska ilma kulkee niissä samaan aikaan kahteen reikään, ovat taivutustekniikat niillä huomattavasti hankalampia kuin bluesharpulla. Parikielisiä huuliharppuja on kahdentyyppisiä: tremoloviritteisiä ja oktaaviviritteisiä.
 
@@ -67,7 +67,7 @@ Suomessa yleisin oktaaviviritteinen malli on Hohnerin valmistama Comet-malli. Ok
 
 ### **Sointuhuuliharp**pu
 
-[<img src="/wp-content/uploads/2016/06/harmonettarajaus.jpg" alt="Harmonetta" class="wp-image-313" />](/huuliharppufi/wp-content/uploads/2016/06/harmonettarajaus.jpg)<figcaption class="wp-element-caption">Hohner Harmonetta</figcaption>
+[<img src="/huuliharppufi/wp-content/uploads/2016/06/harmonettarajaus.jpg" alt="Harmonetta" class="wp-image-313" />](/huuliharppufi/huuliharppufi/wp-content/uploads/2016/06/harmonettarajaus.jpg)<figcaption class="wp-element-caption">Hohner Harmonetta</figcaption>
 
 Sointuhuuliharput ovat erityisesti sointusoittoon tarkoitettuja huuliharppuja. Niillä melodian soitto on huomattavasti kömpelömpää kuin muillla huuliharpuilla (pl. bassohuuliharppu). Yleisimmät sointuhuuliharput ovat pitkän mallinen sointuhuuliharppu ja Harmonetta.
 
@@ -80,7 +80,7 @@ Harmonetassa on päällä näppäimet, joista jokainen edustaa yhtä säveltä. 
 
 ### **Bassohuuliharp**pu
 
-[<img src="/wp-content/uploads/2016/06/bassoharppurajaus.jpg" alt="Bassohuuliharppu" class="wp-image-309" />](/huuliharppufi/wp-content/uploads/2016/06/bassoharppurajaus.jpg)
+[<img src="/huuliharppufi/wp-content/uploads/2016/06/bassoharppurajaus.jpg" alt="Bassohuuliharppu" class="wp-image-309" />](/huuliharppufi/huuliharppufi/wp-content/uploads/2016/06/bassoharppurajaus.jpg)
 
 Bassohuuliharpun toiminta eroaa muista huuliharpuista siinä, että sitä soitetaan ainoastaan puhaltamalla. Sen äänet on sijoitettu kahteen saranalla toisiinsa kiinnittyvään päällekkäiseen runkoon ja sen puhallusreikien soinnin tuottaa kaksi samanaikaisesti soivaa kieltä. Samanaikaisesti soivat kielet on viritetty oktaavin päähän toisistaan. Bassohuuliharpun soittotuntuma eroaa sen kielien suuren koon vuoksi muista huuliharpuista ja muihin harppuihin tottuneelle voi olla aluksi vaikea saada kaikkia parikieliä soimaan.
 
