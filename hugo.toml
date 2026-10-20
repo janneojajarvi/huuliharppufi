@@ -19,3 +19,41 @@ defaultContentLanguageInSubdir = false
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+
+# --- OPPIMATERIAALI -VALIKKO ---
+[[menu.main]]
+    identifier = "Oppimateriaali"
+    name = "Oppimateriaali"
+    url = "/huuliharppufi/oppimateriaali/"
+    weight = 30
+
+[[menu.main]]
+    name = "Soittotekniikka"
+    parent = "Oppimateriaali"
+    url = "/huuliharppufi/oppimateriaali/soittotekniikka/"
+    weight = 31
+
+[[menu.main]]
+    name = "Kappaleet ja harjoitukset"
+    parent = "Oppimateriaali"
+    url = "/huuliharppufi/kappaleet-ja-harjoitukset/"
+    weight = 32
+
+[[menu.main]]
+    name = "Huuliharppunuottien luku"
+    parent = "Oppimateriaali"
+    url = "/huuliharppufi/oppimateriaali/huuliharppunuottien-luku/"
+    weight = 33
+
+[[menu.main]]
+    name = "Soittoasemat"
+    parent = "Oppimateriaali"
+    url = "/huuliharppufi/oppimateriaali/soittoasemat/"
+    weight = 34
+
+[[menu.main]]
+    name = "Opetusvideot"
+    parent = "Oppimateriaali"
+    url = "/huuliharppufi/oppimateriaali/opetusvideot/"
+    weight = 35
