@@ -7,7 +7,7 @@ type: "page"
 
 Huuliharpisti, laulaja, yläsävelhuilisti. Janne Ojajärvi on muusikko, ääniteknikko, musiikkipedagogi ja kulttuurin sekatyöläinen. Esiintyessään Janne Ojajärvi sukeltaa pelimannimusiikin kautta yläsävelien ja muinaisien mielenmaisemien maailmaan. Mukanaan hänellä on teollistumisen ajan luomus – huuliharppu. Turpahöylän teollistuneen soinnin vastapainoksi Jannen konserteissa kuullaan myös pitkähuilua ja kurkkulaulua, joiden sointi myötäilee luonnonsävelasteikkoa.
 
-<img class="wp-image-729 alignright" src="/huuliharppufi/wp-content/uploads/2019/04/janneharppukuva.jpg" alt="janneharppukuva" width="314" height="183">
+<img class="wp-image-729 alignright" src="/wp-content/uploads/2019/04/janneharppukuva.jpg" alt="janneharppukuva" width="314" height="183">
 
 Janne Ojajärvi jättää persoonallisen jälkensä huuliharpun ja pitkähuilun perinteeseen yhdistelemällä niiden soittoon modernia beatboxia ja rouheaa kurkkulaulua, sekä suomalaiseen kansanperinteeseen pohjautuvaa tarinankerrontaa ja loitsintaa.
 
@@ -23,4 +23,4 @@ Janne on myös kokenut äänittäjä ja livemiksaaja. Hän valmistui vuonna 2011
 ### **[www.janneojajarvi.com](https://janneojajarvi.com/)**
 https://www.youtube.com/results?search_query=janne+ojaj%C3%A4rvi
 
-[<img class="wp-image-728 size-full" src="/huuliharppufi/wp-content/uploads/2019/04/jannen-maisteritutkintokuva.jpg" alt="jannen maisteritutkintokuva.jpg" width="356" height="237">](/huuliharppufi/wp-content/uploads/2015/10/13859062433_a15e916e44_o.jpg)Kuva: Liisa Haapanen
+[<img class="wp-image-728 size-full" src="/wp-content/uploads/2019/04/jannen-maisteritutkintokuva.jpg" alt="jannen maisteritutkintokuva.jpg" width="356" height="237">](/huuliharppufi/wp-content/uploads/2015/10/13859062433_a15e916e44_o.jpg)Kuva: Liisa Haapanen

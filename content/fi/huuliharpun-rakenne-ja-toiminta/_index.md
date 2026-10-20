@@ -7,7 +7,7 @@ type: "page"
 
 ### HUULIHARPUN RAKENNE
 
-[<img src="/huuliharppufi/wp-content/uploads/2015/10/kuvaharpunosista1.jpg" alt="Huuliharpun osat" class="wp-image-279" />](/huuliharppufi/wp-content/uploads/2015/10/kuvaharpunosista1.jpg)
+[<img src="/wp-content/uploads/2015/10/kuvaharpunosista1.jpg" alt="Huuliharpun osat" class="wp-image-279" />](/huuliharppufi/wp-content/uploads/2015/10/kuvaharpunosista1.jpg)
 
 Diatoninen 10-reikäinen "bluesharppu" koostuu viidestä osasta, jotka kiinnittyvät toisiinsa ruuveilla tai nauloilla. Päällimmäisenä huuliharpussa ovat ylä- ja alakuoret. Kuoret suojaavat kieliä ja suuntaavat ääntä. Kuorten materiaali on yleensä joko terästä, nikkelipäällysteistä messinkiä tai muovia. Kuorten malli (paksuus, reiät) ja materiaali vaikuttavat huuliharpun sointiin merkittävästi.
 
@@ -21,7 +21,7 @@ Diatonisen huuliharpun kammassa on reiät kymmenelle reiälle, jotka ovat jokain
 
 Kielien materiaali on yleensä joko messinkiä, fosforipronsia tai terästä. Messinkiset kielet ovat ehkä yleisin kielien materiaali. Fosforipronssia käyttää muun muassa huuliharppuvalmistaja Suzuki. Teräskieliä taas on käyttänyt muun muassa Ceydel-yhtiö muutamissa malleissaan.
 
-[<img src="/huuliharppufi/wp-content/uploads/2015/10/bluesharppureiacc88tnumeroineen.jpg" alt="Bluesharpun reiät numeroineen" class="wp-image-348" />](/huuliharppufi/wp-content/uploads/2015/10/bluesharppureiacc88tnumeroineen.jpg)<figcaption class="wp-element-caption">Bluesharpun reiät on numeroitu 1-10</figcaption>
+[<img src="/wp-content/uploads/2015/10/bluesharppureiacc88tnumeroineen.jpg" alt="Bluesharpun reiät numeroineen" class="wp-image-348" />](/huuliharppufi/wp-content/uploads/2015/10/bluesharppureiacc88tnumeroineen.jpg)<figcaption class="wp-element-caption">Bluesharpun reiät on numeroitu 1-10</figcaption>
 
 &nbsp;
 
@@ -29,7 +29,7 @@ Kielien materiaali on yleensä joko messinkiä, fosforipronsia tai terästä. Me
 
 Huuliharppu kuuluu vapaalehdykkäsoittimien soitinperheeseen. Samantapaisen toimintaperiaatteen omaavat sellaiset soittimet kuin haitari, polkuharmooni ja munniharppu. Huuliharpussa ääntä tuottavat ilmavirran voimasta kapeassa kieliaukossa värähtelevät metallikielit. Kielen värähtelyyn vaikuttavat sen materiaali, pituus, massa ja muoto. Pitkä kieli värähtelee hitaammin ja tuottaa matalamman äänenkorkeuden kuin lyhyt kieli.
 
-[<img src="/huuliharppufi/wp-content/uploads/2015/10/kielentoiminta.jpg" alt="Kielen toiminta" class="wp-image-349" />](/huuliharppufi/wp-content/uploads/2015/10/kielentoiminta.jpg)
+[<img src="/wp-content/uploads/2015/10/kielentoiminta.jpg" alt="Kielen toiminta" class="wp-image-349" />](/huuliharppufi/wp-content/uploads/2015/10/kielentoiminta.jpg)
 
 [Täältä voit tutkia huuliharpun toimintaa intervaktiivisen huuliharpun sävelkartan avulla. ](https://codepen.io/Janne-Ojaj-rvi/full/ZYpKRaW) © Janne Ojajärvi
 

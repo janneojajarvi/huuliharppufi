@@ -3,7 +3,7 @@ title: "Uusi huuliharppuopaskirja julkaistu! / New harmonica book published!"
 type: "post"
 ---
 
-<img src="/huuliharppufi/wp-content/uploads/2022/01/komulainen-ojajarvi-turpahotlan-ensitahdit4913997483244498255861.jpg" alt="" class="wp-image-1609" />
+<img src="/wp-content/uploads/2022/01/komulainen-ojajarvi-turpahotlan-ensitahdit4913997483244498255861.jpg" alt="" class="wp-image-1609" />
 
 In English below.
 
