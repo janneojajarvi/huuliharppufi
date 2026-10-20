@@ -11,21 +11,21 @@ DIATONISET KORUT
 
 Diatonisella huuliharpulla trillit ja kortus tehdään tavallisesti samansuuntaisella hengityksellä, jolloin ne syntyvät sulavasti ja tasaisesti. Koruja on mahdollista soittaa myös hengityksen suuntaa vaativien sävelten välillä, mutta nopeissa tempoissa niiden soittaminen on haastavampaa ja kömpelömpää verrattuna samansuuntaisiin koruihin. Käytännössä samansuuntaisten korujen intervalli on normaaliviritteisillä bluesharpuilla joko sekunti, terssi tai kvartti. Samansuuntaiset korut on sujuvaa soittaa mm. liikuttamalla nopeasti huuliharppua suun edessä tai alaleukaasi sivusuunnassa.
 
-![Triolikoru](/huuliharppufi/huuliharppufi/wp-content/uploads/2016/06/triolikoru_nuotti.jpg)
+![Triolikoru](/huuliharppufi/wp-content/uploads/2016/06/triolikoru_nuotti.jpg)
 
 *Triolikoru*
 
 [soundcloud url="https://api.soundcloud.com/tracks/288963603" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="80" iframe="true" /]
 <em>Triolikoru</em>
 
-![Trilli](/huuliharppufi/huuliharppufi/wp-content/uploads/2016/06/triolli_nuotti.jpg)
+![Trilli](/huuliharppufi/wp-content/uploads/2016/06/triolli_nuotti.jpg)
 
 *Trilli*
 
 [soundcloud url="https://api.soundcloud.com/tracks/288963607" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="80" iframe="true" /]
 <em>Trilli</em>
 
-![Etuheleet](/huuliharppufi/huuliharppufi/wp-content/uploads/2016/06/etuheleet_nuotti.jpg)
+![Etuheleet](/huuliharppufi/wp-content/uploads/2016/06/etuheleet_nuotti.jpg)
 
 *Etuheleet*
 
@@ -33,7 +33,7 @@ Diatonisella huuliharpulla trillit ja kortus tehdään tavallisesti samansuuntai
 
 <em>Etuhele</em>
 
-![Glissando](/huuliharppufi/huuliharppufi/wp-content/uploads/2016/06/glissando_nuotti.jpg)
+![Glissando](/huuliharppufi/wp-content/uploads/2016/06/glissando_nuotti.jpg)
 
 *Glissando*
 

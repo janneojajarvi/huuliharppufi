@@ -51,7 +51,7 @@ Tässä variaatiossa on mahdollista soittaa harmonisen mollin 6. sävel ilman ta
 
 [soundcloud url="https://api.soundcloud.com/tracks/315553579" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="66" iframe="true" /]
 
-[<img src="/huuliharppufi/wp-content/uploads/2017/03/viritys_harmoninen-molli-paddy.jpg" alt="" class="wp-image-700" />](/huuliharppufi/huuliharppufi/wp-content/uploads/2017/03/viritys_harmoninen-molli-paddy.jpg)
+[<img src="/huuliharppufi/wp-content/uploads/2017/03/viritys_harmoninen-molli-paddy.jpg" alt="" class="wp-image-700" />](/huuliharppufi/wp-content/uploads/2017/03/viritys_harmoninen-molli-paddy.jpg)
 
 ### Luonnollinen molli (Natural minor tuning)
 

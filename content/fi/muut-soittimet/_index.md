@@ -13,7 +13,7 @@ Pitkähuilu on perinteinen suomalainen yläsävelhuilu. Soitin on puhalluspääs
 
 Lisää tietoa ja itseopiskelumateriaalia pitkähuilusta tarjoaa Janne Ojajärven laatima kattava pitkähuilusivusto: [www.overtoneflute.fi.](https://www.overtoneflute.fi/)
 
-[<img src="/huuliharppufi/wp-content/uploads/2020/03/img_20190426_192750.jpg" alt="" class="wp-image-877" />](/huuliharppufi/huuliharppufi/wp-content/uploads/2020/03/img_20190426_192750.jpg)
+[<img src="/huuliharppufi/wp-content/uploads/2020/03/img_20190426_192750.jpg" alt="" class="wp-image-877" />](/huuliharppufi/wp-content/uploads/2020/03/img_20190426_192750.jpg)
 
 Opetuksen sisältö: Pitkähuilun (overtone flute, sälgflöjt, seljefløyte, pikkvile, kalyuka) soittoa vasta-alkajille ja pidemmälle harrastuksessa edenneille.
 
@@ -21,7 +21,7 @@ Opetuksen sisältö: Pitkähuilun (overtone flute, sälgflöjt, seljefløyte, pi
 
 Munniharppu lienee yksi maailman vanhimmista ja levinneimmistä soittimista. Soittimesta on yleisessä käytössä myös nimitykset jew’s harp ja jaw harp. Myös mouth-harp -nimeä kuulee käytettävän. Suomessa soitinta on kutsuttu munniharpun lisäksi nimillä märistysrauta ja suuharppu. Vanhimmat Suomesta löydetyt märistysraudat ajoittuvat keskiajan lopulle, 1400-1500 -luvuille. Kolme vanhinta munniharppua on löydetty Kuusiston linnan raunioista. Kuten muutkin Suomesta löydetyt munniharput, ne on valmistettu raudasta.
 
-[<img src="/huuliharppufi/wp-content/uploads/2020/03/img_20200121_122008.jpg" alt="Munniharppuja" class="wp-image-875" />](/huuliharppufi/huuliharppufi/wp-content/uploads/2020/03/img_20200121_122008.jpg)
+[<img src="/huuliharppufi/wp-content/uploads/2020/03/img_20200121_122008.jpg" alt="Munniharppuja" class="wp-image-875" />](/huuliharppufi/wp-content/uploads/2020/03/img_20200121_122008.jpg)
 
 Opetuksen sisältö: Munniharpun soittoa vasta-alkajille ja pidemmälle harrastuksessa edenneille. Opetuksen aihealueita: Hengitystekniikka, yläsävelien kuuleminen, soittotekniikka, yläsävelasteikko, kurkunpään sulkeminen, rytmit, korut, palleavärinä, munniharpun huolto ja viritys, harjoitukset, ohjelmisto (perinnekappaleet norjasta, suomesta, ruotsista ja virosta, sekä sävelletyt kappaleet), jne.
 

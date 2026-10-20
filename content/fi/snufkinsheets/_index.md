@@ -5,9 +5,9 @@ title: "Snufkin tabs / Nuuska Muikkunen tabulatuurinuotit"
 type: "page"
 ---
 
-[Nuuska Muikkusen tanssimelodia / Snufkin dance melody](/huuliharppufi/huuliharppufi/wp-content/uploads/2022/03/nuuska-muikkusen-tanssimelodia-rytmitabs.pdf)
+[Nuuska Muikkusen tanssimelodia / Snufkin dance melody](/huuliharppufi/wp-content/uploads/2022/03/nuuska-muikkusen-tanssimelodia-rytmitabs.pdf)
 
-[Nuuska Muikkusen siltamelodia / Snufkin bridge melody](/huuliharppufi/huuliharppufi/wp-content/uploads/2022/03/nuuska_muikkusen_siltamelodia_rytmitabs.pdf)
+[Nuuska Muikkusen siltamelodia / Snufkin bridge melody](/huuliharppufi/wp-content/uploads/2022/03/nuuska_muikkusen_siltamelodia_rytmitabs.pdf)
 
 <em>(Tekijänoikeudellisista syistä en voi jakaa täällä varsinaista nuottia / Because of copyrights I can't share here a complete sheet music)</em>
 

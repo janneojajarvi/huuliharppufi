@@ -11,7 +11,7 @@ Eräs tapa vähentää ilman vuoto huuliharpun kamman ja kuorien välistä on k�
 
 [liimauskuva tulossa]
 
-[<img class="wp-image-323 size-medium" src="/huuliharppufi/wp-content/uploads/2016/06/leukoflexrajaus.jpg" alt="LeukoFlex" width="300" height="221" />](/huuliharppufi/huuliharppufi/wp-content/uploads/2016/06/leukoflexrajaus.jpg) Leuko Flex -vedenkestävä ihoteippi
+[<img class="wp-image-323 size-medium" src="/huuliharppufi/wp-content/uploads/2016/06/leukoflexrajaus.jpg" alt="LeukoFlex" width="300" height="221" />](/huuliharppufi/wp-content/uploads/2016/06/leukoflexrajaus.jpg) Leuko Flex -vedenkestävä ihoteippi
 
 Lähteet:
 

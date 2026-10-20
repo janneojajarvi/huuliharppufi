@@ -1,3 +1,19 @@
+baseURL = "https://janneojajarvi.github.io/huuliharppufi/"
+title = "Huuliharppu.fi"
+theme = "ananke"
+
+defaultContentLanguage = "fi"
+defaultContentLanguageInSubdir = false
+
+[languages]
+  [languages.fi]
+    languageName = "Suomi"
+    weight = 1
+    contentDir = "content/fi"
+  [languages.en]
+    languageName = "English"
+    weight = 2
+    contentDir = "content/en"
 
 [markup]
   [markup.goldmark]

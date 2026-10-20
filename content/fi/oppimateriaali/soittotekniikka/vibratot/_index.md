@@ -29,8 +29,8 @@ Suuvibrato saadaan aikaan muotoilemalla suun sisätila eri vokaalien mukaisiin a
 [soundcloud url="https://api.soundcloud.com/tracks/288963652" params="color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="80" iframe="true" /]
 <em>Suuvibrato venttilillisellä D-duuriharpulla. Venttiilit mahdollistavat hieman eri sointisen vibraton mm. puhallussävelillä</em>
 
-[<img class="alignnone size-medium wp-image-422" src="/huuliharppufi/wp-content/uploads/2016/06/d-venttiiliharppu_pieni.jpg" alt="d-venttiiliharppu_pieni" width="300" height="174" />](/huuliharppufi/huuliharppufi/wp-content/uploads/2016/06/d-venttiiliharppu_pieni.jpg)
-<em>[<img class="alignnone size-medium wp-image-421" src="/huuliharppufi/wp-content/uploads/2016/06/d-venttiiliharppu2.jpg" alt="d-venttiiliharppu2" width="300" height="163" />](/huuliharppufi/huuliharppufi/wp-content/uploads/2016/06/d-venttiiliharppu2.jpg)</em>
+[<img class="alignnone size-medium wp-image-422" src="/huuliharppufi/wp-content/uploads/2016/06/d-venttiiliharppu_pieni.jpg" alt="d-venttiiliharppu_pieni" width="300" height="174" />](/huuliharppufi/wp-content/uploads/2016/06/d-venttiiliharppu_pieni.jpg)
+<em>[<img class="alignnone size-medium wp-image-421" src="/huuliharppufi/wp-content/uploads/2016/06/d-venttiiliharppu2.jpg" alt="d-venttiiliharppu2" width="300" height="163" />](/huuliharppufi/wp-content/uploads/2016/06/d-venttiiliharppu2.jpg)</em>
 <em>Venttiileillä varustettu D-huuliharppu</em>
 
 &nbsp;
