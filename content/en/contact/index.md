@@ -8,6 +8,7 @@ type: "page"
 Email: ojajarvijanne (at) gmail dot com
 
 You can also contact me with this form:
+
 edit
 
 <form action="https://formspree.io/f/moejpdvb" method="POST" style="max-width: 600px; display: flex; flex-direction: column; gap: 15px; margin-top: 20px;">
