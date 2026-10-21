@@ -27,7 +27,7 @@ NEW DIGITAL SHEET MUSIC AVAILABLE: [Finnish traditional folk harmonica tunes.](h
 
 [Bending exercise ](/huuliharppufi/wp-content/uploads/2017/04/taivutusharjoitus.pdf) <a href="https://soundcloud.com/huuliharppufi/taivutusharjoitus" style="display: inline-block; background: #fff; padding: 2px 5px; border: 1px solid #e0e0e0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.15); vertical-align: middle; margin-left: 6px;"><img src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="Audio" width="20" height="20" style="vertical-align: middle; display: inline-block;" /></a>
 
-**Finnish and Nordic folk music tunes<br /> **
+**Finnish and Nordic folk music tunes**
 
 [Tutskovin polska (polska) ](/huuliharppufi/wp-content/uploads/2015/10/tutskovin-polska.pdf) <a href="https://soundcloud.com/huuliharppufi/tutskovin-polska" style="display: inline-block; background: #fff; padding: 2px 5px; border: 1px solid #e0e0e0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.15); vertical-align: middle; margin-left: 6px;"><img src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="Audio" width="20" height="20" style="vertical-align: middle; display: inline-block;" /></a>
 
@@ -81,7 +81,7 @@ NEW DIGITAL SHEET MUSIC AVAILABLE: [Finnish traditional folk harmonica tunes.](h
 
 [The Last Pint ](/huuliharppufi/wp-content/uploads/2017/02/the_last_pint.pdf) <a href="https://soundcloud.com/huuliharppufi/the-last-pint" style="display: inline-block; background: #fff; padding: 2px 5px; border: 1px solid #e0e0e0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.15); vertical-align: middle; margin-left: 6px;"><img src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="Audio" width="20" height="20" style="vertical-align: middle; display: inline-block;" /></a>
 
-**Blues **<em>(part of the links lead to site harptabs.com)</em>
+**Blues** <em>(some of the links lead to site harptabs.com)</em>
 
 [Blues 1](/huuliharppufi/wp-content/uploads/2015/10/blues-1.pdf) <a href="https://soundcloud.com/huuliharppufi/blues-1" style="display: inline-block; background: #fff; padding: 2px 5px; border: 1px solid #e0e0e0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.15); vertical-align: middle; margin-left: 6px;"><img src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="Audio" width="20" height="20" style="vertical-align: middle; display: inline-block;" /></a>
 
@@ -93,7 +93,7 @@ NEW DIGITAL SHEET MUSIC AVAILABLE: [Finnish traditional folk harmonica tunes.](h
 
 Backing tracks for improvisation and jamming can be found from e. g. YouTube with search word "[Blues backing track](https://www.youtube.com/results?search_query=blues+backing+track)". E.g. playing with C harp 2nd position -&gt;  "[Blues backing track G](https://www.youtube.com/results?search_query=blues+backing+track+G)".
 
-**Pop/rock **<em>(part of the links lead to site harmonica.com)</em>**<br /> **
+**Pop/rock** <em>(part of the links lead to site harmonica.com)</em>
 
 [The Beatles - Love me do](http://www.harmonica.com/love-me-do-harp-riff-by-the-beatles-2138.html)
 
@@ -123,7 +123,7 @@ Backing tracks for improvisation and jamming can be found from e. g. YouTube wit
 
 [Simon and Garfunkel - The Sound of Silence](http://www.harmonica.com/sound-of-silence-by-simon-and-garfunkel-1868.html)
 
-**Christmas songs<br /> **
+**Christmas songs**
 
 [En etsi valtaa loistoa ](/huuliharppufi/wp-content/uploads/2017/02/en-etsi-valtaa-loistoa.pdf) <a href="https://soundcloud.com/huuliharppufi/en-etsi-valtaa-loistoa" style="display: inline-block; background: #fff; padding: 2px 5px; border: 1px solid #e0e0e0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.15); vertical-align: middle; margin-left: 6px;"><img src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="Audio" width="20" height="20" style="vertical-align: middle; display: inline-block;" /></a>
 
