@@ -7,7 +7,7 @@ type: "page"
 
 **ONLINE LESSONS**
 
-Janne Ojajärvi offers **harmonica**, **willow flute** (**overtone flute**) and** throat singing** lessons. <span class="tlid-translation translation" lang="en"><span class="" title="">The lessons can be held in Helsinki or remotely</span></span> by Skype or similar programs like Zoom and Facetime. You only need your own instrument, computer with camera+microphone (e.g. laptop) and internet connection. Janne Ojajärvi offers also lessons for jaw harp (jew's harp/mouth harp) and throat singing.
+Janne Ojajärvi offers **harmonica**, **willow flute** (**overtone flute**) and (**throat singing**) lessons. <span class="tlid-translation translation" lang="en"><span class="" title="">The lessons can be held in Helsinki or remotely</span></span> by Skype or similar programs like Zoom and Facetime. You only need your own instrument, computer with camera+microphone (e.g. laptop) and internet connection. Janne Ojajärvi offers also lessons for jaw harp (jew's harp/mouth harp) and throat singing.
 
 Lessons will be customised according to the needs and interests of the student.
 
