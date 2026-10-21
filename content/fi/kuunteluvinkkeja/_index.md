@@ -5,7 +5,7 @@ title: "Kuunteluvinkkejä"
 type: "page"
 ---
 
-Tälle sivulle on koottu listausta äänitteistä, jossa huuliharppua voi kuulla oleellisessa roolissa. Lista päivittyy sitä mukaa kun niitä keretään päivittää.
+Tälle sivulle on sekalainen lista äänitteistä, jossa huuliharppua voi kuulla oleellisessa roolissa eri musiikkityyleissä. Lista päivittyy sitä mukaa kun niitä keretään päivittää.
 
 &nbsp;
 
