@@ -31,7 +31,7 @@ Opetuksen sisältö: äänenkäytön perusteita, sointivärin hallintaa, tuen ha
 
 <em>**En omista pitkähuilua tai muutakaan yläsävelhuilua. Mistä sellaisen voi ostaa?**</em>
 
-[Täältä](https://www.overtoneflute.fi/pitkaehuilun-hankinta) löytyy koostamani ohjeistus pitkähuilun hankintaan: [https://overtoneflute.fi/mika-on-pitkahuilu/pitkahuilun-hankinta/](https://overtoneflute.fi/mika-on-pitkahuilu/pitkahuilun-hankinta/)
+[Täältä](https://overtoneflute.fi/mika-on-pitkahuilu/pitkahuilun-hankinta/) löytyy koostamani ohjeistus pitkähuilun hankintaan: [https://overtoneflute.fi/mika-on-pitkahuilu/pitkahuilun-hankinta/](https://overtoneflute.fi/mika-on-pitkahuilu/pitkahuilun-hankinta/)
 
 <em>**En omista munniharppua. Mistä sellaisen voi ostaa?**</em>
 
