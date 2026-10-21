@@ -19,7 +19,8 @@ Tavallisella duurivireisellä bluesharpulla saadaan puhaltaessa useampaan reikä
 
 Duurivireisiä diatonisia blueshuuliharppuja valmistetaan kaikissa sävellajeissa. Diatonisia 10-reikäisiä huuliharppuja on myös mollivireisinä, sekä muissa erikoisvireissä.
 
-Yhdestä duuriviritteisestä bluesharpusta on mahdollista soittaa ilman taivutustekniikkaa seitsemän erilaista modaalista asteikkoa. Eri astekoiden soittamista kutsutaan yleisesti soittamiseksi eri [asemista](/huuliharppufi/soittoasemat/).
+Yhdestä duuriviritteisestä bluesharpusta on mahdollista soittaa ilman taivutustekniikkaa seitsemän erilaista modaalista asteikkoa. Eri astekoiden soittamista kutsutaan yleisesti soittamiseksi eri [asemista](/huuliharppufi/p
+oppimateriaali/soittotekniikka/soittoasemat/).
 
 <iframe width="100%" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/288963574&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><br>
 <em>C-duurivireinen diatoninen 10-reikäinen bluesharppu</em>
