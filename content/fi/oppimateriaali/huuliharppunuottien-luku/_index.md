@@ -53,27 +53,27 @@ esim.
 
 numerot 1-8 = reiän numero
 
-<img src="/huuliharppufi/huuliharppufi/wp-content/uploads/2015/10/taivutusnuoli1kuva.jpg" alt="taivutusnuoli1kuva" class="wp-image-144" />
+<img src="/huuliharppufi/wp-content/uploads/2015/10/taivutusnuoli1kuva.jpg" alt="taivutusnuoli1kuva" class="wp-image-144" />
 
 = 1/2 sävelaskeleen taivutus
 
-<img src="/huuliharppufi/huuliharppufi/wp-content/uploads/2015/10/taivutusnuoli2kuva.jpg" alt="taivutusnuoli2kuva" class="wp-image-143" />
+<img src="/huuliharppufi/wp-content/uploads/2015/10/taivutusnuoli2kuva.jpg" alt="taivutusnuoli2kuva" class="wp-image-143" />
 
 = 1 sävelaskeleen taivutus
 
 esim.
 
-<img src="/huuliharppufi/huuliharppufi/wp-content/uploads/2015/10/puhallusnuoli_aukko4.jpg" alt="puhallusnuoli" class="wp-image-145" />
+<img src="/huuliharppufi/wp-content/uploads/2015/10/puhallusnuoli_aukko4.jpg" alt="puhallusnuoli" class="wp-image-145" />
 
 = reiän 4 puhallus
 
-<img src="/huuliharppufi/huuliharppufi/wp-content/uploads/2015/10/puhallusnuoli_aukko4.jpg" alt="imutaivutusnuoli" class="wp-image-145" />
+<img src="/huuliharppufi/wp-content/uploads/2015/10/puhallusnuoli_aukko4.jpg" alt="imutaivutusnuoli" class="wp-image-145" />
 
 = 1 sävelaskeleen imutaivutus reiästä 3
 
 Jos nuottien lukemisen oppiminen kuitenkin kiinnostaa, niin tässä kuvassa on yleisimpien nuottien pituudet pähkinänkuoressa:
 
-<img src="/huuliharppufi/huuliharppufi/wp-content/uploads/2026/03/nuottienpituudet2.png" alt="" class="wp-image-4041" />
+<img src="/huuliharppufi/wp-content/uploads/2026/03/nuottienpituudet2.png" alt="" class="wp-image-4041" />
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 
