@@ -5,8 +5,8 @@ type: "page"
 
 edit1
 
-[Huuliharpun rakenne ja toiminta] (/huuliharppufi/huuliharpun-rakenne-ja-toiminta/)
-[Erilaiset huuliharppumallit] (/huuliharppufi/tietoa-huuliharpusta/huuliharppumallit/)
+[Huuliharpun rakenne ja toiminta](/huuliharppufi/huuliharpun-rakenne-ja-toiminta/)
+[Erilaiset huuliharppumallit](/huuliharppufi/tietoa-huuliharpusta/huuliharppumallit/)
 [Huuliharpun viritysjärjestelmät](/huuliharppufi/tietoa-huuliharpusta/viritysjarjestelmat/)
 [Vinkkejä huuliharpun ostoon](/huuliharppufi/tietoa-huuliharpusta/vinkkeja-huuliharpun-ostoon/)
 
