@@ -1,4 +1,20 @@
-        <!-- Blogipostaukset -->
+{{ define "header" }}
+  {{ partial "site-header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+<main class="pb7" role="main">
+  <div class="mw8 center ph3 mt4">
+    <!-- Kaksisarakkeinen flex-asettelu -->
+    <div class="flex-l mhn1-l">
+
+      <!-- VASEMPI SARAKE: Pääsisältö & Blogipostaukset -->
+      <div class="w-100 w-70-l ph1-l">
+        <article class="nested-copy-line-height lh-copy f4 nested-links mid-gray mb4">
+          {{ .Content }}
+        </article>
+
+                <!-- Blogipostaukset -->
         <section class="w-100">
           {{ $seenVotW := false }}
           {{ range where (where .Site.RegularPages "Lang" .Lang) "Section" "in" (slice "post" "posts" "blog") }}
@@ -13,3 +29,57 @@
             {{ end }}
           {{ end }}
         </section>
+
+
+      <!-- OIKEA SARAKE: Sivupalkki (Sidebar) -->
+      <aside class="w-100 w-30-l ph1-l mt4 mt0-l">
+        <div class="pl3-l">
+          
+          
+
+          <!-- Tervetuloteksti -->
+          <div class="f6 gray lh-copy mb4">
+            Tervetuloa huuliharppu.fi -sivustolle! Sivu tarjoaa tietoa huuliharpun soiton itseopiskeluun, sekä soittotuntien mahdollisuudesta.
+          </div>
+
+          <!-- Hakukenttä -->
+          <div class="mb4">
+            <label class="db f7 fw6 ttu gray mb2">Etsi sivulta huuliharppu.fi</label>
+            <form role="search" method="get" action="https://www.google.com/search" target="_blank" class="flex">
+              <input type="hidden" name="sitesearch" value="huuliharppu.fi">
+              <input type="text" name="q" class="input-reset ba b--black-20 pa2 db w-100 f6 br1" placeholder="">
+              <input type="submit" value="Hae" class="button-reset bg-near-white ba b--black-20 pa2 pointer f6 ml1 br1">
+            </form>
+          </div>
+
+          <!-- Varaa soittotunti -painike -->
+          <div class="mb4 tc">
+            <a href="/oppitunnit/" class="link dim db pa3 white bg-orange br2 fw6 f5 ttu shadow-1" style="background-color: #e67e22;">
+              🎵 Varaa soittotunti
+            </a>
+            <span class="db f7 gray mt2">Opi perusteet tai hio tekniikkasi huippuunsa!</span>
+          </div>
+
+          <!-- Sosiaalisen median kuvakkeet -->
+          <div class="mb4 f4 flex items-center justify-between gray max-w5">
+            <a href="https://www.youtube.com/channel/UCE6n1IQmTENcI9eXnf7FIKQ" target="_blank" class="link gray hover-blue" title="YouTube">▶</a>
+            <a href="https://www.facebook.com/huuliharppukoulujanneojajarvi" target="_blank" class="link gray hover-blue" title="Facebook">ⓕ</a>
+            <a href="https://www.instagram.com/janneojajarvi/" target="_blank" class="link gray hover-blue" title="Instagram">📷</a>
+            <a href="https://huuliharppukoulu.tumblr.com/" target="_blank" class="link gray hover-blue" title="Tumblr">t</a>
+            <a href="https://twitter.com/janneojajarvi" target="_blank" class="link gray hover-blue" title="X (Twitter)">𝕏</a>
+          </div>
+
+          <!-- Osuuskunta Lilith -logokuva -->
+          <div class="mt4 pt3 bt b--black-10">
+            <a href="https://lilith.fi" target="_blank" class="link dim db">
+              <img src="/wp-content/uploads/2020/08/lilithlogo2.jpg" alt="Osuuskunta Lilith" style="max-width: 180px; height: auto; display: block;" />
+            </a>
+          </div>
+
+        </div>
+      </aside>
+
+    </div>
+  </div>
+</main>
+{{ end }}
