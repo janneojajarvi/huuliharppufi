@@ -13,9 +13,8 @@ type: "page"
 
 ### Kromaattinen huuliharppu:
 
-[Kappaleita](/huuliharppufi/harjoituksia-ja-kappaleita-kromaattiselle-huuliharpulle/)
+[Kappaleita ja harjoituksia](/huuliharppufi/oppimateriaali/harjoituksia-ja-kappaleita-kromaattiselle-huuliharpulle/)
 
-[Harjoituksia](/huuliharppufi/harjoituksia-ja-kappaleita-kromaattiselle-huuliharpulle/)
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 
