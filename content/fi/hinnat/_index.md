@@ -7,7 +7,8 @@ type: "page"
 
 Huuliharppukoulu Janne Ojajärvi tarjoaa opetusta seuraavilla hinnoilla:
 
-* 55€ / 45 minuuttia<br> * 70€ / 60 minuuttia
+* 55€ / 45 minuuttia
+* 70€ / 60 minuuttia
 
 Hinnat sisältävät arvonlisäveron 25,5%.
 
