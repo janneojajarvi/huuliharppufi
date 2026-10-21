@@ -11,7 +11,7 @@ edit1
 
 [Huuliharpun viritysjärjestelmät](/huuliharppufi/tietoa-huuliharpusta/viritysjarjestelmat/)
 
-[Vinkkejä huuliharpun ostoon](/huuliharppufi/tietoa-huuliharpusta/vinkkeja-huuliharpun-ostoon/)
+[Vinkkejä huuliharpun ostoon](/huuliharppufi/oppimateriaali/vinkkeja-huuliharpun-ostoon/)
 
 
 
