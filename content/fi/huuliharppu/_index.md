@@ -3,10 +3,12 @@ title: "Huuliharppu"
 type: "page"
 ---
 
-[Huuliharpun rakenne ja toiminta](/huuliharppufi/huuliharpun-rakenne-ja-toiminta/)
+[Huuliharpun rakenne ja toiminta](/huuliharpun-rakenne-ja-toiminta/)
 [Erilaiset huuliharppumallit](/huuliharppufi/huuliharppumallit/)
 [Huuliharpun viritysjärjestelmät](/huuliharppufi/viritysjarjestelmat/)
 [Vinkkejä huuliharpun ostoon](/huuliharppufi/vinkkeja-huuliharpun-ostoon/)
+
+
 
 ### Oppimateriaali
 * Soittotekniikka
