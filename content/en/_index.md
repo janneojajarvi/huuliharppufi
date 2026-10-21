@@ -7,4 +7,4 @@ type: "page"
 
 ## Harmonica lessons by Janne Ojajärvi
 
-Support the maintenance of huuliharppu.fi
+[Support the maintenance of huuliharppu.fi](/huuliharppufi/en/post/support-the-maintenance-of-huuliharppu-fi/)
