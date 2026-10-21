@@ -10,8 +10,8 @@ type: "page"
 Janne Ojajärvi is Finnish artist, music teacher, composer, lyricist, award-winning improviser and harmonica &amp; willow flute player and versatile multi-instrumentalist. Janne has specialized in harmonicas, overtone flutes (willow flute) and human voice. Janne performs as a soloist and with ensembles ([Hurja Halla](https://www.hurjahalla.com/) and Ritva Nero).
 
 ### [www.janneojajarvi.com](https://janneojajarvi.com/)
-
+<a href="https://youtu.be/uOZe3HTqvgM">
 <div class="wp-block-embed__wrapper">
 https://youtu.be/uOZe3HTqvgM
-</div>
+</div></a>
 
