@@ -39,3 +39,26 @@ type: "page"
   <p>When you purchase these materials, you are directly supporting Janne’s work in transcribing rare tunes, filming technical tutorials, and maintaining this community resource. Your support ensures that the music keeps playing and the site remains a vibrant home for harmonica enthusiasts worldwide.</p>
   <p><em>“My goal is to help you find your own voice through this small but mighty instrument. Thank you for being a part of this journey and for supporting independent music education!”</em></p>
 </div>
+
+<hr style="border: none; border-top: 1px solid #ccc; margin: 30px 0;" />
+
+<h2>ONLINE LESSONS</h2>
+
+<p>Janne Ojajärvi offers <strong>harmonica, willow flute (overtone flute)</strong> and <strong>throat singing</strong> lessons. The lessons can be held in Helsinki or remotely by Skype or similar programs like Zoom and Facetime. You only need your own instrument, computer with camera+microphone (e.g. laptop) and internet connection. Janne Ojajärvi offers also lessons for jaw harp (jew’s harp/mouth harp) and throat singing.</p>
+
+<p>Lessons will be customised according to the needs and interests of the student.</p>
+
+<h3>Harmonica</h3>
+<p>Music styles: blues, traditional Nordic folk, rock, film music, folk/country etc.</p>
+<p>Topics:<br>
+Technics, tunes, theory, comping, improvisation, performing, maintenance, tuning, configuring for over bending, microphones, effects, etc.</p>
+
+<h3>Overtone flute / Willow flute</h3>
+<p>(sälflöjt, seljefløyte, pikkvile, pitkähuilu)</p>
+<p>Music styles: Traditional Finnish, Estonian, Swedish or Norwegian tunes, composed tunes.</p>
+<p>Topics:<br>
+Hearing overtones, technics, exercises, tunes, breath technics, maintenance, buying new instrument, microphones, etc.</p>
+
+<h3>Throat singing</h3>
+<p>Topics:<br>
+Breathing, hearing overtones, producing voice with false vocal chords, technics, exercises, tunes, kargyraa, höömei, sygyt, overtone singing, etc.</p>
