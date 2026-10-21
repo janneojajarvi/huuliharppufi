@@ -9,83 +9,83 @@ NEW DIGITAL SHEET MUSIC AVAILABLE: [Finnish traditional folk harmonica tunes.](h
 
 **Exercises**
 
-[Scale exercise ](/wp-content/uploads/2015/10/asteikkoharjoitus.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/asteikkoharjoitus)
+[Scale exercise ](/huuliharppufi/wp-content/uploads/2015/10/asteikkoharjoitus.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/asteikkoharjoitus)
 
-[Melody line exercise ](/wp-content/uploads/2015/10/sacc88velkulkuharjoitus.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/savelkulkuharjoitus)
+[Melody line exercise ](/huuliharppufi/wp-content/uploads/2015/10/sacc88velkulkuharjoitus.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/savelkulkuharjoitus)
 
-[Train imitation ](/wp-content/uploads/2015/10/junaimitaatio1.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/junaimitaatio)
+[Train imitation ](/huuliharppufi/wp-content/uploads/2015/10/junaimitaatio1.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/junaimitaatio)
 
-[Tongue comp exercise ](/wp-content/uploads/2015/10/kielikomppiharjoitus-1.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/kielikomppiharjoitus)
+[Tongue comp exercise ](/huuliharppufi/wp-content/uploads/2015/10/kielikomppiharjoitus-1.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/kielikomppiharjoitus)
 
-[Comping exercise A ](/wp-content/uploads/2015/10/komppiharjoitus-a.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/komppiharjoitus-a)
+[Comping exercise A ](/huuliharppufi/wp-content/uploads/2015/10/komppiharjoitus-a.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/komppiharjoitus-a)
 
-[Ornament exercise #2 ](/wp-content/uploads/2015/10/koruharjoitus2.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/koruharjoitus2)
+[Ornament exercise #2 ](/huuliharppufi/wp-content/uploads/2015/10/koruharjoitus2.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/koruharjoitus2)
 
-[Ornament exercise #3 ](/wp-content/uploads/2015/10/koruharjoitus3.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/koruharjoitus3)
+[Ornament exercise #3 ](/huuliharppufi/wp-content/uploads/2015/10/koruharjoitus3.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/koruharjoitus3)
 
-[Double voice exercise ](/wp-content/uploads/2015/10/pariacc88acc88niharjoitus.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/pariaaniharjoitus)
+[Double voice exercise ](/huuliharppufi/wp-content/uploads/2015/10/pariacc88acc88niharjoitus.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/pariaaniharjoitus)
 
-[Bending exercise ](/wp-content/uploads/2017/04/taivutusharjoitus.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/taivutusharjoitus)
+[Bending exercise ](/huuliharppufi/wp-content/uploads/2017/04/taivutusharjoitus.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/taivutusharjoitus)
 
 **Finnish and Nordic folk music tunes<br /> **
 
-[Tutskovin polska (polska) ](/wp-content/uploads/2015/10/tutskovin-polska.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/tutskovin-polska)
+[Tutskovin polska (polska) ](/huuliharppufi/wp-content/uploads/2015/10/tutskovin-polska.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/tutskovin-polska)
 
-[Raunon valssi (waltz) ](/wp-content/uploads/2015/10/raunon-valssi.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/raunon-valssi)
+[Raunon valssi (waltz) ](/huuliharppufi/wp-content/uploads/2015/10/raunon-valssi.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/raunon-valssi)
 
-[Schottis från Övermark (schottische)](/wp-content/uploads/2015/10/schottis-fracc8an-occ88vermark.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/schottis-fran-overmark)
+[Schottis från Övermark (schottische)](/huuliharppufi/wp-content/uploads/2015/10/schottis-fracc8an-occ88vermark.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/schottis-fran-overmark)
 
-[Vakavanha Väinämöinen (song tune)](/wp-content/uploads/2015/10/vakavanha-vacc88inacc88mocc88inen.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/vakavanha-vainamoinen)
+[Vakavanha Väinämöinen (song tune)](/huuliharppufi/wp-content/uploads/2015/10/vakavanha-vacc88inacc88mocc88inen.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/vakavanha-vainamoinen)
 
-[Hoijakka (jouhikko tune) ](/wp-content/uploads/2017/02/hoijakka.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/hoijakka)
+[Hoijakka (jouhikko tune) ](/huuliharppufi/wp-content/uploads/2017/02/hoijakka.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/hoijakka)
 
-[Brudpolska efter Byss-Calle (polska) ](/wp-content/uploads/2017/02/brudpolska_efter_byss-calle.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/byss-calle)
+[Brudpolska efter Byss-Calle (polska) ](/huuliharppufi/wp-content/uploads/2017/02/brudpolska_efter_byss-calle.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/byss-calle)
 
-[Sandy's Boys (fiddle tune) ](/wp-content/uploads/2017/02/sandys_boys.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/sandys-boys)
+[Sandy's Boys (fiddle tune) ](/huuliharppufi/wp-content/uploads/2017/02/sandys_boys.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/sandys-boys)
 
-[Syrjälän Kaapon polska (polska) ](/wp-content/uploads/2017/02/syrjacc88lacc88n-kaapon-polska.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/syrjalan-kaapon-polska)
+[Syrjälän Kaapon polska (polska) ](/huuliharppufi/wp-content/uploads/2017/02/syrjacc88lacc88n-kaapon-polska.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/syrjalan-kaapon-polska)
 
-[Vals från Åsen (waltz) ](/wp-content/uploads/2017/02/vals_fracc8an_asen.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/vals-fran-asen)
+[Vals från Åsen (waltz) ](/huuliharppufi/wp-content/uploads/2017/02/vals_fracc8an_asen.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/vals-fran-asen)
 
-[Vanha Vinteriska (polka/schottische) ](/wp-content/uploads/2017/02/vanha_vinteriska.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/vanha-vinteriska)
+[Vanha Vinteriska (polka/schottische) ](/huuliharppufi/wp-content/uploads/2017/02/vanha_vinteriska.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/vanha-vinteriska)
 
-[Hevosen vaihtoa (polka) ](/wp-content/uploads/2017/02/hevosen-vaihtoa.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/hevosen-vaihtoa)
+[Hevosen vaihtoa (polka) ](/huuliharppufi/wp-content/uploads/2017/02/hevosen-vaihtoa.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/hevosen-vaihtoa)
 
-[Peli-Jussin syömämarssi (march) ](/wp-content/uploads/2017/02/peli-jussin_syoemaemarssi.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/peli-jussin-syomamarssi)
+[Peli-Jussin syömämarssi (march) ](/huuliharppufi/wp-content/uploads/2017/02/peli-jussin_syoemaemarssi.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/peli-jussin-syomamarssi)
 
-[Peltoniemen Hintriikin Surumarssi (march) ](/wp-content/uploads/2017/04/peltoniemen_hintriikin_surumarssi-v21.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/peltoniemen-hintriikin-surumarssi)
+[Peltoniemen Hintriikin Surumarssi (march) ](/huuliharppufi/wp-content/uploads/2017/04/peltoniemen_hintriikin_surumarssi-v21.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/peltoniemen-hintriikin-surumarssi)
 
-[Jöns Lars Fars brudpolska (polska) ](/wp-content/uploads/2017/04/jocc88ns-lars-fars-polska-ag1.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/jons-lars-fars-brudpolska)
+[Jöns Lars Fars brudpolska (polska) ](/huuliharppufi/wp-content/uploads/2017/04/jocc88ns-lars-fars-polska-ag1.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/jons-lars-fars-brudpolska)
 
 **Irish, Scottish and North American folk music**
 
-[Amazing grace#1 ](/wp-content/uploads/2015/10/amazing-grace1.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/amazing-grace-v1)
+[Amazing grace#1 ](/huuliharppufi/wp-content/uploads/2015/10/amazing-grace1.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/amazing-grace-v1)
 
-[Amazing grace#2 ](/wp-content/uploads/2015/10/amazing-grace2.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/amazing-grace-v2)
+[Amazing grace#2 ](/huuliharppufi/wp-content/uploads/2015/10/amazing-grace2.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/amazing-grace-v2)
 
-[The Kesh jig ](/wp-content/uploads/2017/04/kesh-jig.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/the-kesh-jig)
+[The Kesh jig ](/huuliharppufi/wp-content/uploads/2017/04/kesh-jig.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/the-kesh-jig)
 
-[Scarborough fair ](/wp-content/uploads/2015/10/scarborough-fair.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/scarborough-fair)
+[Scarborough fair ](/huuliharppufi/wp-content/uploads/2015/10/scarborough-fair.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/scarborough-fair)
 
-[1st August](/wp-content/uploads/2017/02/1st-august1.pdf) [<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/1st-august)
+[1st August](/huuliharppufi/wp-content/uploads/2017/02/1st-august1.pdf) [<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/1st-august)
 
-[McLeod's Farewell ](/wp-content/uploads/2017/02/mcleods-farewell1.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/mcleods-farewell)
+[McLeod's Farewell ](/huuliharppufi/wp-content/uploads/2017/02/mcleods-farewell1.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/mcleods-farewell)
 
-[Dowd's Favourite ](/wp-content/uploads/2017/02/dowds_favourite1.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/dowds-favourite)
+[Dowd's Favourite ](/huuliharppufi/wp-content/uploads/2017/02/dowds_favourite1.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/dowds-favourite)
 
-[Donegal Reel / Dr. Gilbert](/wp-content/uploads/2017/02/donegal-reel-dr-gilbert1.pdf)
+[Donegal Reel / Dr. Gilbert](/huuliharppufi/wp-content/uploads/2017/02/donegal-reel-dr-gilbert1.pdf)
 
-[Merrily Kiss the Quarter / Frashers ](/wp-content/uploads/2017/02/merrily-kiss-the-quarter-frashers1.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/merrilykissthequarterfrasers)
+[Merrily Kiss the Quarter / Frashers ](/huuliharppufi/wp-content/uploads/2017/02/merrily-kiss-the-quarter-frashers1.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/merrilykissthequarterfrasers)
 
-[Russ's reel ](/wp-content/uploads/2017/02/russs-reel.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/the-russs-reel)
+[Russ's reel ](/huuliharppufi/wp-content/uploads/2017/02/russs-reel.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/the-russs-reel)
 
-[The Last Pint ](/wp-content/uploads/2017/02/the_last_pint.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/the-last-pint)
+[The Last Pint ](/huuliharppufi/wp-content/uploads/2017/02/the_last_pint.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/the-last-pint)
 
 **Blues **<em>(part of the links lead to site harptabs.com)</em>
 
-[Blues 1](/wp-content/uploads/2015/10/blues-1.pdf) [<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/blues-1)
+[Blues 1](/huuliharppufi/wp-content/uploads/2015/10/blues-1.pdf) [<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/blues-1)
 
-[St. Louis Blues ](/wp-content/uploads/2017/02/st-louis-blues.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/st-louis-blues)
+[St. Louis Blues ](/huuliharppufi/wp-content/uploads/2017/02/st-louis-blues.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/st-louis-blues)
 
 [Little Walter - Juke](https://www.harptabs.com/song.php?ID=1882)
 
@@ -125,23 +125,22 @@ Backing tracks for improvisation and jamming can be found from e. g. YouTube wit
 
 **Christmas songs<br /> **
 
-[En etsi valtaa loistoa ](/wp-content/uploads/2017/02/en-etsi-valtaa-loistoa.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/en-etsi-valtaa-loistoa)
+[En etsi valtaa loistoa ](/huuliharppufi/wp-content/uploads/2017/02/en-etsi-valtaa-loistoa.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/en-etsi-valtaa-loistoa)
 
-[Hei Tonttu-ukot hyppikää ](/wp-content/uploads/2017/02/hei-tonttu-ukot-hyppikacc88acc88.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/hei-tonttu-ukot-hyppikaa)
+[Hei Tonttu-ukot hyppikää ](/huuliharppufi/wp-content/uploads/2017/02/hei-tonttu-ukot-hyppikacc88acc88.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/hei-tonttu-ukot-hyppikaa)
 
-[Jouluyö, juhlayö ](/wp-content/uploads/2017/02/jouluyocc88-juhlayocc88.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/jouluyo)
+[Jouluyö, juhlayö ](/huuliharppufi/wp-content/uploads/2017/02/jouluyocc88-juhlayocc88.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/jouluyo)
 
-[Joulupuu on rakennettu ](/wp-content/uploads/2017/02/joulupuu-on-rakennettu.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/joulupuu-on-rakennettu)
+[Joulupuu on rakennettu ](/huuliharppufi/wp-content/uploads/2017/02/joulupuu-on-rakennettu.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/joulupuu-on-rakennettu)
 
-[Maa on niin kaunis ](/wp-content/uploads/2017/02/maa-on-niin-kaunis.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/maa-on-niin-kaunis)
+[Maa on niin kaunis ](/huuliharppufi/wp-content/uploads/2017/02/maa-on-niin-kaunis.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/maa-on-niin-kaunis)
 
-[Me käymme joulun viettohon ](/wp-content/uploads/2017/02/me-kacc88ymme-joulun-viettohon-soinnuilla.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/me-kaymme-joulun-viettohon)
+[Me käymme joulun viettohon ](/huuliharppufi/wp-content/uploads/2017/02/me-kacc88ymme-joulun-viettohon-soinnuilla.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/me-kaymme-joulun-viettohon)
 
-[Porsaita äidin ](/wp-content/uploads/2017/02/porsaita-acc88idin-oomme-kaikki.pdf)[<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/porsaita-aidin)
+[Porsaita äidin ](/huuliharppufi/wp-content/uploads/2017/02/porsaita-acc88idin-oomme-kaikki.pdf)[<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/porsaita-aidin)
 
-[Tonttu](/wp-content/uploads/2017/02/tonttu.pdf) [<img class="alignnone wp-image-694" src="/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/tonttu)
+[Tonttu](/huuliharppufi/wp-content/uploads/2017/02/tonttu.pdf) [<img class="alignnone wp-image-694" src="/huuliharppufi/wp-content/uploads/2015/10/soundsamplelogo.jpg" alt="" width="26" height="28" />](https://soundcloud.com/huuliharppufi/tonttu)
 
 More folk music tunes: http://jamihuuliharppu.wordpress.com/
 
-Find more tunes with [HarpTuneFinder](/harptunefinder/)
-
+Find more tunes with [HarpTuneFinder](/huuliharppufi/harptunefinder/)
