@@ -1,6 +1,7 @@
 ---
 title: "Tue huuliharppu.fi -sivuston ylläpitoa ostamalla pdf-nuottipaketteja"
 type: "post"
+date: "2026-02-05"
 ---
 
 [**Vasta-alkajan materiaalipaketti**](https://payhip.com/b/JOqEo)
