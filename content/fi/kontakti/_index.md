@@ -19,8 +19,8 @@ Lisätietoa Janne Ojajärven soittotunneista [**tästä linkistä.**](/huuliharp
 
 <p>Voit ottaa yhteyttä myös alla olevalla lomakkeella.</p>
 
-<!-- Yhteydenottolomake (toimii esimerkiksi Formspree-palvelun kautta: https://formspree.io) -->
-<form action="https://formspree.io/f/YOUR_FORMSPREE_ID" method="POST" style="max-width: 600px; display: flex; flex-direction: column; gap: 15px; margin-top: 20px;">
+<!-- Yhteydenottolomake -->
+<form action="https://formspree.io/f/moejpdvb" method="POST" style="max-width: 600px; display: flex; flex-direction: column; gap: 15px; margin-top: 20px;">
     <div>
         <label for="name" style="display: block; margin-bottom: 5px; font-weight: bold;">Nimi *</label>
         <input type="text" id="name" name="name" required style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;">
