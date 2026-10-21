@@ -14,21 +14,18 @@
           {{ .Content }}
         </article>
 
-                <!-- Blogipostaukset -->
+                       <!-- Blogipostaukset -->
         <section class="w-100">
-          {{ $seenVotW := false }}
-          {{ range where (where .Site.RegularPages "Lang" .Lang) "Section" "in" (slice "post" "posts" "blog") }}
-            {{ $isVotW := or (in (lower .Title) "video of the week") (in (lower .Title) "viikon video") }}
-            {{ if and $isVotW $seenVotW }}
-              {{/* Ohitetaan vanhemmat Video of the week -postaukset */}}
-            {{ else }}
-              {{ if $isVotW }}{{ $seenVotW = true }}{{ end }}
+          {{ $postsSection := .Site.GetPage "section" "posts" }}
+          {{ if $postsSection }}
+            {{ range $postsSection.RegularPages }}
               <div class="relative w-100 mb4 bg-white nested-links">
                 {{ .Render "summary" }}
               </div>
             {{ end }}
           {{ end }}
         </section>
+
 
 </div>
       <!-- OIKEA SARAKE: Sivupalkki (Sidebar) -->
