@@ -6,6 +6,7 @@ date: 2023-01-01T00:00:00+02:00
 
 Huuliharppu.fi on suomalainen huuliharppusivusto, jolta löydät tietoa huuliharpunsoitosta, soittimien huollosta ja säädöstä sekä oppimateriaalia ja tietoa soitonopetuksesta.
 
+<b>Video of the month</b>
 <div id="monthly-video-container" style="margin: 20px 0;">
 <!-- Kuukauden video latautuu tähän -->
 </div>
@@ -57,4 +58,3 @@ const selectedVideoId = monthlyVideos[monthIndex];
 const container = document.getElementById('monthly-video-container');
 container.innerHTML = `<iframe width="100%" height="450" src="https://www.youtube-nocookie.com/embed/${selectedVideoId}" title="Kuukauden video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
 </script>
-<b>Video of the month</b>
