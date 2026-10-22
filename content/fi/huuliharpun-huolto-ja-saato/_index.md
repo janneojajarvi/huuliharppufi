@@ -13,6 +13,6 @@ type: "page"
 
 <em>Huuliharppujen valmistajat eivät suosittele minkäänlaisia soittimen rakenteeseen kohdistuvia toimenpiteitä.</em>
 
-<em>Seuraavissa luvuissa kuvailtavat toimenpiteet voivat johtaa soittimen menemiseen pilalle. Vastuu oheisten ohjeiden soveltamisesta käytäntöön on lukijalla.</em>
+<em>Seuraavissa luvuissa (lukuunottamatta lukua "Huuliharpun puhdistus") kuvailtavat toimenpiteet voivat johtaa soittimen menemiseen pilalle. Vastuu oheisten ohjeiden soveltamisesta käytäntöön on lukijalla.</em>
 
 
