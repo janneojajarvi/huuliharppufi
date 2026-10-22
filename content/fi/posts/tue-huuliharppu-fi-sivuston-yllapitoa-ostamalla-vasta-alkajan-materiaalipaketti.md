@@ -25,7 +25,7 @@ PDF-muodossa oleva nuottipaketti, joka sisältää nuotteja (tabulatuurien ja so
 
 PDF-muodossa oleva nuottipaketti, joka sisältää nuotteja (tabulatuurien ja sointujen kera) perinteisiin ruotsalaisiin kansanmusiikkikappaleisiin. Mukana myös soinnut. Lisätietoa linkissä.
 
-[**Suomalaisia kansanmusiikkikappaleita bluesharpulle**](https://payhip.com/b/UO13I) / [**Traditional Finnish Folk Tunes for Blues Harp **](https://payhip.com/b/UO13I)
+[**Suomalaisia kansanmusiikkikappaleita bluesharpulle**](https://payhip.com/b/UO13I) / [**Traditional Finnish Folk Tunes for Blues Harp**](https://payhip.com/b/UO13I)
 
 PDF-muodossa oleva nuottipaketti, joka sisältää nuotteja (tabulatuurien kera) suomalaisiin kansanmusiikkikappaleisiin. Lisätietoa linkissä.
 
