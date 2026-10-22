@@ -8,13 +8,24 @@
     <!-- Kaksisarakkeinen flex-asettelu -->
     <div class="flex-l mhn1-l">
 
-      <!-- VASEMPI SARAKE: Pääsisältö & Blogipostaukset -->
-      <div class="w-100 w-70-l ph1-l">
-        <article class="nested-copy-line-height lh-copy f4 nested-links mid-gray mb4">
-          {{ .Content }}
-        </article>
+      <!-- VASEMPI SARAKE: Pääsisältö &         <!-- Blogipostaukset (Testiversio) -->
+        <section class="w-100">
+          {{ range where .Site.RegularPages "Section" "posts" }}
+            {{ if eq .Lang $.Lang }}
+              <div class="mb4 pb3 bb b--black-10">
+                <h2 class="f3 mb2">
+                  <a href="{{ .RelPermalink }}" class="link black dim fw7">{{ .Title }}</a>
+                </h2>
+                <div class="f5 gray mb2">{{ .Date.Format "2.1.2006" }}</div>
+                <div class="f4 lh-copy">
+                  {{ .Summary }}
+                </div>
+                <p class="mt3"><a href="{{ .RelPermalink }}" class="f6 link blue">Lue lisää →</a></p>
+              </div>
+            {{ end }}
+          {{ end }}
+        </section>
 
-                       <!-- Blogipostaukset -->
         <section class="w-100">
           {{ $postsSection := .Site.GetPage "section" "posts" }}
           {{ if $postsSection }}
