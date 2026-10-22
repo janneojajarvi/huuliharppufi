@@ -57,4 +57,4 @@ const selectedVideoId = monthlyVideos[monthIndex];
 const container = document.getElementById('monthly-video-container');
 container.innerHTML = `<iframe width="100%" height="450" src="https://www.youtube-nocookie.com/embed/${selectedVideoId}" title="Kuukauden video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
 </script>
-<h4 style="margin-top: 2rem; margin-bottom: 1rem;">Video of the month</h4>
+<b>Video of the month</b>
