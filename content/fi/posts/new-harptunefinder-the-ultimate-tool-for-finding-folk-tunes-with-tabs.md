@@ -1,6 +1,7 @@
 ---
 title: "Esittelyssä: HarpTuneFinder - Uusi monipuolinen työkalu harppunuottien etsintään"
 type: "post"
+date: 20251010
 ---
 
 ### Esittelyssä uusi työkalu perinnesävelmien etsintään huuliharpulle
