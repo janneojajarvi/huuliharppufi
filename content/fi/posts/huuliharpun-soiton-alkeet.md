@@ -1,7 +1,7 @@
 ---
 title: "Huuliharpun soiton alkeet"
 type: "post"
-date: 2023-01-01T00:00:00+02:00
+date: 2025-11-01T00:00:00+02:00
 ---
 
 {{< youtube X_i3uXSuOaY >}}
