@@ -47,4 +47,4 @@ type: "page"
 
 <p><strong>Tärkeä huomio:</strong> Huuliharppu on hygieniatuote, joten niillä ei yleensä ole palautusoikeutta, jos pakkaus on avattu. Siksi on erityisen tärkeää lukea yllä olevat vinkit huolella ja valita kerralla oikea malli!</p>
 
-<p>Jos sopivan huuliharpun valinta yhä mietityttää, niin voit ottaa yhteyttä minuun [tämän sivun](/huuliharppufi/kontakti/) kautta.</p>
+Jos sopivan huuliharpun valinta yhä mietityttää, niin voit ottaa yhteyttä minuun [tämän sivun](/huuliharppufi/kontakti/) kautta.
