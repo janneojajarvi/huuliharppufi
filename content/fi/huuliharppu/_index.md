@@ -3,8 +3,6 @@ title: "Huuliharppu"
 type: "page"
 ---
 
-edit1
-
 [Huuliharpun rakenne ja toiminta](/huuliharppufi/huuliharpun-rakenne-ja-toiminta/)
 
 [Erilaiset huuliharppumallit](/huuliharppufi/tietoa-huuliharpusta/huuliharppumallit/)
