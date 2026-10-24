@@ -77,7 +77,7 @@ Jari Komulainen &amp; Janne Ojajärvi: [Turpahöylän ensitahdit - Huuliharpun a
 
 Jantso Jokelin - Huuliharppukirja. [https://sammakko.com/tuote/jantso-jokelin-huuliharppukirja/](https://sammakko.com/tuote/jantso-jokelin-huuliharppukirja/)
 
-Jouko Kyhälä &amp; Jimmy Träskelin - Pelti Polskia laulaa. [http://www.kansanmusiikkiliitto.fi/nettiputiikki/soitto-rakennus-oppaat/kyhala-jouko-traskelin-jimmy-toim-pelti-polskia-laulaa-%E2%80%93-kansanmusiikkia-blueshuuliharpulla](http://www.kansanmusiikkiliitto.fi/nettiputiikki/soitto-rakennus-oppaat/kyhala-jouko-traskelin-jimmy-toim-pelti-polskia-laulaa-%E2%80%93-kansanmusiikkia-blueshuuliharpulla)
+Jouko Kyhälä &amp; Jimmy Träskelin - Pelti Polskia laulaa. [https://helmet.finna.fi/Record/helmet.2330474](https://helmet.finna.fi/Record/helmet.2330474)
 
 Steve Baker - The Harp handbook. [https://www.amazon.com/Harp-Handbook-Revised-Expanded-3rd/dp/0711949190](https://www.amazon.com/Harp-Handbook-Revised-Expanded-3rd/dp/0711949190)
 
