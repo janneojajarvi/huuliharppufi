@@ -5,7 +5,7 @@ title: "HarpTuneFinder"
 type: "page"
 ---
 
-<div class="harmonica-tool-container" style="line-height:1.6;color:#333;max-width:800px;margin:auto;font-family:sans-serif"> ### Find, Convert, and Play: The Ultimate Tool for Harmonica Players! 
+### Find, Convert, and Play: The Ultimate Tool for Harmonica Players! 
 
 Have you ever found the perfect folk tune but struggled to figure out how to play it on your harmonica? I’ve developed a specialized tool designed to take the guesswork out of the process.
 
