@@ -18,7 +18,7 @@ Orivesi Allstarsin nuotit: [http://orivesiallstars.fi/?page_id=9](http://orivesi
 
 Jouhikko- ja kantelesävelmiä (mm. borduunasoittoon): [https://jyx.jyu.fi/dspace/handle/123456789/27312](https://jyx.jyu.fi/dspace/handle/123456789/27312)
 
-Suomenruotsalaisia perinnekappaleita: [http://www2.sls.fi/faksimil.php?id=16&amp;page=-164](http://www2.sls.fi/faksimil.php?id=16&amp;page=-164)
+Suomenruotsalaisia perinnekappaleita: [https://folkdiktning.sls.fi/#/facsimile/pdf/2857](https://folkdiktning.sls.fi/#/facsimile/pdf/2857)
 
 Pelimannimusiikkia huuliharpulle: [http://www.huuliharppu.net/](http://www.huuliharppu.net/)
 
