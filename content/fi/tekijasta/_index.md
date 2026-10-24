@@ -23,4 +23,4 @@ Janne on myös kokenut äänittäjä ja livemiksaaja. Hän valmistui vuonna 2011
 ### **[www.janneojajarvi.com](https://janneojajarvi.com/)**
 https://www.youtube.com/results?search_query=janne+ojaj%C3%A4rvi
 
-[<img class="wp-image-728 size-full" src="/huuliharppufi/wp-content/uploads/2019/04/jannen-maisteritutkintokuva.jpg" alt="jannen maisteritutkintokuva.jpg" width="356" height="237">](/huuliharppufi/wp-content/uploads/janneojajarvi_web.jpg)Kuva: Liisa Haapanen
+[<img class="wp-image-728 size-full" src="/huuliharppufi/wp-content/uploads/janneojajarvi_web.jpg" alt="Janne Ojajärvi ja pitkähuilu" width="356" height="237">](/huuliharppufi/wp-content/uploads/janneojajarvi_web.jpg)Kuva: Liisa Haapanen
