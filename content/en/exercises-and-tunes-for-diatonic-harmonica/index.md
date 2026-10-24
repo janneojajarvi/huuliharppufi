@@ -143,4 +143,4 @@ Backing tracks for improvisation and jamming can be found from e. g. YouTube wit
 
 More folk music tunes: http://jamihuuliharppu.wordpress.com/
 
-Find more tunes with [HarpTuneFinder](/huuliharppufi/harptunefinder/)
+Find more tunes with [HarpTuneFinder](/huuliharppufi/en/harptunefinder/)
