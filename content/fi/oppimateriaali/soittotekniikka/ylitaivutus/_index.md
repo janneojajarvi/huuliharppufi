@@ -43,9 +43,10 @@ Ylitaivutusten sointi eroaa hieman perustaivutuksista, sekä taivuttamattomasta 
 
 [Tästä linkistä saat kaavion isommaksi ](https://codepen.io/Janne-Ojaj-rvi/full/MYjmBmv)
 
-<div class="wp-block-embed__wrapper">
-https://codepen.io/Janne-Ojaj-rvi/pen/MYjmBmv
-</div>
+<iframe height="350" style="width: 100%; border: 0;" scrolling="no" title="Huuliharpun taivutuskaavio3" src="https://codepen.io/Janne-Ojaj-rvi/embed/MYjmBmv?default-tab=result&zoom=0.5" loading="lazy" allowtransparency="true">
+  See the Pen <a href="https://codepen.io/Janne-Ojaj-rvi/pen/MYjmBmv">Huuliharpun taivutuskaavio3</a> by Janne Ojajärvi
+</iframe>
+
 
 © Janne Ojajärvi / www.huuliharppu.fi
 
