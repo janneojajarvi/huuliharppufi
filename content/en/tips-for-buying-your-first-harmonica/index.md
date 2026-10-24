@@ -5,8 +5,6 @@ title: "Tips for buying your first harmonica"
 type: "page"
 ---
 
-<h1>Tips for Buying a Harmonica</h1>
-
 <p>Even though choosing the right harmonica is largely a matter of personal preference, it is always worth investing in a high-quality instrument. A good, professional-standard harmonica typically costs between <strong>€40 and €60</strong>.</p>
 
 <p>Reliable and experienced harmonica manufacturers include <strong>Hohner, Suzuki, Seydel, and Lee Oskar</strong>. Note that these brands also produce cheaper models (under €20), but these should generally be avoided for serious practice.</p>
