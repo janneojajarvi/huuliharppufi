@@ -7,9 +7,10 @@ type: "page"
 
 [Tästä saat metronomin isommaksi](https://codepen.io/Janne-Ojaj-rvi/full/MYjmqwB)
 
-<div class="wp-block-embed__wrapper">
-https://codepen.io/Janne-Ojaj-rvi/pen/MYjmqwB
-</div>
+<iframe height="350" style="width: 100%; border: 0;" scrolling="no" title="Visuaalinen metronomi huuliharpisteille" src="https://codepen.io/Janne-Ojaj-rvi/embed/MYjmqwB?default-tab=result&zoom=0.5" loading="lazy" allowtransparency="true">
+  See the Pen <a href="https://codepen.io/Janne-Ojaj-rvi/pen/MYjmqwB">Visuaalinen metronomi huuliharpisteille</a> by Janne Ojajärvi
+</iframe>
+
 
 © Janne Ojajärvi / /
 
