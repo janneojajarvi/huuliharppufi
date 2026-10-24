@@ -40,7 +40,6 @@ Ruotsalaisia kansanmusiikkikappaleita: [http://www.folkwiki.se/](http://www.folk
 
 [Jamihuuliharppu - Suosittuja kansanmusiikkijamikappaleita](https://jamihuuliharppu.wordpress.com/)
 
-[Celticharmonica.podbean.com - Kelttiläisiä (pääasiassa englanti, skotlanti, irlanti) huuliharppukappaleita äänitteinä](http://celticharmonica.podbean.com/)
 
 [Hermonicas.com - Naispuolisia huuliharpisteja esittelevä sivusto](http://hermonicas.com/)
 
