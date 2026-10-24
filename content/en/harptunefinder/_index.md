@@ -4,8 +4,6 @@ date: 2026-03-24T00:00:00+02:00
 draft: false
 ---
 
-<div class="harmonica-tool-container" style="line-height:1.6;color:#333;max-width:800px;margin:auto;font-family:sans-serif"> 
-  <h2 style="color:#2c3e50;border-bottom:2px solid #eaeaea;padding-bottom:10px;margin-bottom:20px">Find, Convert, and Play: The Ultimate Tool for Harmonica Players!</h2> 
   <p>Have you ever found the perfect folk tune but struggled to figure out how to play it on your harmonica? I’ve developed a specialized tool designed to take the guesswork out of the process.</p> 
   <p>With <a href="https://janneojajarvi.github.io/harptunefinder/">this application</a>, you can search thousands of tunes directly from <strong>TheSession.org</strong> and <strong>Folkwiki</strong> and instantly convert them into clear sheet music with harmonica tablature.</p> 
   
