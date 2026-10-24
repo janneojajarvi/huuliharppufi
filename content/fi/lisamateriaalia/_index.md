@@ -75,7 +75,7 @@ Janne Ojajärvi - Huuliharppujamivihko. [https://kansanmusiikkiliitto.fi/tuote/o
 
 Jari Komulainen &amp; Janne Ojajärvi: [Turpahöylän ensitahdit - Huuliharpun alkeet ja ohjelmistoa.](/huuliharppufi/uusi-huuliharppuopaskirja-julkaistu/)
 
-Jantso Jokelin - Huuliharppukirja. [http://www.adlibris.com/fi/kirja/huuliharppukirja-9789524832526](http://www.adlibris.com/fi/kirja/huuliharppukirja-9789524832526)
+Jantso Jokelin - Huuliharppukirja. [https://sammakko.com/tuote/jantso-jokelin-huuliharppukirja/](https://sammakko.com/tuote/jantso-jokelin-huuliharppukirja/)
 
 Jouko Kyhälä &amp; Jimmy Träskelin - Pelti Polskia laulaa. [http://www.kansanmusiikkiliitto.fi/nettiputiikki/soitto-rakennus-oppaat/kyhala-jouko-traskelin-jimmy-toim-pelti-polskia-laulaa-%E2%80%93-kansanmusiikkia-blueshuuliharpulla](http://www.kansanmusiikkiliitto.fi/nettiputiikki/soitto-rakennus-oppaat/kyhala-jouko-traskelin-jimmy-toim-pelti-polskia-laulaa-%E2%80%93-kansanmusiikkia-blueshuuliharpulla)
 
