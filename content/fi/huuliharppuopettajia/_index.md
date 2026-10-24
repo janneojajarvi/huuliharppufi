@@ -5,7 +5,7 @@ title: "Huuliharppuopettajia"
 type: "page"
 ---
 
-Helsinki/Uusimaa: Jari Komulainen, Jouko Kyhälä, Jimmy Träskelin
+Helsinki/Uusimaa: Janne Ojajärvi, Jari Komulainen, Jouko Kyhälä, Jimmy Träskelin
 
-Joensuu: Janne Ojajärvi, Joonas Pihlaja
+Joensuu: Joonas Pihlaja
 
