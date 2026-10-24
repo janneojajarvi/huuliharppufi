@@ -57,9 +57,10 @@ Tässä sopivan huuliharpun ja soitto-aseman valinnan avuksi työkalu "Asemataul
 
 [Tästä saat asemataulukko-laskimen isommaksi](https://codepen.io/Janne-Ojaj-rvi/full/yyabqQp)
 
-<div class="wp-block-embed__wrapper">
-https://codepen.io/Janne-Ojaj-rvi/pen/yyabqQp
-</div>
+<iframe height="350" style="width: 100%; border: 0;" scrolling="no" title="Asemataulukko-laskin" src="https://codepen.io/Janne-Ojaj-rvi/embed/yyabqQp?default-tab=result&zoom=0.5" loading="lazy" allowtransparency="true">
+  See the Pen <a href="https://codepen.io/Janne-Ojaj-rvi/pen/yyabqQp">Asemataulukko-laskin</a> by Janne Ojajärvi
+</iframe>
+
 
 © Janne Ojajärvi / /
 
