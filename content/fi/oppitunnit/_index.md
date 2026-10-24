@@ -8,7 +8,7 @@ Huuliharppu.fi:n ylläpitäjä Janne Ojajärvi tarjoaa huuliharpunsoiton opetust
 
 Esimerkkejä opetettavista musiikkityyleistä: kansanmusiikki, blues, rock, pop, country, irlantilainen kansanmusiikki, elokuvamusiikki, ym. Lisää tietoa ja ääniesimerkkejä [musiikkityyleistä täältä](/huuliharppufi/musiikkityylit/).
 
-Esimerkkejä [huuliharppujen malleista](/huuliharppufi/huuliharppumallit/): bluesharppu (= diatoninen 10-reikäinen huuliharppu eli se "tavallinen huuliharppu"), kromaatinen huuliharppu, oktaaviviritteinen huuliharppu (esim. echo tai comet).
+Esimerkkejä [huuliharppujen malleista](/huuliharppufi/tietoa-huuliharpusta/huuliharppumallit/): bluesharppu (= diatoninen 10-reikäinen huuliharppu eli se "tavallinen huuliharppu"), kromaatinen huuliharppu, oktaaviviritteinen huuliharppu (esim. echo tai comet).
 
 [Opetuksen aihealueet](/huuliharppufi/opetuksen-aihealueet/)
 
