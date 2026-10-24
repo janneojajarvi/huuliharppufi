@@ -64,7 +64,6 @@ Ruotsalaisia kansanmusiikkikappaleita: [http://www.folkwiki.se/](http://www.folk
 
 [Hohner-cshop.de - Hohner-merkkisiin huuliharppuihin vaihtokieliä, varaosia, huoltotyökaluja, ym.](http://www.hohner-cshop.de/en/home/)
 
-[Salmelainstruments.com - Suomalainen Soitinhuoltaja ja -rakentaja. Huulharppujen kustomointia vuosien kokemuksella.](http://www.salmelainstruments.com/index.html)
 
 **Kirjallisuus**
 
