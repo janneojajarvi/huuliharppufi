@@ -71,7 +71,7 @@ Brendan Power - Play irish music on the blues harp. [http://www.brendan-power.co
 
 David McKelvy - Huuliharppuopas. [https://www.booky.fi/tuote/david_mckelvy/huuliharppuopas_cd_/9789524610131](https://www.booky.fi/tuote/david_mckelvy/huuliharppuopas_cd_/9789524610131)
 
-Janne Ojajärvi - Huuliharppujamivihko. [http://kansanmusiikki-instituutti.valmiskauppa.fi/huuliharppujamivihko-p-892.html](http://kansanmusiikki-instituutti.valmiskauppa.fi/huuliharppujamivihko-p-892.html)
+Janne Ojajärvi - Huuliharppujamivihko. [https://kansanmusiikkiliitto.fi/tuote/ojajarvi-janne-huuliharppu-jamivihko](https://kansanmusiikkiliitto.fi/tuote/ojajarvi-janne-huuliharppu-jamivihko)
 
 Jari Komulainen &amp; Janne Ojajärvi: [Turpahöylän ensitahdit - Huuliharpun alkeet ja ohjelmistoa.](/huuliharppufi/uusi-huuliharppuopaskirja-julkaistu/)
 
