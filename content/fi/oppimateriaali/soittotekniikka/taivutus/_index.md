@@ -57,11 +57,12 @@ Omassa opetuksessani käytän apuna seuraavanlaisia mielikuvaharjoitteita:
 
 [Tästä linkistä saat kaavion isommaksi](https://codepen.io/Janne-Ojaj-rvi/full/qEamyaM)
 
-<div style="width: 100%; height: 150px; overflow: hidden; position: relative;">
-  <iframe height="300" style="width: 200%; height: 300px; transform: scale(0.5); transform-origin: top left; border: 0;" scrolling="no" title="Huuliharpun taivutuskaavio3" src="https://codepen.io/Janne-Ojaj-rvi/embed/MYjmBmv?default-tab=result" loading="lazy" allowtransparency="true">
-    See the Pen <a href="https://codepen.io/Janne-Ojaj-rvi/pen/MYjmBmv">Huuliharpun taivutuskaavio3</a> by Janne Ojajärvi
-  </iframe>
-</div>
+<p class="codepen" data-height="400" data-pen-title="Huuliharpun taivutuskaavio3" data-default-tab="result" data-slug-hash="MYjmBmv" data-user="Janne-Ojaj-rvi" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/Janne-Ojaj-rvi/pen/MYjmBmv">
+  Huuliharpun taivutuskaavio3</a> by Janne Ojajärvi (<a href="https://codepen.io/Janne-Ojaj-rvi">@Janne-Ojaj-rvi</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://public.codepenassets.com/embed/index.js"></script>
 
 
 © Janne Ojajärvi / www.huuliharppu.fi
