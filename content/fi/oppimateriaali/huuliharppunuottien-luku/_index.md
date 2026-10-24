@@ -81,7 +81,10 @@ Jos nuottien lukemisen oppiminen kuitenkin kiinnostaa, niin tässä kuvassa on y
 
 (Klikkaa [**tästä**](https://codepen.io/Janne-Ojaj-rvi/full/ZYpKRaW) saadaksesi interaktiivisen sävelkartan isommaksi) 
 
-https://codepen.io/Janne-Ojaj-rvi/pen/ZYpKRaW
+<iframe height="350" style="width: 100%; border: 0;" scrolling="no" title="Interaktiivinen huuliharppu4" src="https://codepen.io/Janne-Ojaj-rvi/embed/ZYpKRaW?default-tab=result&zoom=0.5" loading="lazy" allowtransparency="true">
+  See the Pen <a href="https://codepen.io/Janne-Ojaj-rvi/pen/ZYpKRaW">Interaktiivinen huuliharppu4</a> by Janne Ojajärvi
+</iframe>
+
 
 © Janne Ojajärvi / www.huuliharppu.fi
 
