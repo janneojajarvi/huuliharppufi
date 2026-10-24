@@ -20,35 +20,4 @@ Lisätietoa Janne Ojajärven soittotunneista [**tästä linkistä.**](/huuliharp
 <p>Voit ottaa yhteyttä myös alla olevalla lomakkeella.</p>
 
 <!-- Yhteydenottolomake -->
-<form action="https://formspree.io/f/moejpdvb" method="POST" style="max-width: 600px; display: flex; flex-direction: column; gap: 15px; margin-top: 20px;">
-    <div>
-        <label for="name" style="display: block; margin-bottom: 5px; font-weight: bold;">Nimi *</label>
-        <input type="text" id="name" name="name" required style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;">
-    </div>
-    
-    <div>
-        <label for="email" style="display: block; margin-bottom: 5px; font-weight: bold;">Sähköpostiosoite *</label>
-        <input type="email" id="email" name="email" required style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;">
-    </div>
-    
-    <div>
-        <label for="message" style="display: block; margin-bottom: 5px; font-weight: bold;">Viesti *</label>
-        <textarea id="message" name="message" rows="5" required style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;"></textarea>
-    </div>
-    
-    <div>
-        <label for="source" style="display: block; margin-bottom: 5px; font-weight: bold;">Kuinka löysit tietoa huuliharppu.fi -sivustosta tai huuliharpunsoiton opetuksestani?</label>
-        <select id="source" name="source" style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;">
-            <option value="">-----------</option>
-            <option value="Tuttavalta">Tuttavalta</option>
-            <option value="Googlesta">Googlesta</option>
-            <option value="YouTubesta">YouTubesta</option>
-            <option value="Facebookista">Facebookista</option>
-            <option value="Muuta kautta">Muuta kautta</option>
-        </select>
-    </div>
-    
-    <div>
-        <button type="submit" style="background-color: #007bff; color: white; padding: 10px 20px; border: none; border-radius: 4px; cursor: pointer; font-weight: bold;">Lähetä</button>
-    </div>
-</form>
+{{< contact_form_fi >}}
