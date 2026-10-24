@@ -22,7 +22,7 @@ Suomenruotsalaisia perinnekappaleita: [https://folkdiktning.sls.fi/#/facsimile/p
 
 Pelimannimusiikkia huuliharpulle: [http://www.huuliharppu.net/](http://www.huuliharppu.net/)
 
-Komulainen Jari: [FransFredrik Komulainen Kainuun huuliharpisti](https://kansanmusiikkiliitto.fi/?s=Komulainen+Jari+FransFredrik+Komulainen)
+Komulainen Jari: [FransFredrik Komulainen Kainuun huuliharpisti](https://kansanmusiikkiliitto.fi/haku?q=Fransfredrik+komulainen)
 
 **Ruotsalainen kansanmusiikki**
 
