@@ -28,7 +28,7 @@ Komulainen Jari: [FransFredrik Komulainen Kainuun huuliharpisti](https://kansanm
 
 Ruotsalaisen kansanmusiikin huuliharpunsoittoon keskittynyt kiinnostava sivusto (sis. myös asiaa viritysjärjestelmistä): [http://www.folkmunspel.se/](http://www.folkmunspel.se/)
 
-Ruotsalaisia kansanmusiikkikappaleita: [http://www.folkwiki.se/](http://www.folkwiki.se/)
+Ruotsalaisia kansanmusiikkikappaleita: [http://www.folkwiki.se/](http://www.folkwiki.se/Kategori/Kategori/)
 
 ### **Nettisivut**
 
