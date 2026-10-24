@@ -1,7 +1,7 @@
 ---
 type: "page"
 draft: false
-title: "Trad. tune of the week 12: A-duurimarssi"
+title: "Trad. tune of the week 11: A-duurimarssi"
 date: "2020-06-11"
 ---
 
