@@ -5,6 +5,10 @@ title: "Links"
 type: "page"
 ---
 
+[Interactive HarpChart](/huuliharppufi/en/interactive-harmomica-map/)
+
+[Interactive Bending & Overbend Chart tool](/huuliharppufi/en/bendingtool/)
+
 Nordic folk music jam songs for harmonica: http://jamihuuliharppu.wordpress.com/
 
 Tips, tricks and videos for studying overbend techniques: http://overblow.com/
