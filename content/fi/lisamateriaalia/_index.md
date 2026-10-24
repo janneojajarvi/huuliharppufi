@@ -61,7 +61,6 @@ Ruotsalaisia kansanmusiikkikappaleita: [http://www.folkwiki.se/](http://www.folk
 
 [Svang.fi - Suomen kansainvälisesti maineikkaimman huuliharppukvartetin Sväng! -yhtyeen nettisivu.](http://www.svang.fi/fi/)
 
-[Millbrook.fi - Kruunuhaassa sijaitseva Hohner-merkkisiin huuliharppuihin erikoistunut musiikkiliike.](http://millbrook.fi/)
 
 [Hohner-cshop.de - Hohner-merkkisiin huuliharppuihin vaihtokieliä, varaosia, huoltotyökaluja, ym.](http://www.hohner-cshop.de/en/home/)
 
