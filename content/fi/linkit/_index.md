@@ -7,7 +7,7 @@ type: "page"
 
 [Huuliharpun kustomoijat ja korjaajat](/huuliharppufi/huuliharpun-kustomoijat/)
 
-[Harjoittelun tuoeksi ohjelmia](/huuliharppufi/harjoittelun-tueksi-ohjelmia/)
+[Harjoittelun tuoeksi ohjelmia](/huuliharppufi/oppimateriaali/harjoittelun-tueksi-ohjelmia/)
 
 [Kuunteluvinkkejä](/huuliharppufi/kuunteluvinkkeja/)
 
