@@ -7,5 +7,5 @@ type: "page"
 
 Huuliharppua voi joko säätää itse tai sitten kustomointityön voi antaa harjaantuneelle ammattilaiselle.  Myös huuliharpun korjauksen voi tilata ammattilaiselta. Tässä lyhyt lista kustomoijista Suomessa ja ulkomailla. Lista täydentyy ajan myötä:
 
-Tatu Salmela (Salmela instruments), Suomi: http://www.salmelainstruments.com/<br>Joen Anderson (JA Harmonicas), Ruotsi: https://www.jaharmonicas.com/ <br>Erland Westerström, Ruotsi (korjaus): [https://www.folkmunspel.se/service](https://www.folkmunspel.se/service)<br>Brendan Power, UK: https://www.brendan-power.com/<br>Richard Sleigh, James Gordon or Johnny Bishop, Yhdysvallat: https://hotrodharmonicas.com/
+Ruotsi: https://www.jaharmonicas.com/ <br>Erland Westerström, Ruotsi (korjaus): [https://www.folkmunspel.se/service](https://www.folkmunspel.se/service)<br>Brendan Power, UK: https://www.brendan-power.com/<br>Richard Sleigh, James Gordon or Johnny Bishop, Yhdysvallat: https://hotrodharmonicas.com/
 
