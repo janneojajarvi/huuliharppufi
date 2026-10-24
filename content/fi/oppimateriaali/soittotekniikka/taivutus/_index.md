@@ -57,11 +57,12 @@ Omassa opetuksessani käytän apuna seuraavanlaisia mielikuvaharjoitteita:
 
 [Tästä linkistä saat kaavion isommaksi](https://codepen.io/Janne-Ojaj-rvi/full/qEamyaM)
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="Huuliharpun taivutuskaavio3" src="https://codepen.io/Janne-Ojaj-rvi/embed/MYjmBmv?default-tab=result" frameborder="no" loading="lazy" allowtransparency="true">
-  See the Pen <a href="https://codepen.io/Janne-Ojaj-rvi/pen/MYjmBmv">
-  Huuliharpun taivutuskaavio3</a> by Janne Ojajärvi (<a href="https://codepen.io/Janne-Ojaj-rvi">@Janne-Ojaj-rvi</a>)
-  on <a href="https://codepen.io">CodePen</a>.
-</iframe>
+<div style="width: 100%; height: 150px; overflow: hidden; position: relative;">
+  <iframe height="300" style="width: 200%; height: 300px; transform: scale(0.5); transform-origin: top left; border: 0;" scrolling="no" title="Huuliharpun taivutuskaavio3" src="https://codepen.io/Janne-Ojaj-rvi/embed/MYjmBmv?default-tab=result" loading="lazy" allowtransparency="true">
+    See the Pen <a href="https://codepen.io/Janne-Ojaj-rvi/pen/MYjmBmv">Huuliharpun taivutuskaavio3</a> by Janne Ojajärvi
+  </iframe>
+</div>
+
 
 © Janne Ojajärvi / www.huuliharppu.fi
 
