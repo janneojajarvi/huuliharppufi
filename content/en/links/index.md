@@ -5,7 +5,7 @@ title: "Links"
 type: "page"
 ---
 
-[Interactive HarpChart](/huuliharppufi/en/interactive-harmomica-map/)
+[Interactive HarpChart](/huuliharppufi/en/interactive-harmonica-map/)
 
 [Interactive Bending & Overbend Chart tool](/huuliharppufi/en/bendingtool/)
 
