@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Välystäminen"
 type: "page"
+description: "Välystämisellä (engl. embossing) tarkoitetaan kielen ja kieliaukon välin ilmatiiviyden parantamista.Välystäminen vaikuttaa merkitt"
 ---
 
 Välystämisellä (engl. embossing) tarkoitetaan kielen ja kieliaukon välin ilmatiiviyden parantamista.Välystäminen vaikuttaa merkittävästi soittotuntumaan, erityisesti taivutustekniikoiden käyttöön. Huuliharppujen kielet ja kielilaatat valmistetaan tehtaalla sarjatyönä, jolloin kielen ja kielilaatan ilmatiiviyden kontrollointi soitinkohtaisesti ei ole mahdollista. Tehdasvalmisteisen harpun välysten tiiviys riittää peruskäyttöön, mutta edistyneempien soittotekniikoiden sujuvaan käyttöön se ei riitä.

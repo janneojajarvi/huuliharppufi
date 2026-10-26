@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Yhtyeet"
 type: "page"
+description: "Adam &amp; Satan Aerosmith Blues Traveler Chicago Overcoat De Temps Antan Filip Jers Quartet H.A.R.P Hanoi Rocks Harmonicats J. Ka"
 ---
 
 Adam &amp; Satan

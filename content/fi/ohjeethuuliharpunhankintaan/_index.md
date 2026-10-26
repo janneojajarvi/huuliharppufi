@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Ohjeet huuliharpun hankintaan huuliharppukurssille"
 type: "page"
+description: "Tällä sivulla annan neuvoja huuliharpun hankintaan pitämilleni huuliharppukursseille. Eri opettajat voivat vaatia erilaisia harppu"
 ---
 
 Tällä sivulla annan neuvoja huuliharpun hankintaan pitämilleni huuliharppukursseille. Eri opettajat voivat vaatia erilaisia harppuja. Oman kokemukseni perusteella olen huomannut, että C-duuri-sävellajin huuliharppu on yleisin alkeiskurssien huuliharppu.

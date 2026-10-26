@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Kielikomppaus"
 type: "page"
+description: "Huuliharpun soitossa on hieno mahdollisuus säestää soittamaansa melodiaa samanaikaisesti soitettavalla sointusäestyksellä. Tätä ku"
 ---
 
 Huuliharpun soitossa on hieno mahdollisuus säestää soittamaansa melodiaa samanaikaisesti soitettavalla sointusäestyksellä. Tätä kutsutaan myös kielikompiksi. Kielikomppaus onnistuu kaikilla kieliansatseilla. Kielikomppausta ovat suosineet soitossaan etenkin suomalaiset pelimannisoittajat.

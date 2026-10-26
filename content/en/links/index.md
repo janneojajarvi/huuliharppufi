@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Links"
 type: "page"
+description: "[Interactive HarpChart](/huuliharppufi/en/interactive-harmonica-map/)"
 ---
 
 [Interactive HarpChart](/huuliharppufi/en/interactive-harmonica-map/)

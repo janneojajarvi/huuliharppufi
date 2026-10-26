@@ -1,6 +1,7 @@
 ---
 title: "Huuliharpunsoiton opetusta kaikentasoisille"
 type: "post"
+description: "<p style=text-align:left;>Huuliharppu.fi -sivusto tarjoaa kattavan huuliharpunsoiton itseopiskelumateriaalin lisäksi myös oppitunt"
 ---
 
 <p style="text-align:left;">Huuliharppu.fi -sivusto tarjoaa kattavan huuliharpunsoiton itseopiskelumateriaalin lisäksi myös oppitunteja huuliharpun soittoon. Oppitunnit voidaan toteuttaa joko kasvokkain tai etäyhteydellä. Lisää tietoa oppitunneista [tässä linkissä.](/huuliharppufi/oppitunnit/)

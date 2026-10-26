@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Harjoituksia ja ohjelmistoa borduunasoittoon"
 type: "page"
+description: "Koska borduunakappaleissa ja -harjoituksissa soitetaan aina melodiaäänen lisäksi puhaltaessa +3 ja imiessä -2, olen merkinnyt sen "
 ---
 
 Koska borduunakappaleissa ja -harjoituksissa soitetaan aina melodiaäänen lisäksi puhaltaessa +3 ja imiessä -2, olen merkinnyt sen vain harjoituksiin ja ensimmäisiin kappaleisiin.

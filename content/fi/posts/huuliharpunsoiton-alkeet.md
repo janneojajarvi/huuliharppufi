@@ -1,6 +1,7 @@
 ---
 title: "Huuliharpunsoiton alkeet"
 type: "post"
+description: "https://youtu.be/X_i3uXSuOaY"
 ---
 
 https://youtu.be/X_i3uXSuOaY

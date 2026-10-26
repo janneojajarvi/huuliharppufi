@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Huuliharppumallit"
 type: "page"
+description: "Huuliharpun soitinperheeseen kuuluu monen monta toinen toistaan kiehtovampaa mallia. Yleisin niistä on ylivoimaisesti diatoninen 1"
 ---
 
 Huuliharpun soitinperheeseen kuuluu monen monta toinen toistaan kiehtovampaa mallia. Yleisin niistä on ylivoimaisesti diatoninen 10-reikäinen bluesharppu. Uusia malleja ja innovaatioita syntyy kuitenkin jatkuvasti lisää.

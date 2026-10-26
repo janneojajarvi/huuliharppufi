@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Väliaikainen viritys alaspäin sinitarralla"
 type: "page"
+description: "Bluesharpun virityksen muuttaminen tuo uusia mahdollisuuksia instrumentin käyttöön. Viilaamalla tehty viritys on melko pysyvä toim"
 ---
 
 Bluesharpun virityksen muuttaminen tuo uusia mahdollisuuksia instrumentin käyttöön. Viilaamalla tehty viritys on melko pysyvä toimenpide, mutta viritystä voi tehdä myös väliaikaisilla ratkaisuilla. Lisäämällä kielten kärkiin painoa voidaan kielen soivaa virettä laskea matalammaksi. Tämä onnistuu kätevästi käyttämällä mm. sinitarraa. Sinitarra kestää mainiosti kiinni kielessä, jos siihen ei koske sormella tms. Itselläni sinitarra ei ole irronnut vielä kertaakaan esim. sinitarralla viritettyä kieltä runsaasti taivuttaessa.

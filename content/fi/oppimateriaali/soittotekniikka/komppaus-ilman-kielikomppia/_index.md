@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Komppaus (ilman kielikomppia)"
 type: "page"
+description: "Komppaus huuliansatsilla tapahtuu paljolti samaan tapaan kuin junaimitaation soitto. Siinä soitetaan yhteen tai useampaan reikään "
 ---
 
 Komppaus huuliansatsilla tapahtuu paljolti samaan tapaan kuin junaimitaation soitto. Siinä soitetaan yhteen tai useampaan reikään samaan aikaan. Useamman reiän soitolla voidaan saada aikaseksi sointuja. 1-asemassa soitettaessa Käyttökelpoisia sointuja komppaukseen ovat esimerkiksi sointuasteet I, V, ja II. Peitettäessa kielellä osa rei'istä on mahdollista saada säestysääniksi tukevasti kaksi eri oktaavialan D-säveltä reikien 1. ja 4. imulla. 1-asemasta voi saada myös vähennetyn Hm-soinnu (Hm-5) reikien 3.-5. imulla.

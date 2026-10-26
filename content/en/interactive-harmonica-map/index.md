@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Interactive Harmonica Map"
 type: "page"
+description: "Whether you are a beginner learning your first scales or an experienced player exploring different keys, this interactive map is d"
 ---
 
 ### **Interactive Harmonica Map: Visualize Your Notes**

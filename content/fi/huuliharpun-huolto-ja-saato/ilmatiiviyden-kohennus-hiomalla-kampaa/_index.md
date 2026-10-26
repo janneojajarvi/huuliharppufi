@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Ilmatiiviyden kohennus hiomalla kampaa"
 type: "page"
+description: "Puiset tai puukomposiittikammat saattavat puun rakenteen luonteen takia olla tehtaalta saapuessaan hieman (vähintäänkin mikroskoop"
 ---
 
 Puiset tai puukomposiittikammat saattavat puun rakenteen luonteen takia olla tehtaalta saapuessaan hieman (vähintäänkin mikroskooppisesti) epätasaisia. Kamman tasaisuus voidaan viimeistellä pyyhkäisemällä kamman päältä 2-3 kertaa hienolla (ei-karhealla) hiomapaperilla. Suosittelemani luokka: erittäin hieno / P1000.

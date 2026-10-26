@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Borduunasoitto"
 type: "page"
+description: "Diatonisella 10-reikäisellä huuliharpulla eli bluesharpulla on mahdollista soittaa ns. borduunasävel (engl. drone) melodian alle. "
 ---
 
 Diatonisella 10-reikäisellä huuliharpulla eli "bluesharpulla" on mahdollista soittaa ns. borduunasävel (engl. drone) melodian alle. Tämä tapahtuu kun jätetään peittämättä kielellä melodiaäänen reiän lisäksi imiessä reikä 2. ja puhaltaessa reikä 3. Tällöin melodiaäänen alapuolella soi koko ajan yksi samalla korkeudella pysyvä sävel, joka tässä tapauksessa on alakvintti.

@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Harjoituksia ja kappaleita kromaattiselle huuliharpulle"
 type: "page"
+description: "Osta nuottimateriaalipaketti (PDF) kromaattiselle huuliharpulle täältä: https://payhip.com/b/NOauw"
 ---
 
 Osta nuottimateriaalipaketti (PDF) kromaattiselle huuliharpulle täältä: https://payhip.com/b/NOauw

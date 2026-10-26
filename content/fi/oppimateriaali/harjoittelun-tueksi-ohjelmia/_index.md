@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Harjoittelun tueksi ohjelmia"
 type: "page"
+description: "<em>(linkkien toimivuus tarkistettu 13.3.2026)</em>"
 ---
 
 **Harjoittelun tueksi ohjelmia, joilla voi mm. hidastaa äänitteitä:**

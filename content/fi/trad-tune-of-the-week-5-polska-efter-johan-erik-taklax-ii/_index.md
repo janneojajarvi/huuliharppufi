@@ -3,6 +3,7 @@ type: "page"
 draft: false
 title: "Trad. tune of the week 5: Polska efter Johan Erik Taklax II"
 date: "2020-04-23"
+description: "https://youtu.be/-u8khjXxjlc"
 ---
 
 https://youtu.be/-u8khjXxjlc

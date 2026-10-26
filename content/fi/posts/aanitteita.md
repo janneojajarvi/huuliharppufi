@@ -1,6 +1,7 @@
 ---
 title: "Äänitteitä / Recordings"
 type: "post"
+description: "Bobby Leecan &amp; Robert Cooksey: Vol 1 (1924-1927).<br>Bobby Leecan &amp; Robert Cooksey: Vol 2 (1927-1928).<br>Sonny Terry: Har"
 ---
 
 **Vanhat julkaisut / Old records: **

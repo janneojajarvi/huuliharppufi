@@ -2,6 +2,7 @@
 title: "Oppitunnit"
 draft: false
 type: "page"
+description: "Huuliharppu.fi:n ylläpitäjä Janne Ojajärvi tarjoaa huuliharpunsoiton opetusta monipuolisesti eri ikäisille ja tasoisille soittajil"
 ---
 
 Huuliharppu.fi:n ylläpitäjä Janne Ojajärvi tarjoaa huuliharpunsoiton opetusta monipuolisesti eri ikäisille ja tasoisille soittajille. Opetus voidaan toteuttaa joko [etäopetuksena](/huuliharppufi/etaopetus/) tai kasvokkain. Myös ryhmätunnit ovat mahdollisia. Huuliharppujen sävellajeista, malleista tai neuvoa hankintaan voit kysyä [Jannelta](/huuliharppufi/kontakti/). Soitonopetuksen musiikkityylit ja sisältö räätälöidään oppilaan tarpeiden ja mielenkiinnon mukaan. Muiden kaupunkien opettajista vinkkejä [täältä](/huuliharppufi/huuliharppuopettajia/).

@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Lähteet"
 type: "page"
+description: "Tämän sivuston tiedon lähteinä olen käyttänyt seuraavia kirjallisia ja suullisia lähteitä:"
 ---
 
 Tämän sivuston tiedon lähteinä olen käyttänyt seuraavia kirjallisia ja suullisia lähteitä:

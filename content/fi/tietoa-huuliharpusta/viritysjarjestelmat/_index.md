@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Viritysjärjestelmät"
 type: "page"
+description: "Huuliharppujen vireet vaihtelevat tietyssä määrin niin eri kielille viritettyjen sävelien kuin hienovireenkin suhteen. Yleisimmill"
 ---
 
 Huuliharppujen vireet vaihtelevat tietyssä määrin niin eri kielille viritettyjen sävelien kuin hienovireenkin suhteen. Yleisimmillä virityksillä voi huuliharppuja löytää kaupoista ja verkkokaupoista, mutta erikoisemmat vireet vaativat joko soittimen virittämistä itse tai yksilöllisesti säädetyn huuliharpun osamista. Yksilöllisen&nbsp; vireen omaavan huuliharpun voi tilata suhteellisen edullisesti mm. [Seydelin verkkokaupasta (ks. configurable)](http://www.seydel1847.de/epages/Seydel1847.sf/secce95d17558/?ObjectPath=/Shops/Seydel/Categories/Configurator/Config_Harmonikas).

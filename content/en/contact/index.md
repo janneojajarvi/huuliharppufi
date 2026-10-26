@@ -4,6 +4,7 @@ date: 2023-01-01T00:00:00+02:00
 title: "Contact"
 type: "page"
 url: "/en/contact/"
+description: "Email: ojajarvijanne (at) gmail dot com"
 ---
 
 Email: ojajarvijanne (at) gmail dot com

@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Ylitaivutus"
 type: "page"
+description: "Ylitaivutus (engl. overbend, overbending) on taivutustekniikka, jossa tuotettu taivutusääni on korkeampi kuin saman reiän samansuu"
 ---
 
 Ylitaivutus (engl. overbend, overbending) on taivutustekniikka, jossa tuotettu taivutusääni on korkeampi kuin saman reiän samansuuntainen taivuttamaton ääni. Ylitaivutukseen ovat vakiintuneet termit ylipuhallus (engl. overblow) ja yli-imu (engl. overdraw). Ylitaivutustekniikka on suhteellisen nuori soittotekniikka, jonka isänä pidetään yleisesti amerikkalaista Howard Levyä, joka kehitti tekniikan 1970-luvulla.

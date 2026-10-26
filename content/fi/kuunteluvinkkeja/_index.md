@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Kuunteluvinkkejä"
 type: "page"
+description: "Tälle sivulle on sekalainen lista äänitteistä, jossa huuliharppua voi kuulla oleellisessa roolissa eri musiikkityyleissä. Lista pä"
 ---
 
 Tälle sivulle on sekalainen lista äänitteistä, jossa huuliharppua voi kuulla oleellisessa roolissa eri musiikkityyleissä. Lista päivittyy sitä mukaa kun niitä keretään päivittää.

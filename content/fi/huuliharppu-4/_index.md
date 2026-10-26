@@ -3,6 +3,7 @@ type: "page"
 draft: false
 title: "Huuliharppu"
 date: "2020-01-20"
+description: "Tämä on huuliharppu.fi. Sivuston tarkoitus on tarjota työkaluja ja materiaalia huuliharpun soiton opiskeluun ja soittotaitojen vah"
 ---
 
 Tämä on huuliharppu.fi. Sivuston tarkoitus on tarjota työkaluja ja materiaalia huuliharpun soiton opiskeluun ja soittotaitojen vahvistamiseen. Kaikki palaute sivuston käyttäjiltä on tervetullutta.

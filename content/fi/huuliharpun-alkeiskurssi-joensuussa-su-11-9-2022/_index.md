@@ -3,6 +3,7 @@ type: "page"
 draft: false
 title: "Huuliharpun alkeiskurssi Joensuussa su 11.9.2022"
 date: "2022-08-30"
+description: "Aloittelijoille suunnattu huuliharpunsoiton kurssi Joensuun konservatoriolla sunnuntaina 11.9.2022."
 ---
 
 Aloittelijoille suunnattu huuliharpunsoiton kurssi Joensuun konservatoriolla sunnuntaina 11.9.2022.

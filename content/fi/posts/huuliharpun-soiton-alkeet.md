@@ -2,6 +2,7 @@
 title: "Huuliharpun soiton alkeet"
 type: "post"
 date: 2025-11-01T00:00:00+02:00
+description: "Opetusvideo huuliharpunsoiton alkeisiin. Tässä videossa opetellaan soittamaan huuliharpusta yksittäinen sävel soinnun sijaan. Vide"
 ---
 
 {{< youtube X_i3uXSuOaY >}}

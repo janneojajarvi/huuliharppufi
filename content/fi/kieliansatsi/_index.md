@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Kieliansatsi"
 type: "page"
+description: "KIELIANSATSI (engl. tongue blocking)"
 ---
 
 KIELIANSATSI (engl. tongue blocking)

@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Tips for buying your first harmonica"
 type: "page"
+description: "<p>Even though choosing the right harmonica is largely a matter of personal preference, it is always worth investing in a high-qua"
 ---
 
 <p>Even though choosing the right harmonica is largely a matter of personal preference, it is always worth investing in a high-quality instrument. A good, professional-standard harmonica typically costs between <strong>€40 and €60</strong>.</p>

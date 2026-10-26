@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Kielikulman säätö"
 type: "page"
+description: "Kielikulman säätäminen (engl. gapping) vaikuttaa harpun soittotuntumaan sekä soitettavuuteen. Kielikulmalla on suuri vaikutus siih"
 ---
 
 Kielikulman säätäminen (engl. gapping) vaikuttaa harpun soittotuntumaan sekä soitettavuuteen. Kielikulmalla on suuri vaikutus siihen kuinka helposti kieli syttyy eli lähtee värähtelemään pienellä ilmavirralla, mutta myös siihen kuinka helposti kieli menee tukkoon, eli lakkaa soimasta kovalla ilmavirralla. Käytännössä kielikulma on syytä säätää vastaamaan kunkin soittajan soittotapaa.

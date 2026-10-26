@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Huuliharpun rakenne ja toiminta"
 type: "page"
+description: "[<img src=/huuliharppufi/wp-content/uploads/2015/10/kuvaharpunosista1.jpg alt=Huuliharpun osat class=wp-image-279 />](/huuliharppu"
 ---
 
 ### HUULIHARPUN RAKENNE

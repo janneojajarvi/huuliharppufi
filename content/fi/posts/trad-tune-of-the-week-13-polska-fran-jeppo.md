@@ -1,6 +1,7 @@
 ---
 title: "Trad. tune of the week 13: Polska från Jeppo"
 type: "post"
+description: "https://youtu.be/kL9kpKKHh8c"
 ---
 
 https://youtu.be/kL9kpKKHh8c

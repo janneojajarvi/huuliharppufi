@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Taivutus"
 type: "page"
+description: "Taivutusäänellä (engl. bend, bend note) tarkoitetaan ilmiötä, jossa soittaja suunsa tilavuutta ja muotoa muuntelemalla voi laskea "
 ---
 
 Taivutusäänellä (engl. bend, bend note) tarkoitetaan ilmiötä, jossa soittaja suunsa tilavuutta ja muotoa muuntelemalla voi laskea soitettavan äänen sävelkorkeutta portaattomasti tietyn verran. Huuliharpun rakenteesta johtuen soittajan puhaltama ja imemä ilmavirta on aina tekemisissä kahden kielen kanssa kerrallaan: puhalluskielen ja imukielen. Tämä tehoste on esiintyy usein varsinkin bluesmusiikissa.

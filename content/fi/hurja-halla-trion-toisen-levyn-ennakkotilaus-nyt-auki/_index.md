@@ -3,6 +3,7 @@ type: "page"
 draft: false
 title: "Hurja Halla -trion toisen levyn ennakkotilaus nyt auki"
 date: "2025-05-13"
+description: "Nyt voit ennakkotilata Hurja Halla -yhtyeen toisen albumi Surma hiihti ja tukea levyn julkaisua. Levyllä kuullaan muun muassa soin"
 ---
 
 Nyt voit ennakkotilata Hurja Halla -yhtyeen toisen albumi "Surma hiihti" ja tukea levyn julkaisua. Levyllä kuullaan muun muassa sointuhuuliharppua.

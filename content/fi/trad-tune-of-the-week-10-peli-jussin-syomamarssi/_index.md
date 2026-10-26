@@ -3,6 +3,7 @@ type: "page"
 draft: false
 title: "Trad. tune of the week 10: Peli-Jussin syömämarssi"
 date: "2020-05-29"
+description: "https://youtu.be/a64ANDeLH64"
 ---
 
 https://youtu.be/a64ANDeLH64

@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Trad. tune of the week - sheets and tabs"
 type: "page"
+description: "[Syrjälän Kaapon polska](/huuliharppufi/wp-content/uploads/2020/04/syrjaelaen_kaapon_polska-1.pdf)"
 ---
 
 [Syrjälän Kaapon polska](/huuliharppufi/wp-content/uploads/2020/04/syrjaelaen_kaapon_polska-1.pdf)

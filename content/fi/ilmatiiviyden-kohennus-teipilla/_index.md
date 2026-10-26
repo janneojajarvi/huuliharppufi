@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Ilmatiiviyden kohennus teipillä"
 type: "page"
+description: "Eräs tapa vähentää ilman vuoto huuliharpun kamman ja kuorien välistä on käyttää apteekeissa myytävää ihoteippiä. Hyvä valinta on v"
 ---
 
 Eräs tapa vähentää ilman vuoto huuliharpun kamman ja kuorien välistä on käyttää apteekeissa myytävää ihoteippiä. Hyvä valinta on vedenkestävä teippi mm. Leukoflex. Teippi liimataan kuoren suuta vasten tulevan reunan sisäpuolelle niin, että se tulee vähän reunan yli. Yli menevä osa leikataan sitten esim. paperileikkurilla pois.

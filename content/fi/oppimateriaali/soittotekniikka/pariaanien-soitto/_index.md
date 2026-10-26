@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Pariäänien soitto"
 type: "page"
+description: "Pariäänisoitossa (engl. double blocking, splitting, octaving) kieltä käytetään peittämään yksi tai useampi reikä suun keskeltä, jo"
 ---
 
 Pariäänisoitossa (engl. double blocking, splitting, octaving) kieltä käytetään peittämään yksi tai useampi reikä suun keskeltä, jolloin reiät kielen molemmilta puolilta pääsevät soimaan. Soitettavista rei'istä riippuen on bluesharpulla mahdollista soittaa erilaisia intervalleja mm. oktaaveja, joita voi käyttää tehokkaana efektinä soolosoitossa tai melodian säestykseen. Intervalli tarkoittaa tässä tapauksessa kahta samanaikaisesti soivaa säveltä. Esimerkiksi kahdeksan sävelen välimatkan intervallin voi soittaa peittämällä kielellä huuliharpun reiät numero 2. ja 3. ja puhaltamalla reikiin 1. ja 4. Pariäänten soittaminen mahdollistaa myös ns. borduunasävelen (engl. drone) käytön melodian taustalla. Tämä tapahtuu kun jätetään peittämättä kielellä melodiaäänen reiän lisäksi imiessä reikä 2. ja puhaltaessa reikä 3. Tällöin melodiaäänen taustalla soi koko ajan yksi samalla korkeudella pysyvä sävel. Katso lisää kohdasta [borduunasoitto](/huuliharppufi/oppimateriaali/soittotekniikka/borduunasoitto/).

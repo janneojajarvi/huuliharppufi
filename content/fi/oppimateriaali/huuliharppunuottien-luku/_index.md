@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Huuliharppunuottien luku"
 type: "page"
+description: "Huuliharpulle on olemassa muutamia erilaisia nuottimerkintöjä. Nämä ns. tabulatuurit ilmaisevat hengityssuunnan ja huuliharpun rei"
 ---
 
 Huuliharpulle on olemassa muutamia erilaisia nuottimerkintöjä. Nämä ns. tabulatuurit ilmaisevat hengityssuunnan ja huuliharpun reiän numeron. Useimmat huuliharpputabulatuurit eivät kuitenkaan kerro sävelien kestoja, joten niiden kanssa on yleensä esillä myös perinteiset nuotit.

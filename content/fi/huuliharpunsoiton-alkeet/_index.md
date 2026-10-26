@@ -3,6 +3,7 @@ type: "page"
 draft: false
 title: "Huuliharpunsoiton alkeet"
 date: "2024-01-01"
+description: "https://youtu.be/X\_i3uXSuOaY"
 ---
 
 https://youtu.be/X\_i3uXSuOaY

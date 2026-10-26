@@ -1,6 +1,7 @@
 ---
 title: "Huuliharpun hankintaopas"
 type: "post"
+description: "https://youtu.be/G5rWhpVk-qY"
 ---
 
 https://youtu.be/G5rWhpVk-qY

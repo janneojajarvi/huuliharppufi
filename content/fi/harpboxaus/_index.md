@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Harpboxaus"
 type: "page"
+description: "Harpboxaus (engl. harpboxing) on huuliharpunsoiton ja beatboxauksen yhdistelemistä. Sekä beatboxauksessa, että huuliharpunsoitossa"
 ---
 
 Harpboxaus (engl. harpboxing) on huuliharpunsoiton ja beatboxauksen yhdistelemistä. Sekä beatboxauksessa, että huuliharpunsoitossa ilma virtaa keuhkoihin sisään ja ulos, joten niiden ääniä on mahdollista sulauttaa yhteen joko vuorottelemalla tai samanaikaisesti.

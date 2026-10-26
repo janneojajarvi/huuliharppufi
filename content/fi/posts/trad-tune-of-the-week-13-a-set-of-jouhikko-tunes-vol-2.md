@@ -1,6 +1,7 @@
 ---
 title: "Trad. tune of the week 16: A set of jouhikko tunes vol. 2"
 type: "post"
+description: "https://youtu.be/yAiSmGJQGlA"
 ---
 
 https://youtu.be/yAiSmGJQGlA

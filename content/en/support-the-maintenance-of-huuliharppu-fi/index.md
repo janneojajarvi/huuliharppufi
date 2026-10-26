@@ -3,6 +3,7 @@ type: "page"
 draft: false
 title: "Support the maintenance of huuliharppu.fi"
 date: "2026-03-10"
+description: "For years, I’ve shared free harmonica lessons and tips at Huuliharppu.fi to help players around the world find their sound. Mainta"
 ---
 
 "For years, I’ve shared free harmonica lessons and tips at Huuliharppu.fi to help players around the world find their sound. Maintaining the site, creating new videos, and transcribing sheet music takes hundreds of hours of work and carries monthly costs.

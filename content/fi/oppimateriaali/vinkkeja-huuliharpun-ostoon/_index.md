@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Vinkkejä huuliharpun ostoon"
 type: "page"
+description: "<h3>Suositellut huuliharppumallit aloittelijalle</h3>"
 ---
 
 <h3>Suositellut huuliharppumallit aloittelijalle</h3>

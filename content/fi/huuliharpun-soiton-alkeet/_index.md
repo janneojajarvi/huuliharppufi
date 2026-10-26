@@ -3,6 +3,7 @@ type: "page"
 draft: false
 title: "Huuliharpun soiton alkeet"
 date: "2026-04-29"
+description: "https://youtu.be/X\_i3uXSuOaY"
 ---
 
 https://youtu.be/X\_i3uXSuOaY

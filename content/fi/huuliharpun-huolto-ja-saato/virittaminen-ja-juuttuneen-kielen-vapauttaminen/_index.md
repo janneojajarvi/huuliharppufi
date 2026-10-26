@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Virittäminen ja juuttuneen kielen vapauttaminen"
 type: "page"
+description: "Huuliharpun vire on aina kompromissi. Kaikista sävellajeista samalla diatonisella huuliharpulla soittaessa varteenotettava virevai"
 ---
 
 ### Huuliharpun kielten virittäminen

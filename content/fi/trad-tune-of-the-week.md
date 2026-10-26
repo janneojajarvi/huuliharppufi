@@ -4,6 +4,7 @@ date: 2020-03-26T00:00:00+02:00
 draft: false
 type: "page"
 url: "/trad-tune-of-the-week/"
+description: "Tälle sivulle on koottu vuodelta 2020 **Viikon perinnekappale / Trad. tune of the week** -sarjan julkaisut, opetusvideot ja nuotit"
 ---
 
 Tälle sivulle on koottu vuodelta 2020 **Viikon perinnekappale / Trad. tune of the week** -sarjan julkaisut, opetusvideot ja nuotit diatoniselle huuliharpulle.

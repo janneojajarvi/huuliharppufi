@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Käsitremolo ja käsiefektit"
 type: "page"
+description: "Käsien käyttö on olennainen työkalu soittajan oman soinnin muotoilemiseksi. Tiivis käsikuppi huuliharpun ympärillä muokkaa soinnin"
 ---
 
 Käsien käyttö on olennainen työkalu soittajan oman soinnin muotoilemiseksi. Tiivis käsikuppi huuliharpun ympärillä muokkaa soinnin tummaksi ja pyöreäksi. Avoin kuppi on taas kirkkaampi ja selkeämpi, sekä terävämpi. Suljettu kuppi on myös voimakkuudeltaan hieman vaimeampi.

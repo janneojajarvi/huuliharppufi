@@ -3,6 +3,7 @@ type: "page"
 draft: false
 title: "Nuuska Muikkusen tanssimelodia bluesharpulla ilman taivutuksia / Snufkin dance melody with blues harp without bends"
 date: "2022-01-16"
+description: "https://youtu.be/k81U8FCi7T8"
 ---
 
 https://youtu.be/k81U8FCi7T8

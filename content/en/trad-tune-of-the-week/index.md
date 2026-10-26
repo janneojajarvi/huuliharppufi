@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Trad. tune of the week"
 type: "page"
+description: "During the spring 2020, I made a series of videos of traditional Finnish and Karelian folk music tunes played with harmonica."
 ---
 
 During the spring 2020, I made a series of videos of traditional Finnish and Karelian folk music tunes played with harmonica.

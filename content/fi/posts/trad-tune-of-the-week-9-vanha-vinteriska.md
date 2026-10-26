@@ -1,6 +1,7 @@
 ---
 title: "Trad. tune of the week 9: Vanha vinteriska"
 type: "post"
+description: "<div class=wp-block-embed__wrapper> https://youtu.be/8V1FpwTz3G4 </div>"
 ---
 
 <div class="wp-block-embed__wrapper">

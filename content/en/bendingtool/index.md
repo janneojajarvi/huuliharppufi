@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Interactive Bending & Overbend Chart tool"
 type: "page"
+description: "<hr style=margin: 30px 0; border: 0; border-top: 1px solid"
 ---
 
 <hr style="margin: 30px 0; border: 0; border-top: 1px solid #eaeaea;" />

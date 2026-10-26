@@ -3,6 +3,7 @@ type: "page"
 draft: false
 title: "Trad. tune of the week 12: Isä-Matin polkka"
 date: "2020-07-02"
+description: "https://youtu.be/VpWz3ZP2d-o"
 ---
 
 https://youtu.be/VpWz3ZP2d-o

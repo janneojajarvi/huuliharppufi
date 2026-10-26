@@ -3,6 +3,7 @@ type: "page"
 draft: false
 title: "Trad. tune of the week 11: A-duurimarssi"
 date: "2020-06-11"
+description: "https://youtu.be/odIdScu-mFw"
 ---
 
 https://youtu.be/odIdScu-mFw

@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Yksiääninen soitto"
 type: "page"
+description: "Ensimmäinen henkäys huuliharppuun tuottaa todennäköisesti useimmilla soittajilla useamman sävelen sisältävän soinnun. Yksittäisten"
 ---
 
 Ensimmäinen henkäys huuliharppuun tuottaa todennäköisesti useimmilla soittajilla useamman sävelen sisältävän soinnun. Yksittäisten äänien soittaminen puhtaasti onkin ensimmäinen aloittelevan huuliharpistin haaste. Yksiäänisen soittoon on monia erilaisia tekniikkaa eli ansatsia. Kussakin on etunsa ja rajoitteensa, joten mikään ei ole toistaan parempi. Tällä sivustolla käsittelen huuliansatsia sekä erilaisia kieliansatseja.

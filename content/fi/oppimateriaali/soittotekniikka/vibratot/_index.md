@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Vibratot"
 type: "page"
+description: "Vibraton käyttö on olennainen osa huuliharpistin omaa soundia. Vibratolla voi pehmentää huuliharpun korkeiden sävelien soinnin ter"
 ---
 
 Vibraton käyttö on olennainen osa huuliharpistin omaa soundia. Vibratolla voi pehmentää huuliharpun korkeiden sävelien soinnin terävyyttä, peittää lieviä epävireisyyksiä ja tuoda ilmaisua ja elävyyttä pitkiin säveliin. Vibratotekniikoita on monenlaisia, joista osa tehdään taivutustekniikoilla. Vibratossa sävelkorkeus huojuu.

@@ -1,6 +1,7 @@
 ---
 title: "Trad. tune of the week 8: Niittykosken polkka"
 type: "post"
+description: "<div class=wp-block-embed__wrapper> https://youtu.be/P5vLbT6i_30 </div>"
 ---
 
 <div class="wp-block-embed__wrapper">

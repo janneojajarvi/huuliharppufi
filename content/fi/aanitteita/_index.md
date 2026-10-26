@@ -3,6 +3,7 @@ type: "page"
 draft: false
 title: "Äänitteitä / Recordings"
 date: "2026-03-16"
+description: "Bobby Leecan & Robert Cooksey: Vol 1 (1924-1927). Bobby Leecan & Robert Cooksey: Vol 2 (1927-1928). Sonny Terry: Harmonica and Voc"
 ---
 
 **Vanhat julkaisut / Old records:**

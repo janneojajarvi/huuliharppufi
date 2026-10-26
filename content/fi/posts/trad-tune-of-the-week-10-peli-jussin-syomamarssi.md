@@ -1,6 +1,7 @@
 ---
 title: "Trad. tune of the week 10: Peli-Jussin syömämarssi"
 type: "post"
+description: "<div class=wp-block-embed__wrapper> https://youtu.be/a64ANDeLH64 </div>"
 ---
 
 <div class="wp-block-embed__wrapper">

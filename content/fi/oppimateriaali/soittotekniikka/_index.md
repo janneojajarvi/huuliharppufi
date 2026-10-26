@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Soittotekniikka"
 type: "page"
+description: "Huuliharpun ensimmäinen henkäys tuottaa yleensä harmonisen duurisoinnun. Ennen ensimmäistä henkäystä kannattaa huuliharppua lämmit"
 ---
 
 Huuliharpun ensimmäinen henkäys tuottaa yleensä harmonisen duurisoinnun. Ennen ensimmäistä henkäystä kannattaa huuliharppua lämmittää käsien välissä tai taskussa hetken ajan. Aloita rauhallisella ilmavirralla ennenkuin puhkut siihen kovasti. Huuliharpun käyttöikää pidentää sen rauhallinen lämmittely ennen kovaa soittoa. Lämmittelyn ei kuitenkaan tarvitse kestää kauaa.

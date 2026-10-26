@@ -3,6 +3,7 @@ type: "page"
 draft: false
 title: "Esittelyssä: HarpTuneFinder - Uusi monipuolinen työkalu harppunuottien etsintään"
 date: "2026-03-28"
+description: "Mistä löytyisi huuliharpulla soitettavia kappaleita, joissa ei tarvita taivutustekniikoita? Mistä saisi niihin nuotit, tabulatuuri"
 ---
 
 ## Esittelyssä uusi työkalu perinnesävelmien etsintään huuliharpulle

@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Muut soittimet"
 type: "page"
+description: "Huuliharppukoulu Janne Ojajärvi tarjoaa opetusta myös soittimille pitkähuilu ja munniharppu sekä kurkkulaululle. Tiedustelut soitt"
 ---
 
 Huuliharppukoulu Janne Ojajärvi tarjoaa opetusta myös soittimille pitkähuilu ja munniharppu sekä kurkkulaululle. Tiedustelut soittotunneista [tästä linkistä](/huuliharppufi/kontakti/). Tietoa kurkkulauluopetuksesta [tästä linkistä.](https://janneojajarvi.com/2026/02/28/kurkkulaulun-opetus/)

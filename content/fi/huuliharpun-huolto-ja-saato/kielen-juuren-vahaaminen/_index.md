@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Kielen juuren vahaaminen"
 type: "page"
+description: "Kielen juuren vahaaminen auttaa pääsemään eroon ei-toivotuista häiriöäänistä mm. kielen vinkumaan korkealla taajuudella. Kieltä sa"
 ---
 
 Kielen juuren vahaaminen auttaa pääsemään eroon ei-toivotuista häiriöäänistä mm. kielen vinkumaan korkealla taajuudella. Kieltä sammuttaessa sen ohittava ilmavirta saattaa laittaa kielen väpättämään kieliaukossa. Tombo-merkkiset kielet (mm. Lee Oscarin bluesharpuissa) omaavat huonon maineen tästä, joka rajaa niiden ylitaivutuksia käyttävää käyttäjäkuntaa.

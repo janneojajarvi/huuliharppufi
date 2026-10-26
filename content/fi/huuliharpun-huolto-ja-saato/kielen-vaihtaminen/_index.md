@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Kielen vaihtaminen"
 type: "page"
+description: "Kuten kaikkien soittimien kielet, myös huuliharpun kielet kuluvat lopulta loppuun. Kun huuliharpun kielet ovat tiensä päässä ne sa"
 ---
 
 Kuten kaikkien soittimien kielet, myös huuliharpun kielet kuluvat lopulta loppuun. Kun huuliharpun kielet ovat tiensä päässä ne saattavat laskea soivaa virettään nopeasti tai sitten vain lakata soimasta. Jos kieli ei enää soi voi tosin syynä olla myös moni muu asia mm. kosteuden kertyminen kielen päälle tai roskan juuttuminen kielen ja kieliaukon väliin. Jos kielen vire ei nouse vaikka sen kärkeä viilataan päältä, on kieli todennäköisesti jo käyttökelvoton.

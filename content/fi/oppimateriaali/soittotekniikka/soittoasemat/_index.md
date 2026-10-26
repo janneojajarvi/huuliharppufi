@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Soittoasemat"
 type: "page"
+description: "Diatonisella bluesharpulla voidaan soittaa useita erilaisia asteikoita ja sävellajeja. Periaatteessa bluesharpussa on 12 asemaa (e"
 ---
 
 Diatonisella bluesharpulla voidaan soittaa useita erilaisia asteikoita ja sävellajeja. Periaatteessa bluesharpussa on 12 asemaa (engl. position), joista kukin alkaa joltain asteikon säveleltä. Osa asemista vaatii paljon taivutus- ja ylitaivutustekniikan käyttöä ja osa taas on soitettavissa helpommin. Viisi ensimmäistä asemaa ovat yleisesti suosituimpia ja helpoimpia hallita.

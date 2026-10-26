@@ -3,6 +3,7 @@ type: "page"
 draft: false
 title: "Trad. tune of the week 1: Syrjälän Kaapon polska"
 date: "2020-03-26"
+description: "https://youtu.be/YxYCGdTowl0"
 ---
 
 https://youtu.be/YxYCGdTowl0

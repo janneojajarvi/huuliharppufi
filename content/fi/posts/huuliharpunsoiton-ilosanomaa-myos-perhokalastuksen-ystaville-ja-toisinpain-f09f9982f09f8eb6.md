@@ -1,6 +1,7 @@
 ---
 title: "Huuliharpunsoiton ilosanomaa myös perhokalastuksen ystäville. Ja toisinpäin 🙂🎶"
 type: "post"
+description: "https://youtu.be/HwGcdxVVGKA?t=48"
 ---
 
 https://youtu.be/HwGcdxVVGKA?t=48

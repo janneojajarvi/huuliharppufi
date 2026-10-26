@@ -3,6 +3,7 @@ type: "page"
 draft: false
 title: "Huuliharpun hankintaopas"
 date: "2025-12-01"
+description: "https://youtu.be/G5rWhpVk-qY"
 ---
 
 https://youtu.be/G5rWhpVk-qY

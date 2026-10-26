@@ -1,6 +1,7 @@
 ---
 title: "Huuliharppu.fi -sivusto uudistui!"
 type: "post"
+description: "<p style=text-align:left;>Huuliharppu.fi -sivusto tarjoaa nyt kattavan huuliharpunsoiton itseopiskelumateriaalin lisäski myös oppi"
 ---
 
 <p style="text-align:left;">Huuliharppu.fi -sivusto tarjoaa nyt kattavan huuliharpunsoiton itseopiskelumateriaalin lisäski myös oppitunteja huuliharpun soittoon. Oppitunnit voidaan toteuttaa joko kasvokkain tai etäyhteydellä. Lisää tietoa oppitunneista [tässä linkissä.](/huuliharppufi/oppitunnit/)

@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Huuliharpun puhdistus"
 type: "page"
+description: "Huuliharppu on syytä puhdistaa säännöllisin väliajoin. Vaikka soittaja kuinka puhdistaisi suunsa ennen soittoa niin soittimeen ker"
 ---
 
 Huuliharppu on syytä puhdistaa säännöllisin väliajoin. Vaikka soittaja kuinka puhdistaisi suunsa ennen soittoa niin soittimeen kertyy pakostikin vähitellen esimerkiksi kuollutta ihoa. Puhdistuksen ajaksi huuliharppu kannattaa purkaa osiksi, jotta kaikki lika irtoaa soittimesta. Tämä onnistuu helposti. Puhdistukseen tarvitset astianpesuainetta, hammasharjan, ruuvimeisselin (ristipäisen + ehkä talttapäisen riippuen huuliharppumallista).

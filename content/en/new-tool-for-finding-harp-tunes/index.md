@@ -3,6 +3,7 @@ type: "page"
 draft: false
 title: "New Tool for finding harp tunes with Tabs"
 date: "2026-02-27"
+description: "Have your ever wondered where you could find folk music sheet music with harmonica tablature or found the perfect folk tune but st"
 ---
 
 # Find, Convert, and Play: The Ultimate Tool for Harmonica Players! 🎶

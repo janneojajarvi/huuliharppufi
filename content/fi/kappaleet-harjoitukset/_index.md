@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Kappaleet ja harjoitukset"
 type: "page"
+description: "[Kappaleita ja harjoituksia](/huuliharppufi/kappaleet-ja-harjoitukset/)"
 ---
 
 ### Bluesharppu:

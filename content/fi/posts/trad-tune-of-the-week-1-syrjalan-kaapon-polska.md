@@ -1,6 +1,7 @@
 ---
 title: "Trad. tune of the week 1: Syrjälän Kaapon polska"
 type: "post"
+description: "https://youtu.be/YxYCGdTowl0"
 ---
 
 https://youtu.be/YxYCGdTowl0

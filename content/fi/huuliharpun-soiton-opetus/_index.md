@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Huuliharpunsoiton opetus"
 type: "page"
+description: "Vaikka huuliharpunsoittoa onkin mahdollista opiskella itsenäisesti nopeuttaa kontaktiopetus oppimisprosessia suuresti. Valitettava"
 ---
 
 Vaikka huuliharpunsoittoa onkin mahdollista opiskella itsenäisesti nopeuttaa kontaktiopetus oppimisprosessia suuresti. Valitettavasti huuliharpunsoitonopettajia on Suomessa toistaiseksi hyvin vähän. Lähi- ja etäopetusta on saatavilla [Janne Ojajärven](/huuliharppufi/huuliharppukurssit/) opissa (lähiopetus Helsingissä).

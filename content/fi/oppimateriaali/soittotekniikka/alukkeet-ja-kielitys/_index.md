@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Alukkeet ja kielitys"
 type: "page"
+description: "Huuliharpulla soitettavien sävelten alukkeet voi toteuttaa monella tavalla. Huuliansatsia käyttäessä alukkeita voi tehdä mm. joko "
 ---
 
 Huuliharpulla soitettavien sävelten alukkeet voi toteuttaa monella tavalla. Huuliansatsia käyttäessä alukkeita voi tehdä mm. joko kielellä, kurkulla tai vain hengityksellä. Kielen käyttöä melodian artikuloimiseksi kutsutaan kielittämiseksi (engl. puckering). Kieliansatsia käyttäessä kieli on muussa käytössä, joten kielialukkeet eivät silloin onnistu aivan samalla tavalla kuin huuliansatsissa. Terävä ja kirkas aluke saadaan aikaiseksi kielellä, hieman pehmeämpi aluke kurkulla ja hyvin pehmeä aluke henkäisemällä.

@@ -1,6 +1,7 @@
 ---
 title: "Trad. tune of the week 6: Polonessa Spoof"
 type: "post"
+description: "https://youtu.be/KMhJRoIteEU"
 ---
 
 https://youtu.be/KMhJRoIteEU

@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Soittoasento"
 type: "page"
+description: "Hyvä soittoasento on ryhdikäs vapaan ilmavirran salliva asento. Älä kurota päätä soittimen luo vaan pidä pää suorassa ja tuo soiti"
 ---
 
 Hyvä soittoasento on ryhdikäs vapaan ilmavirran salliva asento. Älä kurota päätä soittimen luo vaan pidä pää suorassa ja tuo soitin suusi luokse. Klassisessa soitto-otteessa vasen käsi pitelee huuliharppua ja oikea käsi asettuu sen päälle "kupiksi". Oikealla kädellä säädellään sointia ja toteutetaan mahdollisia käsitehosteita. Reikien numerot alkavat vasemmalta ja kasvavat oikealle mennessä. Tällöin vasemmalle jäävät matalimmat sävelet ja oikealle korkeimmat.

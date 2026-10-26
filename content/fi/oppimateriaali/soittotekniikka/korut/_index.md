@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Korut"
 type: "page"
+description: "Jouko Kyhälä jakaa korusävelten soittamisen huuliharpulla kolmeen alueeseen: diatoniset korut, taivutus- ja ylitaivutuskorut sekä "
 ---
 
 Jouko Kyhälä jakaa korusävelten soittamisen huuliharpulla kolmeen alueeseen: diatoniset korut, taivutus- ja ylitaivutuskorut sekä kromaattisen huuliharpun vaihtajakorut. Diatonisilla koruilla tarkoitetaan koruja, jotka ovat soitettavissa diatonisilla huuliharpuilla ilman taivutustekniikan käyttöä eli ne muodostuvat diatonisen asteikon sävelistä. Taivutus- ja ylitaivutuskorut taas vaativat taivutustekniikoiden käyttöä ja voivat sisältää myös diatonisen asteikon ulkopuolisia säveliä. Vaihtajakoruilla tarkoitetaan kromaattisella huuliharpulla vaihtajaa hyödyntämällä soitettavia koruja.

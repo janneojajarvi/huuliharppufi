@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Junaimitaatio"
 type: "page"
+description: "Junaimitaatioksi kutsutaan konsonenteilla aksentoitua höyryveturin äänimaailmaa matkivaa soittoa. Junarytmi koostuu vikkelästi aks"
 ---
 
 Junaimitaatioksi kutsutaan konsonenteilla aksentoitua höyryveturin äänimaailmaa matkivaa soittoa. Junarytmi koostuu vikkelästi aksentoiduista imulla ja puhalluksella saatavista soinnuista, joista luodaan vaihtelemalla erilaisia yhdistelmiä. Tämä toteutetaan perinteisesti huuliharpun sävelkorkeudeltaan matalassa päässä.

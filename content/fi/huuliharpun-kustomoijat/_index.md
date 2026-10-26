@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Huuliharpun kustomoijat ja korjaajat"
 type: "page"
+description: "Huuliharppua voi joko säätää itse tai sitten kustomointityön voi antaa harjaantuneelle ammattilaiselle. Myös huuliharpun korjaukse"
 ---
 
 Huuliharppua voi joko säätää itse tai sitten kustomointityön voi antaa harjaantuneelle ammattilaiselle.  Myös huuliharpun korjauksen voi tilata ammattilaiselta. Tässä lyhyt lista kustomoijista, jotka minulla ovat tällä hetkellä tiedossa. Lista täydentyy ajan myötä:

@@ -3,6 +3,7 @@ type: "page"
 draft: false
 title: "Trad. tune of the week 16: A set of jouhikko tunes vol. 2"
 date: "2020-07-09"
+description: "https://youtu.be/yAiSmGJQGlA"
 ---
 
 https://youtu.be/yAiSmGJQGlA

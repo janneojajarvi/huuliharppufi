@@ -1,6 +1,7 @@
 ---
 title: "Trad. tune of the week 11: Haudanmaan menuetti"
 type: "post"
+description: "https://youtu.be/QxXIUpz6m_s"
 ---
 
 https://youtu.be/QxXIUpz6m_s

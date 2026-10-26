@@ -1,6 +1,7 @@
 ---
 title: "Huuliharppu"
 type: "page"
+description: "[Huuliharpun rakenne ja toiminta](/huuliharppufi/huuliharpun-rakenne-ja-toiminta/)"
 ---
 
 [Huuliharpun rakenne ja toiminta](/huuliharppufi/huuliharpun-rakenne-ja-toiminta/)

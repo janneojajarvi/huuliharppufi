@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Hengitys"
 type: "page"
+description: "Huuliharppu on puhallinsoitin, joten hengityksellä ja hengitystekniikalla on suuri rooli sen soitossa. Hyvä pitkä hengitys lähtee "
 ---
 
 Huuliharppu on puhallinsoitin, joten hengityksellä ja hengitystekniikalla on suuri rooli sen soitossa. Hyvä pitkä hengitys lähtee palleasta asti kohti keuhkojen yläosaa. Ulos hengittäessä ilma pusketaan ulos keuhkojen alaosasta alkaen. Tehokasta hengitystekniikkaa voi harjoitella esimerkiksi soittamalla pitkiä ääniä keskittyneesti tarkkaillen.

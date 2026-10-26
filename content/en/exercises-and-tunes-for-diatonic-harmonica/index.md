@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Exercises and tunes for diatonic harmonica"
 type: "page"
+description: "NEW DIGITAL SHEET MUSIC AVAILABLE: [Finnish traditional folk harmonica tunes.](https://payhip.com/b/UO13I) Buy to support maintena"
 ---
 
 NEW DIGITAL SHEET MUSIC AVAILABLE: [Finnish traditional folk harmonica tunes.](https://payhip.com/b/UO13I) Buy to support maintenance of this web site :)

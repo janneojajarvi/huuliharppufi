@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Kielen muotoilu"
 type: "page"
+description: "Kielen muotoilulla (engl. arcing) voidaan vaikuttaa kielikulman säädön ohella helpottavasti ylitaivutustekniikan käyttöön. Matala "
 ---
 
 Kielen muotoilulla (engl. arcing) voidaan vaikuttaa kielikulman säädön ohella helpottavasti ylitaivutustekniikan käyttöön. Matala kielikulma helpottaa sulkeutuvan kielen sammuttamista, joka on ylitaivutustekniikan ensimmäinen vaihe.

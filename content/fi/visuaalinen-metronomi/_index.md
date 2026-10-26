@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Visuaalinen metronomi"
 type: "page"
+description: "[Tästä saat metronomin isommaksi](https://codepen.io/Janne-Ojaj-rvi/full/MYjmqwB)"
 ---
 
 [Tästä saat metronomin isommaksi](https://codepen.io/Janne-Ojaj-rvi/full/MYjmqwB)

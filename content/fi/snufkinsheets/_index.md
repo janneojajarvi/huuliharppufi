@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Snufkin tabs / Nuuska Muikkunen tabulatuurinuotit"
 type: "page"
+description: "[Nuuska Muikkusen tanssimelodia / Snufkin dance melody](/huuliharppufi/wp-content/uploads/2022/03/nuuska-muikkusen-tanssimelodia-r"
 ---
 
 [Nuuska Muikkusen tanssimelodia / Snufkin dance melody](/huuliharppufi/wp-content/uploads/2022/03/nuuska-muikkusen-tanssimelodia-rytmitabs.pdf)

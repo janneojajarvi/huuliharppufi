@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Kappaleet ja harjoitukset bluesharpulle"
 type: "page"
+description: "Harjoittelun tueksi ohjelmia, joilla voi mm. hidastaa äänitteitä luoda automaattiset tabulatuurit abc-nuotteihin löytyy [tästä lin"
 ---
 
 Harjoittelun tueksi ohjelmia, joilla voi mm. hidastaa äänitteitä luoda automaattiset tabulatuurit abc-nuotteihin löytyy [tästä linkistä](/huuliharppufi/oppimateriaali/harjoittelun-tueksi-ohjelmia/).

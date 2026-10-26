@@ -3,6 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Trad. tune of the week 3: Polska efter Johan Erik Taklax I"
 type: "page"
+description: "https://youtu.be/-EbBgAlSE2s"
 ---
 
 https://youtu.be/-EbBgAlSE2s

@@ -3,6 +3,7 @@ type: "page"
 draft: false
 title: "Trad. tune of the week 14: Menuetti Vöyristä"
 date: "2020-06-25"
+description: "https://youtu.be/SciS-qEpLnY"
 ---
 
 https://youtu.be/SciS-qEpLnY
