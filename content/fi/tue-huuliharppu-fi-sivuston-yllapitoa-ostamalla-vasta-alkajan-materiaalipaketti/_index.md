@@ -3,7 +3,7 @@ type: "page"
 draft: false
 title: "Tue huuliharppu.fi -sivuston ylläpitoa ostamalla pdf-nuottipaketteja"
 date: "2026-05-24"
-description: "[**Vasta-alkajan materiaalipaketti**](https://payhip.com/b/JOqEo)"
+description: "Vasta-alkajan materiaalipaketti"
 ---
 
 [**Vasta-alkajan materiaalipaketti**](https://payhip.com/b/JOqEo)
