@@ -3,7 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "HarppuTuneFinder"
 type: "page"
-description: "Löydä kansanmusiikkikappaleet ja tabulatuurit vaivattomasti Harptunefinder-työkalulla. Suunniteltu erityisesti huuliharpisteille."
+description: "Löydä kansanmusiikkikappaleet ja tabulatuurit vaivattomasti Harptunefinder-työkalulla."
 ---
 
 ### Etsi kappaleita valmiiden tabulatuurien kera: Uusi työkalu huuliharpun soittajille!
