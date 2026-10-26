@@ -3,7 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Huuliharpun huolto ja säätö"
 type: "page"
-description: "Ammattimaiset ohjeet huuliharpun huoltoon, viritykseen, kielen vaihtoon ja ilmatiiviyden parantamiseen. Pidä huolta soittimestasi."
+description: "Ammattimaiset ohjeet huuliharpun huoltoon, viritykseen ja ilmatiiviyden parantamiseen. Pidä huolta soittimestasi."
 ---
 
 ### **Huuliharpun virittäminen ja huolto**
