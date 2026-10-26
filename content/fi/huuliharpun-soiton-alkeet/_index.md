@@ -3,7 +3,7 @@ type: "page"
 draft: false
 title: "Huuliharpun soiton alkeet"
 date: "2026-04-29"
-description: "https://youtu.be/X\_i3uXSuOaY"
+description: "Opi huuliharpunsoiton alkeet helposti! Opas kattaa otteen, yksinuottisen soiton, hengityksen ja perusteet vasta-alkajille."
 ---
 
 https://youtu.be/X\_i3uXSuOaY

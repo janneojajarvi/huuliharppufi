@@ -3,7 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Kontakti"
 type: "page"
-description: "Janne Ojajärven soittotuntien tilanne 6.7.2026 -&gt; uusille oppilaille tilaa 1.11.2026 alkaen. Muita opettajia/kursseja kannattaa"
+description: "Ota yhteyttä huuliharppusoittaja ja -opettaja Janne Ojajärveen. Kysy etäopetuksesta, kursseista tai keikoista."
 ---
 
 Janne Ojajärven soittotuntien tilanne 6.7.2026 -&gt; uusille oppilaille tilaa 1.11.2026 alkaen. Muita opettajia/kursseja kannattaa tiedustella kansalaisopistojen ja työväenopistojen sekä Suomen [Huuliharpistit ry](https://www.suomenhuuliharpistit.fi/):n kautta.

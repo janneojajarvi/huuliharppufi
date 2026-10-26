@@ -3,7 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "About Janne Ojajärvi"
 type: "page"
-description: "[<img src=/huuliharppufi/wp-content/uploads/2019/04/janneharppukuva.jpg?w=300 alt= class=wp-image-729 />](/huuliharppufi/wp-conten"
+description: "Learn more about professional harmonica player, musician, and instructor Janne Ojajärvi and his background."
 ---
 
 [<img src="/huuliharppufi/wp-content/uploads/2019/04/janneharppukuva.jpg?w=300" alt="" class="wp-image-729" />](/huuliharppufi/wp-content/uploads/2019/04/janneharppukuva.jpg)

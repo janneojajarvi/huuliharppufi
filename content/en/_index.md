@@ -3,7 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Home"
 type: "page"
-description: "<p>For years, I’ve shared free harmonica lessons and tips at Huuliharppu.fi to help players around the world find their sound. Mai"
+description: "Huuliharppu.fi is your guide to diatonic and chromatic harmonica playing. Explore lessons, repair tutorials, tunes, and interactive harp tools."
 ---
 
 ## Harmonica lessons by Janne Ojajärvi

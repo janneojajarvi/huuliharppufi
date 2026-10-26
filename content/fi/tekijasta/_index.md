@@ -3,7 +3,7 @@ draft: false
 date: 2023-01-01T00:00:00+02:00
 title: "Tekijästä"
 type: "page"
-description: "Huuliharpisti, laulaja, yläsävelhuilisti. Janne Ojajärvi on muusikko, ääniteknikko, musiikkipedagogi ja kulttuurin sekatyöläinen. "
+description: "Tutustu huuliharpisti, muusikko ja opettaja Janne Ojajärveen ja hänen musiikilliseen taustaansa."
 ---
 
 Huuliharpisti, laulaja, yläsävelhuilisti. Janne Ojajärvi on muusikko, ääniteknikko, musiikkipedagogi ja kulttuurin sekatyöläinen. Esiintyessään Janne Ojajärvi sukeltaa pelimannimusiikin kautta yläsävelien ja muinaisien mielenmaisemien maailmaan. Mukanaan hänellä on teollistumisen ajan luomus – huuliharppu. Turpahöylän teollistuneen soinnin vastapainoksi Jannen konserteissa kuullaan myös pitkähuilua ja kurkkulaulua, joiden sointi myötäilee luonnonsävelasteikkoa.

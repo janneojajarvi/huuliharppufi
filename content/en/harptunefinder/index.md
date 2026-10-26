@@ -2,7 +2,7 @@
 title: "Find, Convert, and Play: The Ultimate Tool for Harmonica Players!"
 date: 2026-03-24T00:00:00+02:00
 draft: false
-description: "<p>Have you ever found the perfect folk tune but struggled to figure out how to play it on your harmonica? I’ve developed a specia"
+description: "The ultimate tool for finding folk tunes and harmonica tablature. Search melodies and discover traditional tunes instantly."
 ---
 
   <p>Have you ever found the perfect folk tune but struggled to figure out how to play it on your harmonica? I’ve developed a specialized tool designed to take the guesswork out of the process.</p> 
