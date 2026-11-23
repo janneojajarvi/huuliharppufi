@@ -1,5 +1,4 @@
 <style>
-/* Eristetyt tyylit, jotta sivuston oma style.css ei sotke työkalua */
 .harmonica-app-wrapper {
   font-family: sans-serif;
   display: flex;
@@ -95,21 +94,38 @@
   user-select: none;
 }
 
+/* Huuliharpun runko ja rivit */
 .harmonica-app-wrapper .harmonica {
   display: flex;
-  gap: 4px;
+  flex-direction: column;
+  gap: 6px;
   background: #222;
-  padding: 10px 8px;
+  padding: 12px 8px;
   border-radius: 8px;
   justify-content: center;
   width: 100%;
   box-sizing: border-box;
 }
 
+.harmonica-app-wrapper .harmonica-row {
+  display: flex;
+  gap: 4px;
+  justify-content: center;
+}
+
+.harmonica-app-wrapper .row-label {
+  color: #aaa;
+  font-size: 0.75rem;
+  text-align: left;
+  margin-bottom: 3px;
+  font-weight: bold;
+  padding-left: 2px;
+}
+
 .harmonica-app-wrapper .hole {
   flex: 1;
   max-width: 48px;
-  height: 65px;
+  height: 60px;
   background: #111;
   color: white;
   display: flex;
@@ -124,8 +140,8 @@
 }
 
 .harmonica-app-wrapper .hole-number { 
-  font-size: 0.75rem; 
-  opacity: 0.6;
+  font-size: 0.7rem; 
+  opacity: 0.5;
 }
 
 .harmonica-app-wrapper .note-name {
@@ -134,28 +150,9 @@
   margin-top: 2px;
 }
 
-.harmonica-app-wrapper .controls button {
-  padding: 8px 16px;
-  margin: 5px;
-  border: 1px solid #ddd;
-  background: white;
-  color: #333;
-  cursor: pointer;
-  border-radius: 4px;
-  font-weight: bold;
-  font-size: 0.95rem;
-  text-transform: none;
-}
-
-.harmonica-app-wrapper .controls button.active {
-  background: #3498db;
-  color: white;
-  border-color: #2980b9;
-}
-
 @media (max-width: 480px) {
   .harmonica-app-wrapper .hole {
-    height: 55px;
+    height: 52px;
   }
   .harmonica-app-wrapper .note-name {
     font-size: 0.8rem;
@@ -229,12 +226,17 @@
       </div>
     </div>
 
-    <div class="controls">
-      <button id="blowBtn" class="active" type="button">Puhallus (+)</button>
-      <button id="drawBtn" type="button">Imu (-)</button>
+    <!-- Huuliharpun kaksi riviä (Puhallus ja Imu) -->
+    <div class="harmonica" id="harmonica">
+      <div class="row-wrapper">
+        <div class="row-label">Puhallus (+)</div>
+        <div class="harmonica-row" id="blowRow"></div>
+      </div>
+      <div class="row-wrapper" style="margin-top: 6px;">
+        <div class="row-label">Imu (-)</div>
+        <div class="harmonica-row" id="drawRow"></div>
+      </div>
     </div>
-
-    <div class="harmonica" id="harmonica"></div>
   </div>
 </div>
 
@@ -251,7 +253,6 @@
   let audioCtx = null;
   let currentOscillator = null;
   let currentGainNode = null;
-  let currentMode = 'blow';
   let currentKey = 'C';
 
   function formatNoteName(name) {
@@ -259,11 +260,13 @@
   }
 
   function getOctaveShift(key) {
+    // User-saved context: C, D, E and F harmonicas are in a lower octave range than the G harmonica.
+    // Tässä käytetään aiempaa logiikkaa sävellajin oktaaville:
     if (["G", "A", "Bb", "B"].includes(key)) return -12;
     return 0;
   }
 
-  function updateStaff(interval, rootKey, holeNumber) {
+  function updateStaff(interval, rootKey, holeNumber, mode) {
     const noteHead = document.getElementById('noteHead');
     const noteStem = document.getElementById('noteStem');
     
@@ -303,7 +306,7 @@
     noteStem.style.display = 'block';
 
     document.getElementById('staffNoteName').innerText = formatNoteName(noteNameRaw);
-    const tabPrefix = currentMode === 'draw' ? '-' : '+';
+    const tabPrefix = mode === 'draw' ? '-' : '+';
     document.getElementById('tabDisplay').innerText = tabPrefix + holeNumber;
   }
 
@@ -339,68 +342,65 @@
     }
   }
 
-  function renderHarmonica() {
-    const harmonicaEl = document.getElementById('harmonica');
-    harmonicaEl.innerHTML = '';
-    const octaveShift = getOctaveShift(currentKey);
+  function renderHarmonicaRows() {
+    const blowRow = document.getElementById('blowRow');
+    const drawRow = document.getElementById('drawRow');
+    blowRow.innerHTML = '';
+    drawRow.innerHTML = '';
     
+    const octaveShift = getOctaveShift(currentKey);
+
     for (let i = 0; i < 10; i++) {
-      const interval = intervals[currentMode][i];
-      const rootIndex = chromaticScale.indexOf(currentKey);
-      const totalSteps = rootIndex + interval + octaveShift;
-      const freq = 261.63 * Math.pow(2, (totalSteps - chromaticScale.indexOf("C")) / 12);
-      
-      const noteNameRaw = chromaticScale[(chromaticScale.indexOf("C") + (totalSteps % 12 + 12) % 12) % 12];
-      const formattedNote = formatNoteName(noteNameRaw);
-
-      const holeDiv = document.createElement('div');
-      holeDiv.className = 'hole';
-      holeDiv.innerHTML = `
-        <span class="hole-number">${i+1}</span>
-        <span class="note-name">${formattedNote}</span>
-      `;
-      
-      const startAction = (e) => {
-        e.preventDefault();
-        playNote(freq);
-        holeDiv.style.background = "#3498db";
-        updateStaff(interval, currentKey, i + 1);
-      };
-
-      const endAction = () => {
-        stopNote();
-        holeDiv.style.background = "#111";
-      };
-
-      holeDiv.onmousedown = startAction;
-      holeDiv.onmouseup = endAction;
-      holeDiv.onmouseleave = endAction;
-      holeDiv.ontouchstart = startAction;
-      holeDiv.ontouchend = endAction;
-
-      harmonicaEl.appendChild(holeDiv);
+      // Puhallus-nappi (blow)
+      createHoleElement(i, 'blow', blowRow, octaveShift);
+      // Imu-nappi (draw)
+      createHoleElement(i, 'draw', drawRow, octaveShift);
     }
+  }
+
+  function createHoleElement(i, mode, container, octaveShift) {
+    const interval = intervals[mode][i];
+    const rootIndex = chromaticScale.indexOf(currentKey);
+    const totalSteps = rootIndex + interval + octaveShift;
+    const freq = 261.63 * Math.pow(2, (totalSteps - chromaticScale.indexOf("C")) / 12);
+    
+    const noteNameRaw = chromaticScale[(chromaticScale.indexOf("C") + (totalSteps % 12 + 12) % 12) % 12];
+    const formattedNote = formatNoteName(noteNameRaw);
+
+    const holeDiv = document.createElement('div');
+    holeDiv.className = 'hole';
+    const sign = mode === 'draw' ? '-' : '+';
+    holeDiv.innerHTML = `
+      <span class="hole-number">${sign}${i+1}</span>
+      <span class="note-name">${formattedNote}</span>
+    `;
+    
+    const startAction = (e) => {
+      e.preventDefault();
+      playNote(freq);
+      holeDiv.style.background = "#3498db";
+      updateStaff(interval, currentKey, i + 1, mode);
+    };
+
+    const endAction = () => {
+      stopNote();
+      holeDiv.style.background = "#111";
+    };
+
+    holeDiv.onmousedown = startAction;
+    holeDiv.onmouseup = endAction;
+    holeDiv.onmouseleave = endAction;
+    holeDiv.ontouchstart = startAction;
+    holeDiv.ontouchend = endAction;
+
+    container.appendChild(holeDiv);
   }
 
   document.getElementById('keySelect').onchange = (e) => {
     currentKey = e.target.value;
-    renderHarmonica();
+    renderHarmonicaRows();
   };
 
-  document.getElementById('blowBtn').onclick = (e) => {
-    currentMode = 'blow';
-    document.querySelectorAll('.harmonica-app-wrapper .controls button').forEach(b => b.classList.remove('active'));
-    e.target.classList.add('active');
-    renderHarmonica();
-  };
-
-  document.getElementById('drawBtn').onclick = (e) => {
-    currentMode = 'draw';
-    document.querySelectorAll('.harmonica-app-wrapper .controls button').forEach(b => b.classList.remove('active'));
-    e.target.classList.add('active');
-    renderHarmonica();
-  };
-
-  renderHarmonica();
+  renderHarmonicaRows();
 })();
 </script>
