@@ -1,0 +1,368 @@
+<style>
+.harmonica-bending-wrapper {
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  margin: 15px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.harmonica-bending-wrapper .harmonica-container.compact {
+  background: #f8f9fa; 
+  padding: 10px; 
+  border-radius: 12px;
+  max-width: 850px; 
+  width: 100%;
+  margin: auto; 
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+  box-sizing: border-box;
+}
+
+.harmonica-bending-wrapper .header-section {
+  display: flex; 
+  align-items: center; 
+  justify-content: space-between;
+  background: white; 
+  padding: 8px 12px; 
+  border-radius: 10px; 
+  margin-bottom: 8px; 
+  border: 1px solid #ddd;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.harmonica-bending-wrapper .note-info-panel { 
+  text-align: right; 
+  flex-grow: 1; 
+}
+
+.harmonica-bending-wrapper .value-row { 
+  display: flex; 
+  gap: 12px; 
+  justify-content: flex-end; 
+  margin-bottom: 4px; 
+}
+
+.harmonica-bending-wrapper .info-label { 
+  font-size: 0.65rem; 
+  color: #888; 
+  text-transform: uppercase; 
+  font-weight: bold; 
+  display: block;
+}
+
+.harmonica-bending-wrapper .info-value { 
+  font-size: 1.4rem; 
+  font-weight: 800; 
+  color: #2c3e50; 
+  line-height: 1;
+}
+
+.harmonica-bending-wrapper #tabDisplay { 
+  color: #3498db; 
+}
+
+.harmonica-bending-wrapper #staffSVG text {
+  font-family: "Times New Roman", serif;
+  user-select: none;
+}
+
+/* Säädetään karttaa niin, että se mahtuu paremmin ja rullautuu siististi */
+.harmonica-bending-wrapper .bending-map {
+  display: flex; 
+  justify-content: flex-start; /* Mahdollistaa sivuttaisrullauksen mobiilissa */
+  gap: 3px;
+  background: #2c3e50; 
+  padding: 8px 4px; 
+  border-radius: 8px;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.harmonica-bending-wrapper .harpa-column { 
+  display: flex; 
+  flex-direction: column; 
+  align-items: center; 
+  min-width: 38px;
+}
+
+.harmonica-bending-wrapper .bend-zone { 
+  display: flex; 
+  flex-direction: column; 
+  gap: 2px; 
+}
+
+.harmonica-bending-wrapper .bend-zone.upper { 
+  justify-content: flex-end; 
+  height: 80px; 
+}
+
+.harmonica-bending-wrapper .bend-zone.lower { 
+  justify-content: flex-start; 
+  height: 110px; 
+}
+
+.harmonica-bending-wrapper .core-zone { 
+  background: #1a252f; 
+  padding: 3px 2px; 
+  border-radius: 5px; 
+  margin: 3px 0; 
+}
+
+.harmonica-bending-wrapper .note-btn {
+  width: 34px; 
+  height: 32px; 
+  display: flex; 
+  flex-direction: column;
+  align-items: center; 
+  justify-content: center; 
+  border-radius: 4px;
+  cursor: pointer; 
+  user-select: none; 
+  transition: 0.1s;
+  touch-action: manipulation;
+}
+
+.harmonica-bending-wrapper .note-btn:active { 
+  transform: scale(0.9); 
+}
+
+.harmonica-bending-wrapper .blow-main { background: #3498db; color: white; }
+.harmonica-bending-wrapper .draw-main { background: #e67e22; color: white; }
+.harmonica-bending-wrapper .draw-bend { background: #d35400; color: white; font-size: 0.7rem; border: 1px dashed rgba(255,255,255,0.3); }
+.harmonica-bending-wrapper .blow-bend { background: #2980b9; color: white; font-size: 0.7rem; border: 1px dashed rgba(255,255,255,0.3); }
+.harmonica-bending-wrapper .over-note { background: #8e44ad; color: white; font-size: 0.7rem; }
+
+.harmonica-bending-wrapper .hole-label { 
+  color: #ecf0f1; 
+  font-weight: bold; 
+  font-size: 0.75rem; 
+  margin: 1px 0; 
+  text-align: center;
+}
+
+.harmonica-bending-wrapper .tab-small { 
+  font-size: 0.5rem; 
+  opacity: 0.9; 
+}
+
+.harmonica-bending-wrapper .note-bold { 
+  font-weight: bold; 
+  font-size: 0.85rem; 
+}
+
+.harmonica-bending-wrapper select { 
+  padding: 5px 8px; 
+  border-radius: 6px; 
+  border: 1px solid #ccc; 
+  font-size: 0.85rem; 
+  background: #fff;
+  color: #222;
+  cursor: pointer;
+  outline: none;
+}
+
+@media (max-width: 480px) {
+  .harmonica-bending-wrapper .header-section {
+    flex-direction: column;
+    align-items: center;
+  }
+  .harmonica-bending-wrapper .note-info-panel {
+    text-align: center;
+    width: 100%;
+  }
+  .harmonica-bending-wrapper .value-row {
+    justify-content: center;
+  }
+}
+</style>
+
+
+<div class="harmonica-bending-wrapper">
+  <div class="harmonica-container compact">
+    <div class="header-section">
+      <div class="staff-container">
+        <svg width="160" height="120" viewBox="-10 -55 120 155" id="staffSVG">
+          <line x1="0" y1="30" x2="100" y2="30" stroke="black" stroke-width="0.5" />
+          <line x1="0" y1="40" x2="100" y2="40" stroke="black" stroke-width="0.5" />
+          <line x1="0" y1="50" x2="100" y2="50" stroke="black" stroke-width="0.5" />
+          <line x1="0" y1="60" x2="100" y2="60" stroke="black" stroke-width="0.5" />
+          <line x1="0" y1="70" x2="100" y2="70" stroke="black" stroke-width="0.5" />
+          <text x="2" y="72" font-family="serif" font-size="60" fill="black">𝄞</text>
+          <g id="ledgers">
+            <line id="ledgerLow2" x1="40" y1="90" x2="60" y2="90" stroke="black" stroke-width="0.8" style="display:none;" />
+            <line id="ledgerLow" x1="40" y1="80" x2="60" y2="80" stroke="black" stroke-width="0.8" style="display:none;" />
+            <line id="ledgerHigh1" x1="40" y1="20" x2="60" y2="20" stroke="black" stroke-width="0.8" style="display:none;" />
+            <line id="ledgerHigh2" x1="40" y1="10" x2="60" y2="10" stroke="black" stroke-width="0.8" style="display:none;" />
+            <line id="ledgerHigh3" x1="40" y1="0" x2="60" y2="0" stroke="black" stroke-width="0.8" style="display:none;" />
+            <line id="ledgerHigh4" x1="40" y1="-10" x2="60" y2="-10" stroke="black" stroke-width="0.8" style="display:none;" />
+            <line id="ledgerHigh5" x1="40" y1="-20" x2="60" y2="-20" stroke="black" stroke-width="0.8" style="display:none;" />
+            <line id="ledgerHigh6" x1="40" y1="-30" x2="60" y2="-30" stroke="black" stroke-width="0.8" style="display:none;" />
+            <line id="ledgerHigh7" x1="40" y1="-40" x2="60" y2="-40" stroke="black" stroke-width="0.8" style="display:none;" />
+          </g>
+          <text id="accidental" x="32" y="50" font-family="serif" font-size="22" fill="black" style="display:none;"></text>
+          <circle id="noteHead" cx="50" cy="50" r="4" fill="red" style="display:none;" />
+          <line id="noteStem" x1="54" y1="50" x2="54" y2="25" stroke="black" stroke-width="1" style="display:none;" />
+        </svg>
+      </div>
+      <div class="note-info-panel">
+        <div class="info-group">
+          <span class="info-label">Note / Tab</span>
+          <div class="value-row">
+            <span id="staffNoteName" class="info-value">-</span>
+            <span id="tabDisplay" class="info-value">-</span>
+          </div>
+        </div>
+        <div class="controls">
+          <select id="keySelect">
+            <option value="C">C-duuri</option>
+            <option value="G">G-duuri</option>
+            <option value="A">A-duuri</option>
+            <option value="D">D-duuri</option>
+            <option value="Bb">Bb-duuri</option>
+          </select>
+        </div>
+      </div>
+    </div>
+    <div class="bending-map" id="harmonicaMap"></div>
+  </div>
+</div>
+
+<script>
+(function() {
+  const chromaticScale = ["C", "C#", "D", "Eb", "E", "F", "F#", "G", "Ab", "A", "Bb", "B"];
+  const diatonicScale = ["C", "D", "E", "F", "G", "A", "B"];
+
+  const layout = [
+    { hole: 1, blow: 0, draw: 2, drawBends: [1], blowBends: [], over: 3 }, 
+    { hole: 2, blow: 4, draw: 7, drawBends: [6, 5], blowBends: [], over: 8 }, 
+    { hole: 3, blow: 7, draw: 11, drawBends: [10, 9, 8], blowBends: [], over: 12 }, 
+    { hole: 4, blow: 12, draw: 14, drawBends: [13], blowBends: [], over: 15 }, 
+    { hole: 5, blow: 16, draw: 17, drawBends: [], blowBends: [], over: 18 }, 
+    { hole: 6, blow: 19, draw: 21, drawBends: [20], blowBends: [], over: 22 }, 
+    { hole: 7, blow: 24, draw: 23, drawBends: [], blowBends: [], over: 25 }, 
+    { hole: 8, blow: 28, draw: 26, drawBends: [], blowBends: [27], over: 29 }, 
+    { hole: 9, blow: 31, draw: 29, drawBends: [], blowBends: [30], over: 32 }, 
+    { hole: 10, blow: 36, draw: 33, drawBends: [], blowBends: [35, 34], over: 37 }
+  ];
+
+  let currentKey = 'C';
+  let audioCtx = null;
+  let currentOsc = null;
+  let currentGain = null;
+
+  function initAudio() { 
+    if (!audioCtx) audioCtx = new (window.AudioContext || window.webkitAudioContext)(); 
+  }
+
+  function play(freq) {
+    initAudio();
+    if (audioCtx.state === 'suspended') audioCtx.resume();
+    if (currentOsc) { try { currentOsc.stop(); } catch(e) {} }
+    currentOsc = audioCtx.createOscillator();
+    currentGain = audioCtx.createGain();
+    currentOsc.type = 'triangle';
+    currentOsc.frequency.setValueAtTime(freq, audioCtx.currentTime);
+    currentGain.gain.setValueAtTime(0, audioCtx.currentTime);
+    currentGain.gain.linearRampToValueAtTime(0.12, audioCtx.currentTime + 0.05);
+    currentOsc.connect(currentGain);
+    currentGain.connect(audioCtx.destination);
+    currentOsc.start();
+  }
+
+  function stop() {
+    if (currentGain) {
+      currentGain.gain.exponentialRampToValueAtTime(0.0001, audioCtx.currentTime + 0.1);
+      const oldOsc = currentOsc;
+      setTimeout(() => { try { oldOsc.stop(); } catch(e) {} }, 100);
+    }
+  }
+
+  function updateStaff(interval, tab) {
+    const rootIdx = chromaticScale.indexOf(currentKey);
+    const octaveShift = ["G", "A", "Bb", "B"].includes(currentKey) ? -12 : 0;
+    const totalSteps = interval + rootIdx + octaveShift;
+    const noteName = chromaticScale[(totalSteps % 12 + 12) % 12];
+    const octave = Math.floor(totalSteps / 12);
+    const staffSteps = (octave * 7) + diatonicScale.indexOf(noteName.charAt(0));
+    const yPos = 80 - (staffSteps * 5);
+
+    const head = document.getElementById('noteHead');
+    const stem = document.getElementById('noteStem');
+    const accidental = document.getElementById('accidental');
+
+    head.setAttribute('cy', yPos); head.style.display = 'block';
+
+    if (noteName.includes('#')) { accidental.textContent = '♯'; accidental.setAttribute('y', yPos + 6); accidental.style.display = 'block'; }
+    else if (noteName.includes('b')) { accidental.textContent = '♭'; accidental.setAttribute('y', yPos + 5); accidental.style.display = 'block'; }
+    else { accidental.style.display = 'none'; }
+
+    const ledgers = document.querySelectorAll('.harmonica-bending-wrapper #ledgers line');
+    const thresholds = [90, 80, 20, 10, 0, -10, -20, -30, -40];
+    ledgers.forEach((l, i) => l.style.display = (i < 2 ? yPos >= thresholds[i] : yPos <= thresholds[i]) ? 'block' : 'none');
+
+    if (yPos < 50) { stem.setAttribute('x1', 46); stem.setAttribute('y1', yPos); stem.setAttribute('x2', 46); stem.setAttribute('y2', yPos + 25); }
+    else { stem.setAttribute('x1', 54); stem.setAttribute('y1', yPos); stem.setAttribute('x2', 54); stem.setAttribute('y2', yPos - 25); }
+    stem.style.display = 'block';
+
+    document.getElementById('staffNoteName').innerText = noteName;
+    document.getElementById('tabDisplay').innerText = tab;
+  }
+
+  function createBtn(interval, tab, cssClass) {
+    const btn = document.createElement('div');
+    btn.className = `note-btn ${cssClass}`;
+    const rootIdx = chromaticScale.indexOf(currentKey);
+    const octaveShift = ["G", "A", "Bb", "B"].includes(currentKey) ? -12 : 0;
+    const totalSteps = interval + rootIdx + octaveShift;
+    const freq = 261.63 * Math.pow(2, (totalSteps - chromaticScale.indexOf("C")) / 12);
+    const name = chromaticScale[(totalSteps % 12 + 12) % 12];
+    btn.innerHTML = `<span class="tab-small">${tab}</span><span class="note-bold">${name}</span>`;
+    
+    const start = (e) => { e.preventDefault(); play(freq); updateStaff(interval, tab); };
+    const end = () => stop();
+    
+    btn.onmousedown = start; btn.onmouseup = end; btn.onmouseleave = end;
+    btn.ontouchstart = start; btn.ontouchend = end;
+    return btn;
+  }
+
+  function render() {
+    const map = document.getElementById('harmonicaMap');
+    map.innerHTML = '';
+    layout.forEach(h => {
+      const col = document.createElement('div');
+      col.className = 'harpa-column';
+      
+      const upZone = document.createElement('div');
+      upZone.className = 'bend-zone upper';
+      if(h.hole <= 6 && h.over) upZone.appendChild(createBtn(h.over, `${h.hole}o`, 'over-note'));
+      h.blowBends.forEach((steps, i) => upZone.appendChild(createBtn(steps, `${"'".repeat(i+1)}${h.hole}b`, 'blow-bend')));
+
+      const core = document.createElement('div');
+      core.className = 'core-zone';
+      core.appendChild(createBtn(h.blow, `+${h.hole}`, 'blow-main'));
+      const label = document.createElement('div');
+      label.className = 'hole-label'; label.innerText = h.hole;
+      core.appendChild(label);
+      core.appendChild(createBtn(h.draw, `-${h.hole}`, 'draw-main'));
+
+      const loZone = document.createElement('div');
+      loZone.className = 'bend-zone lower';
+      h.drawBends.forEach((steps, i) => loZone.appendChild(createBtn(steps, `${"'".repeat(i+1)}${h.hole}-`, 'draw-bend')));
+      if(h.hole >= 7 && h.over) loZone.appendChild(createBtn(h.over, `${h.hole}o-`, 'over-note'));
+
+      col.appendChild(upZone); col.appendChild(core); col.appendChild(loZone);
+      map.appendChild(col);
+    });
+  }
+
+  document.getElementById('keySelect').onchange = (e) => { 
+    currentKey = e.target.value; 
+    render(); 
+  };
+  
+  render();
+})();
+</script>
