@@ -1,0 +1,406 @@
+<style>
+/* Eristetyt tyylit, jotta sivuston oma style.css ei sotke työkalua */
+.harmonica-app-wrapper {
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  margin: 25px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.harmonica-app-wrapper .harmonica-container {
+  background: white;
+  color: #222;
+  padding: 25px 15px;
+  border-radius: 15px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+  text-align: center;
+  width: 100%;
+  max-width: 650px;
+  box-sizing: border-box;
+}
+
+.harmonica-app-wrapper h2 {
+  color: #2c3e50;
+  margin-top: 0;
+  margin-bottom: 15px;
+  font-size: 1.4rem;
+}
+
+.harmonica-app-wrapper .controls {
+  margin-bottom: 15px;
+}
+
+.harmonica-app-wrapper label {
+  color: #333;
+  font-weight: bold;
+  font-size: 0.95rem;
+}
+
+.harmonica-app-wrapper select {
+  padding: 6px 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 0.95rem;
+  background: #fff;
+  color: #222;
+  cursor: pointer;
+}
+
+.harmonica-app-wrapper .staff-and-info {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  background: #fdfdfd;
+  border: 1px solid #eee;
+  padding: 15px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.harmonica-app-wrapper .note-info-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  min-width: 80px;
+  text-align: left;
+  border-left: 2px solid #f0f0f0;
+  padding-left: 20px;
+}
+
+.harmonica-app-wrapper .info-label {
+  display: block;
+  font-size: 0.7rem;
+  color: #999;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.harmonica-app-wrapper .info-value {
+  font-size: 2.2rem;
+  font-weight: 800;
+  color: #2c3e50;
+  line-height: 1;
+}
+
+.harmonica-app-wrapper #tabDisplay {
+  color: #3498db;
+}
+
+.harmonica-app-wrapper #staffSVG text {
+  font-family: "Times New Roman", serif;
+  user-select: none;
+}
+
+.harmonica-app-wrapper .harmonica {
+  display: flex;
+  gap: 4px;
+  background: #222;
+  padding: 10px 8px;
+  border-radius: 8px;
+  justify-content: center;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.harmonica-app-wrapper .hole {
+  flex: 1;
+  max-width: 48px;
+  height: 65px;
+  background: #111;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: 0.1s;
+  user-select: none;
+  touch-action: manipulation;
+}
+
+.harmonica-app-wrapper .hole-number { 
+  font-size: 0.75rem; 
+  opacity: 0.6;
+}
+
+.harmonica-app-wrapper .note-name {
+  font-size: 0.95rem;
+  font-weight: bold;
+  margin-top: 2px;
+}
+
+.harmonica-app-wrapper .controls button {
+  padding: 8px 16px;
+  margin: 5px;
+  border: 1px solid #ddd;
+  background: white;
+  color: #333;
+  cursor: pointer;
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: 0.95rem;
+  text-transform: none;
+}
+
+.harmonica-app-wrapper .controls button.active {
+  background: #3498db;
+  color: white;
+  border-color: #2980b9;
+}
+
+@media (max-width: 480px) {
+  .harmonica-app-wrapper .hole {
+    height: 55px;
+  }
+  .harmonica-app-wrapper .note-name {
+    font-size: 0.8rem;
+  }
+  .harmonica-app-wrapper .note-info-panel {
+    border-left: none;
+    border-top: 2px solid #f0f0f0;
+    padding-left: 0;
+    padding-top: 10px;
+    flex-direction: row;
+    gap: 30px;
+    justify-content: center;
+    width: 100%;
+  }
+}
+</style>
+
+<div class="harmonica-app-wrapper">
+  <div class="harmonica-container">
+    <h2>Interaktiivinen Huuliharppukartta</h2>
+    
+    <div class="controls">
+      <label for="keySelect">Harpun sävellaji: </label>
+      <select id="keySelect">
+        <option value="C">C-duuri</option>
+        <option value="D">D-duuri</option>
+        <option value="E">E-duuri</option>
+        <option value="F">F-duuri</option>
+        <option value="G">G-duuri</option>
+        <option value="A">A-duuri</option>
+        <option value="Bb">Bb-duuri</option>
+        <option value="B">H-duuri</option>
+      </select>
+    </div>
+    
+    <div class="staff-and-info">
+      <div class="staff-container">
+        <svg width="220" height="200" viewBox="-10 -55 120 155" id="staffSVG">
+          <line x1="0" y1="30" x2="100" y2="30" stroke="black" stroke-width="0.5" />
+          <line x1="0" y1="40" x2="100" y2="40" stroke="black" stroke-width="0.5" />
+          <line x1="0" y1="50" x2="100" y2="50" stroke="black" stroke-width="0.5" />
+          <line x1="0" y1="60" x2="100" y2="60" stroke="black" stroke-width="0.5" />
+          <line x1="0" y1="70" x2="100" y2="70" stroke="black" stroke-width="0.5" />
+          
+          <text x="2" y="72" font-family="serif" font-size="60" fill="black">𝄞</text>
+          
+          <line id="ledgerLow2" x1="40" y1="90" x2="60" y2="90" stroke="black" stroke-width="0.8" style="display:none;" />
+          <line id="ledgerLow" x1="40" y1="80" x2="60" y2="80" stroke="black" stroke-width="0.8" style="display:none;" />
+          <line id="ledgerHigh1" x1="40" y1="20" x2="60" y2="20" stroke="black" stroke-width="0.8" style="display:none;" />
+          <line id="ledgerHigh2" x1="40" y1="10" x2="60" y2="10" stroke="black" stroke-width="0.8" style="display:none;" />
+          <line id="ledgerHigh3" x1="40" y1="0" x2="60" y2="0" stroke="black" stroke-width="0.8" style="display:none;" />
+          <line id="ledgerHigh4" x1="40" y1="-10" x2="60" y2="-10" stroke="black" stroke-width="0.8" style="display:none;" />
+          <line id="ledgerHigh5" x1="40" y1="-20" x2="60" y2="-20" stroke="black" stroke-width="0.8" style="display:none;" />
+          <line id="ledgerHigh6" x1="40" y1="-30" x2="60" y2="-30" stroke="black" stroke-width="0.8" style="display:none;" />
+          <line id="ledgerHigh7" x1="40" y1="-40" x2="60" y2="-40" stroke="black" stroke-width="0.8" style="display:none;" />
+
+          <circle id="noteHead" cx="50" cy="50" r="4" fill="red" style="display:none;" />
+          <line id="noteStem" x1="54" y1="50" x2="54" y2="25" stroke="black" stroke-width="1" style="display:none;" />
+        </svg>
+      </div>
+
+      <div class="note-info-panel">
+        <div class="info-group">
+          <span class="info-label">Nuotti</span>
+          <div id="staffNoteName" class="info-value">-</div>
+        </div>
+        <div class="info-group">
+          <span class="info-label">Tab</span>
+          <div id="tabDisplay" class="info-value">-</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="controls">
+      <button id="blowBtn" class="active" type="button">Puhallus (+)</button>
+      <button id="drawBtn" type="button">Imu (-)</button>
+    </div>
+
+    <div class="harmonica" id="harmonica"></div>
+  </div>
+</div>
+
+<script>
+(function() {
+  const chromaticScale = ["C", "C#", "D", "Eb", "E", "F", "F#", "G", "Ab", "A", "Bb", "B"];
+  const diatonicScale = ["C", "D", "E", "F", "G", "A", "B"];
+
+  const intervals = {
+    blow: [0, 4, 7, 12, 16, 19, 24, 28, 31, 36],
+    draw: [2, 7, 11, 14, 17, 21, 23, 26, 29, 33]
+  };
+
+  let audioCtx = null;
+  let currentOscillator = null;
+  let currentGainNode = null;
+  let currentMode = 'blow';
+  let currentKey = 'C';
+
+  function formatNoteName(name) {
+    return name === "B" ? "H" : name;
+  }
+
+  function getOctaveShift(key) {
+    if (["G", "A", "Bb", "B"].includes(key)) return -12;
+    return 0;
+  }
+
+  function updateStaff(interval, rootKey, holeNumber) {
+    const noteHead = document.getElementById('noteHead');
+    const noteStem = document.getElementById('noteStem');
+    
+    const rootOffset = chromaticScale.indexOf(rootKey) - chromaticScale.indexOf("C");
+    const octaveShift = getOctaveShift(rootKey);
+    const totalStepsFromC = interval + rootOffset + octaveShift;
+
+    const noteIndex = (chromaticScale.indexOf("C") + (totalStepsFromC % 12 + 12) % 12) % 12;
+    const noteNameRaw = chromaticScale[noteIndex];
+    const octave = Math.floor(totalStepsFromC / 12);
+    const baseNoteLetter = noteNameRaw.charAt(0);
+    const diatonicIndex = diatonicScale.indexOf(baseNoteLetter);
+    const totalStaffSteps = (octave * 7) + diatonicIndex;
+
+    const yPos = 80 - (totalStaffSteps * 5); 
+
+    noteHead.setAttribute('cy', yPos);
+    noteHead.style.display = 'block';
+
+    document.getElementById('ledgerLow2').style.display = (yPos >= 90) ? 'block' : 'none';
+    document.getElementById('ledgerLow').style.display = (yPos >= 80) ? 'block' : 'none';
+    document.getElementById('ledgerHigh1').style.display = (yPos <= 20) ? 'block' : 'none';
+    document.getElementById('ledgerHigh2').style.display = (yPos <= 10) ? 'block' : 'none';
+    document.getElementById('ledgerHigh3').style.display = (yPos <= 0) ? 'block' : 'none';
+    document.getElementById('ledgerHigh4').style.display = (yPos <= -10) ? 'block' : 'none';
+    document.getElementById('ledgerHigh5').style.display = (yPos <= -20) ? 'block' : 'none';
+    document.getElementById('ledgerHigh6').style.display = (yPos <= -30) ? 'block' : 'none';
+    document.getElementById('ledgerHigh7').style.display = (yPos <= -40) ? 'block' : 'none';
+
+    if (yPos < 50) {
+      noteStem.setAttribute('x1', 46); noteStem.setAttribute('y1', yPos);
+      noteStem.setAttribute('x2', 46); noteStem.setAttribute('y2', yPos + 25);
+    } else {
+      noteStem.setAttribute('x1', 54); noteStem.setAttribute('y1', yPos);
+      noteStem.setAttribute('x2', 54); noteStem.setAttribute('y2', yPos - 25);
+    }
+    noteStem.style.display = 'block';
+
+    document.getElementById('staffNoteName').innerText = formatNoteName(noteNameRaw);
+    const tabPrefix = currentMode === 'draw' ? '-' : '+';
+    document.getElementById('tabDisplay').innerText = tabPrefix + holeNumber;
+  }
+
+  function initAudio() {
+    if (!audioCtx) audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+  }
+
+  function playNote(freq) {
+    initAudio();
+    if (audioCtx.state === 'suspended') audioCtx.resume();
+    stopNote(0.01); 
+
+    currentOscillator = audioCtx.createOscillator();
+    currentGainNode = audioCtx.createGain();
+    currentOscillator.type = 'triangle'; 
+    currentOscillator.frequency.setValueAtTime(freq, audioCtx.currentTime);
+    currentGainNode.gain.setValueAtTime(0, audioCtx.currentTime);
+    currentGainNode.gain.linearRampToValueAtTime(0.15, audioCtx.currentTime + 0.05);
+    currentOscillator.connect(currentGainNode);
+    currentGainNode.connect(audioCtx.destination);
+    currentOscillator.start();
+  }
+
+  function stopNote(fadeTime = 0.1) {
+    if (currentGainNode) {
+      const node = currentGainNode;
+      const osc = currentOscillator;
+      node.gain.cancelScheduledValues(audioCtx.currentTime);
+      node.gain.setValueAtTime(node.gain.value, audioCtx.currentTime);
+      node.gain.exponentialRampToValueAtTime(0.0001, audioCtx.currentTime + fadeTime);
+      setTimeout(() => { try { osc.stop(); osc.disconnect(); } catch(e) {} }, fadeTime * 1000);
+      currentGainNode = null;
+    }
+  }
+
+  function renderHarmonica() {
+    const harmonicaEl = document.getElementById('harmonica');
+    harmonicaEl.innerHTML = '';
+    const octaveShift = getOctaveShift(currentKey);
+    
+    for (let i = 0; i < 10; i++) {
+      const interval = intervals[currentMode][i];
+      const rootIndex = chromaticScale.indexOf(currentKey);
+      const totalSteps = rootIndex + interval + octaveShift;
+      const freq = 261.63 * Math.pow(2, (totalSteps - chromaticScale.indexOf("C")) / 12);
+      
+      const noteNameRaw = chromaticScale[(chromaticScale.indexOf("C") + (totalSteps % 12 + 12) % 12) % 12];
+      const formattedNote = formatNoteName(noteNameRaw);
+
+      const holeDiv = document.createElement('div');
+      holeDiv.className = 'hole';
+      holeDiv.innerHTML = `
+        <span class="hole-number">${i+1}</span>
+        <span class="note-name">${formattedNote}</span>
+      `;
+      
+      const startAction = (e) => {
+        e.preventDefault();
+        playNote(freq);
+        holeDiv.style.background = "#3498db";
+        updateStaff(interval, currentKey, i + 1);
+      };
+
+      const endAction = () => {
+        stopNote();
+        holeDiv.style.background = "#111";
+      };
+
+      holeDiv.onmousedown = startAction;
+      holeDiv.onmouseup = endAction;
+      holeDiv.onmouseleave = endAction;
+      holeDiv.ontouchstart = startAction;
+      holeDiv.ontouchend = endAction;
+
+      harmonicaEl.appendChild(holeDiv);
+    }
+  }
+
+  document.getElementById('keySelect').onchange = (e) => {
+    currentKey = e.target.value;
+    renderHarmonica();
+  };
+
+  document.getElementById('blowBtn').onclick = (e) => {
+    currentMode = 'blow';
+    document.querySelectorAll('.harmonica-app-wrapper .controls button').forEach(b => b.classList.remove('active'));
+    e.target.classList.add('active');
+    renderHarmonica();
+  };
+
+  document.getElementById('drawBtn').onclick = (e) => {
+    currentMode = 'draw';
+    document.querySelectorAll('.harmonica-app-wrapper .controls button').forEach(b => b.classList.remove('active'));
+    e.target.classList.add('active');
+    renderHarmonica();
+  };
+
+  renderHarmonica();
+})();
+</script>
