@@ -22,12 +22,8 @@ Whether you are a beginner learning your first scales or an experienced player e
 
 **How to use:** Simply select your harmonica's key from the dropdown menu, choose your breathing direction (Blow or Draw), and click the holes to explore the sounds and symbols that make up your music!
 
-If the tool looks too small you can click it bigger from [this link](https://codepen.io/Janne-Ojaj-rvi/full/QwKvZYb).
 
-<div style="margin: 30px 0;">
-  <iframe height="350" style="width: 100%; border: 0;" scrolling="no" title="Interactive Harmonica Map" src="https://codepen.io/Janne-Ojaj-rvi/embed/QwKvZYb?default-tab=result&zoom=0.5" loading="lazy" allowtransparency="true">
-    See the Pen <a href="https://codepen.io/Janne-Ojaj-rvi/pen/QwKvZYb">Interactive Harmonica Map</a> by Janne Ojajärvi
-  </iframe>
-</div>
+{{< interactivechart_en >}}
+
 
 © Janne Ojajärvi / [www.huuliharppu.fi](https://www.huuliharppu.fi)
