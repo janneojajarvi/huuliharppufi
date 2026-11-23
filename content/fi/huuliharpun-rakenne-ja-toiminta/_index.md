@@ -32,7 +32,9 @@ Huuliharppu kuuluu vapaalehdykkäsoittimien soitinperheeseen. Samantapaisen toim
 
 [<img src="/huuliharppufi/wp-content/uploads/2015/10/kielentoiminta.jpg" alt="Kielen toiminta" class="wp-image-349" />](/huuliharppufi/wp-content/uploads/2015/10/kielentoiminta.jpg)
 
-[Täältä voit tutkia huuliharpun toimintaa intervaktiivisen huuliharpun sävelkartan avulla. ](https://codepen.io/Janne-Ojaj-rvi/full/ZYpKRaW) © Janne Ojajärvi
+{{< harmonica >}}
+
+© Janne Ojajärvi
 
 &nbsp;
 
@@ -41,4 +43,3 @@ Lähteet:
 Jantso Jokelin. 2013. Huuliharppukirja. Turku: Kustannusosakeyhtiö Sammakko.
 
 Jouko Kyhälä &amp; Jimmy Träskelin. 2009. Pelti polskia laulaa – Kansanmusiikkia blues-huuliharpulla. Kaustinen: Kansanmusiikki-instituutti.
-
