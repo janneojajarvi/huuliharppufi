@@ -31,12 +31,7 @@ The diatonic harmonica is no longer "just" a blues instrument limited to a singl
 
 Whether you are practicing your first draw bend on the 4th hole or mapping out complex jazz scales using overblows, this map provides a clear visual and auditory reference to guide your playing.
 
-If the tool looks too small you can click it bigger from [this link](https://codepen.io/Janne-Ojaj-rvi/full/emdWPVz).
+{{< bendingtool >}}
 
-<div style="margin: 30px 0;">
-  <iframe height="350" style="width: 100%; border: 0;" scrolling="no" title="Interactive Harmonica Bending & Overbend Map" src="https://codepen.io/Janne-Ojaj-rvi/embed/emdWPVz?default-tab=result&zoom=0.5" loading="lazy" allowtransparency="true">
-    See the Pen <a href="https://codepen.io/Janne-Ojaj-rvi/pen/emdWPVz">Interactive Harmonica Bending & Overbend Map</a> by Janne Ojajärvi
-  </iframe>
-</div>
 
 © Janne Ojajärvi / [www.huuliharppu.fi](https://www.huuliharppu.fi)
