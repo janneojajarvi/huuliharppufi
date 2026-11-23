@@ -3,14 +3,14 @@
   font-family: sans-serif;
   display: flex;
   justify-content: center;
-  margin: 25px 0;
+  margin: 15px 0;
   width: 100%;
   box-sizing: border-box;
 }
 
 .harmonica-bending-wrapper .harmonica-container.compact {
   background: #f8f9fa; 
-  padding: 15px; 
+  padding: 10px; 
   border-radius: 12px;
   max-width: 850px; 
   width: 100%;
@@ -24,12 +24,12 @@
   align-items: center; 
   justify-content: space-between;
   background: white; 
-  padding: 10px 15px; 
+  padding: 8px 12px; 
   border-radius: 10px; 
-  margin-bottom: 10px; 
+  margin-bottom: 8px; 
   border: 1px solid #ddd;
   flex-wrap: wrap;
-  gap: 15px;
+  gap: 10px;
 }
 
 .harmonica-bending-wrapper .note-info-panel { 
@@ -39,22 +39,21 @@
 
 .harmonica-bending-wrapper .value-row { 
   display: flex; 
-  gap: 15px; 
+  gap: 12px; 
   justify-content: flex-end; 
-  margin-bottom: 8px; 
+  margin-bottom: 4px; 
 }
 
 .harmonica-bending-wrapper .info-label { 
-  font-size: 0.7rem; 
+  font-size: 0.65rem; 
   color: #888; 
   text-transform: uppercase; 
   font-weight: bold; 
   display: block;
-  margin-bottom: 2px;
 }
 
 .harmonica-bending-wrapper .info-value { 
-  font-size: 1.6rem; 
+  font-size: 1.4rem; 
   font-weight: 800; 
   color: #2c3e50; 
   line-height: 1;
@@ -69,20 +68,23 @@
   user-select: none;
 }
 
+/* Säädetään karttaa niin, että se mahtuu paremmin ja rullautuu siististi */
 .harmonica-bending-wrapper .bending-map {
   display: flex; 
-  justify-content: center; 
-  gap: 2px;
+  justify-content: flex-start; /* Mahdollistaa sivuttaisrullauksen mobiilissa */
+  gap: 3px;
   background: #2c3e50; 
-  padding: 10px 5px; 
+  padding: 8px 4px; 
   border-radius: 8px;
   overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
 }
 
 .harmonica-bending-wrapper .harpa-column { 
   display: flex; 
   flex-direction: column; 
   align-items: center; 
+  min-width: 38px;
 }
 
 .harmonica-bending-wrapper .bend-zone { 
@@ -93,24 +95,24 @@
 
 .harmonica-bending-wrapper .bend-zone.upper { 
   justify-content: flex-end; 
-  height: 95px; 
+  height: 80px; 
 }
 
 .harmonica-bending-wrapper .bend-zone.lower { 
   justify-content: flex-start; 
-  height: 130px; 
+  height: 110px; 
 }
 
 .harmonica-bending-wrapper .core-zone { 
   background: #1a252f; 
-  padding: 4px 2px; 
+  padding: 3px 2px; 
   border-radius: 5px; 
-  margin: 4px 0; 
+  margin: 3px 0; 
 }
 
 .harmonica-bending-wrapper .note-btn {
-  width: 36px; 
-  height: 36px; 
+  width: 34px; 
+  height: 32px; 
   display: flex; 
   flex-direction: column;
   align-items: center; 
@@ -128,33 +130,33 @@
 
 .harmonica-bending-wrapper .blow-main { background: #3498db; color: white; }
 .harmonica-bending-wrapper .draw-main { background: #e67e22; color: white; }
-.harmonica-bending-wrapper .draw-bend { background: #d35400; color: white; font-size: 0.75rem; border: 1px dashed rgba(255,255,255,0.3); }
-.harmonica-bending-wrapper .blow-bend { background: #2980b9; color: white; font-size: 0.75rem; border: 1px dashed rgba(255,255,255,0.3); }
-.harmonica-bending-wrapper .over-note { background: #8e44ad; color: white; font-size: 0.75rem; }
+.harmonica-bending-wrapper .draw-bend { background: #d35400; color: white; font-size: 0.7rem; border: 1px dashed rgba(255,255,255,0.3); }
+.harmonica-bending-wrapper .blow-bend { background: #2980b9; color: white; font-size: 0.7rem; border: 1px dashed rgba(255,255,255,0.3); }
+.harmonica-bending-wrapper .over-note { background: #8e44ad; color: white; font-size: 0.7rem; }
 
 .harmonica-bending-wrapper .hole-label { 
   color: #ecf0f1; 
   font-weight: bold; 
-  font-size: 0.8rem; 
-  margin: 2px 0; 
+  font-size: 0.75rem; 
+  margin: 1px 0; 
   text-align: center;
 }
 
 .harmonica-bending-wrapper .tab-small { 
-  font-size: 0.55rem; 
+  font-size: 0.5rem; 
   opacity: 0.9; 
 }
 
 .harmonica-bending-wrapper .note-bold { 
   font-weight: bold; 
-  font-size: 0.9rem; 
+  font-size: 0.85rem; 
 }
 
 .harmonica-bending-wrapper select { 
-  padding: 6px 10px; 
+  padding: 5px 8px; 
   border-radius: 6px; 
   border: 1px solid #ccc; 
-  font-size: 0.9rem; 
+  font-size: 0.85rem; 
   background: #fff;
   color: #222;
   cursor: pointer;
@@ -175,6 +177,7 @@
   }
 }
 </style>
+
 
 <div class="harmonica-bending-wrapper">
   <div class="harmonica-container compact">
