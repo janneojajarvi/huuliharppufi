@@ -16,7 +16,7 @@ HarppuTuneFinder - Hae tietokannoista perinnekappaleita ja luo niille automaatti
 
 Visuaalinen metronomi: [/visuaalinen-metronomi/](/huuliharppufi/visuaalinen-metronomi/)  © Janne Ojajärvi
 
-Bluesharpun interaktiivinen taivutuskaavio [**perustaivutuksilla**](https://codepen.io/Janne-Ojaj-rvi/full/qEamyaM) ja [**ylitaivutuksilla**](https://codepen.io/Janne-Ojaj-rvi/full/MYjmBmv).  © Janne Ojajärvi
+Bluesharpun interaktiivinen taivutuskaavio [**perustaivutuksilla**](https://codepen.io/Janne-Ojaj-rvi/full/qEamyaM) ja [**ylitaivutuksilla**](/huuliharppufi/bengtoolfi/).  © Janne Ojajärvi
 
 Slowmp3 [ilmainen] (Mac/Windows): [https://blog.dhampir.no/content/cool-software-slowmp3](https://blog.dhampir.no/content/cool-software-slowmp3) 
 
