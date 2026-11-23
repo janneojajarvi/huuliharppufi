@@ -32,7 +32,7 @@ Huuliharppu kuuluu vapaalehdykkäsoittimien soitinperheeseen. Samantapaisen toim
 
 [<img src="/huuliharppufi/wp-content/uploads/2015/10/kielentoiminta.jpg" alt="Kielen toiminta" class="wp-image-349" />](/huuliharppufi/wp-content/uploads/2015/10/kielentoiminta.jpg)
 
-{{< harmonica >}}
+{{< interactivechart >}}
 
 © Janne Ojajärvi
 
