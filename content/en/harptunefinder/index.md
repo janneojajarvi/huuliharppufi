@@ -54,7 +54,7 @@ description: "The ultimate tool for finding folk tunes and harmonica tablature. 
 </ul>
 
 <div class="support-box" style="margin:40px auto;padding:25px;border:2px dashed #2c3e50;border-radius:12px;background:#fff;text-align:center;max-width:800px;font-family:sans-serif">
-  <h3 style="color:#2c3e50;margin-top:0">Support this tool! 🎶</h3>
+  <h3 style="color:#2c3e50;margin-top:0">Support this tool and this site! 🎶</h3>
   <p style="color:#555;font-size:1.05em">Enjoying this application? You can support its development and maintenance by purchasing my <strong>Beginner’s Harmonica PDF Pack</strong>. It’s a great way to get high-quality sheet music while helping me keep the service running!</p>
   <p><a href="https://payhip.com/b/tbYTA" style="display:inline-block;background:#2c3e50;color:#fff;padding:12px 25px;text-decoration:none;border-radius:30px;font-weight:bold;margin-top:10px">Get the PDF Songbook here</a></p>
 </div>
