@@ -23,6 +23,29 @@
                   <a href="{{ .RelPermalink }}" class="link black dim fw7">{{ .Title }}</a>
                 </h2>
                 <div class="f5 gray mb2">{{ .Date.Format "2.1.2006" }}</div>
+
+                <!-- Videon esikatselu / upotus, jos video-kenttä on määritelty -->
+                {{ if .Params.video }}
+                  {{ $embedUrl := "" }}
+                  {{/* Tarkistetaan ja haetaan YouTube ID ja muodostetaan upotuslinkki */}}
+                  {{ if in .Params.video "youtu.be" }}
+                    {{ $id := index (last 1 (split .Params.video "/")) 0 }}
+                    {{ $embedUrl = print "https://www.youtube.com/embed/" $id }}
+                  {{ else if in .Params.video "watch?v=" }}
+                    {{ $parts := split .Params.video "watch?v=" }}
+                    {{ $id := index $parts 1 }}
+                    {{/* Leikataan mahdollinen ylimääräinen parametri pois (esist. &t=...) */}}
+                    {{ $id = index (split $id "&") 0 }}
+                    {{ $embedUrl = print "https://www.youtube.com/embed/" $id }}
+                  {{ end }}
+
+                  {{ if $embedUrl }}
+                    <div class="mb3" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius: 6px;">
+                      <iframe src="{{ $embedUrl }}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen></iframe>
+                    </div>
+                  {{ end }}
+                {{ end }}
+
                 <div class="f4 lh-copy">
                   {{ .Summary }}
                 </div>
