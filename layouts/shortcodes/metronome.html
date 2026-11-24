@@ -1,0 +1,242 @@
+<style>
+.metronome-wrapper {
+  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  margin: 25px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.metronome-wrapper .metronome-container {
+  background: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 25px;
+  max-width: 420px;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+  box-sizing: border-box;
+}
+
+.metronome-wrapper .metronome-container h3 {
+  margin-top: 0;
+  color: #2c3e50;
+  font-size: 1.4rem;
+}
+
+.metronome-wrapper .metronome-display {
+  height: 140px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: #f9f9f9;
+  border-radius: 12px;
+  margin-bottom: 25px;
+  border: 1px solid #eee;
+}
+
+.metronome-wrapper .beat-indicator {
+  width: 60px;
+  height: 60px;
+  background: #dfe6e9;
+  border-radius: 50%;
+  transition: transform 0.08s cubic-bezier(0.1, 0.7, 1.0, 0.1);
+}
+
+.metronome-wrapper .beat-active { 
+  background: #3498db; 
+  transform: scale(1.3); 
+}
+
+.metronome-wrapper .beat-accent { 
+  background: #e74c3c; 
+  transform: scale(1.6); 
+}
+
+.metronome-wrapper .bpm-text {
+  font-size: 1.8rem;
+  font-weight: 800;
+  margin-top: 15px;
+  color: #2c3e50;
+}
+
+.metronome-wrapper .metro-controls input[type=range] {
+  width: 100%;
+  margin: 20px 0;
+  cursor: pointer;
+}
+
+.metronome-wrapper .settings-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 15px;
+}
+
+.metronome-wrapper .start-stop-btn {
+  background: #27ae60;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 0.95rem;
+  cursor: pointer;
+  flex-grow: 1;
+  transition: background 0.2s;
+}
+
+.metronome-wrapper .start-stop-btn:hover { background: #2ecc71; }
+.metronome-wrapper .start-stop-btn.running { background: #c0392b; }
+.metronome-wrapper .start-stop-btn.running:hover { background: #e74c3c; }
+
+.metronome-wrapper .setting { text-align: left; }
+.metronome-wrapper .setting label { 
+  display: block; 
+  font-size: 0.75rem; 
+  color: #7f8c8d; 
+  margin-bottom: 5px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.metronome-wrapper select {
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  background: white;
+  font-weight: 600;
+  color: #2c3e50;
+  outline: none;
+}
+</style>
+
+<div class="metronome-wrapper">
+  <div class="metronome-container">
+    <h3>Visuaalinen Metronomi</h3>
+    
+    <div class="metronome-display">
+      <div id="metroBeatVisual" class="beat-indicator"></div>
+      <div id="metroBpmDisplay" class="bpm-text">120 BPM</div>
+    </div>
+
+    <div class="metro-controls">
+      <input type="range" id="metroBpmSlider" min="40" max="240" value="120">
+      
+      <div class="settings-row">
+        <div class="setting">
+          <label>Tahtilaji:</label>
+          <select id="metroTimeSignature">
+            <option value="4">4/4 (Standardi)</option>
+            <option value="3">3/4 (Valssi, polska)</option>
+            <option value="2">2/4 (Marssi)</option>
+            <option value="6">6/8 (Jig, shuffle)</option>
+            <option value="5">5/4</option>
+            <option value="7">7/8 (Epäsymmetrinen)</option>
+            <option value="10">10/8 (Balkan)</option>
+          </select>
+        </div>
+        <button id="metroStartStopBtn" class="start-stop-btn">KÄYNNISTÄ</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+(function() {
+  let audioCtx = null;
+  let isRunning = false;
+  let currentBeat = 0;
+  let nextNoteTime = 0.0;
+  let timerID = null;
+
+  const bpmSlider = document.getElementById('metroBpmSlider');
+  const bpmDisplay = document.getElementById('metroBpmDisplay');
+  const startStopBtn = document.getElementById('metroStartStopBtn');
+  const timeSigSelect = document.getElementById('metroTimeSignature');
+  const beatVisual = document.getElementById('metroBeatVisual');
+
+  bpmSlider.addEventListener('input', () => {
+    bpmDisplay.innerText = `${bpmSlider.value} BPM`;
+  });
+
+  startStopBtn.addEventListener('click', () => {
+    if (!audioCtx) {
+      audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+    }
+    
+    isRunning = !isRunning;
+
+    if (isRunning) {
+      startStopBtn.innerText = "PYSÄYTÄ";
+      startStopBtn.classList.add('running');
+      currentBeat = 0;
+      nextNoteTime = audioCtx.currentTime;
+      scheduler();
+    } else {
+      startStopBtn.innerText = "KÄYNNISTÄ";
+      startStopBtn.classList.remove('running');
+      clearTimeout(timerID);
+      beatVisual.className = 'beat-indicator';
+    }
+  });
+
+  timeSigSelect.addEventListener('change', () => {
+    if (isRunning) {
+      // Käynnistetään uudelleen, jotta tahtilajin vaihdos astuu voimaan puhtaasti
+      startStopBtn.click();
+      startStopBtn.click();
+    }
+  });
+
+  function scheduler() {
+    while (nextNoteTime < audioCtx.currentTime + 0.1) {
+      const timeSig = parseInt(timeSigSelect.value);
+      playBeat(currentBeat, nextNoteTime);
+      
+      let bpm = bpmSlider.value;
+      let secondsPerBeat = 60.0 / bpm;
+      
+      if ([6, 7, 10].includes(timeSig)) {
+        secondsPerBeat = secondsPerBeat / 2;
+      }
+      
+      nextNoteTime += secondsPerBeat;
+      currentBeat = (currentBeat + 1) % timeSig;
+    }
+    timerID = setTimeout(scheduler, 25);
+  }
+
+  function playBeat(beat, time) {
+    const osc = audioCtx.createOscillator();
+    const envelope = audioCtx.createGain();
+    const isAccent = (beat === 0);
+
+    osc.frequency.value = isAccent ? 1000 : 500;
+    
+    envelope.gain.value = 1;
+    envelope.gain.exponentialRampToValueAtTime(0.001, time + 0.08);
+
+    osc.connect(envelope);
+    envelope.connect(audioCtx.destination);
+
+    osc.start(time);
+    osc.stop(time + 0.1);
+
+    const delay = (time - audioCtx.currentTime) * 1000;
+    setTimeout(() => {
+      if (isRunning) {
+        beatVisual.className = 'beat-indicator ' + (isAccent ? 'beat-accent' : 'beat-active');
+        
+        setTimeout(() => {
+          if (isRunning) beatVisual.className = 'beat-indicator';
+        }, 70);
+      }
+    }, delay);
+  }
+})();
+</script>
