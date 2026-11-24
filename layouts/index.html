@@ -27,16 +27,17 @@
                 <!-- Videon esikatselu / upotus, jos video-kenttä on määritelty -->
                 {{ if .Params.video }}
                   {{ $embedUrl := "" }}
-                  {{/* Tarkistetaan ja haetaan YouTube ID ja muodostetaan upotuslinkki */}}
                   {{ if in .Params.video "youtu.be" }}
-                    {{ $id := index (last 1 (split .Params.video "/")) 0 }}
-                    {{ $embedUrl = print "https://www.youtube.com/embed/" $id }}
+                    {{ $parts := split .Params.video "youtu.be/" }}
+                    {{ if gt (len $parts) 1 }}
+                      {{ $embedUrl = print "https://www.youtube.com/embed/" (index $parts 1) }}
+                    {{ end }}
                   {{ else if in .Params.video "watch?v=" }}
                     {{ $parts := split .Params.video "watch?v=" }}
-                    {{ $id := index $parts 1 }}
-                    {{/* Leikataan mahdollinen ylimääräinen parametri pois (esist. &t=...) */}}
-                    {{ $id = index (split $id "&") 0 }}
-                    {{ $embedUrl = print "https://www.youtube.com/embed/" $id }}
+                    {{ if gt (len $parts) 1 }}
+                      {{ $id := index (split (index $parts 1) "&") 0 }}
+                      {{ $embedUrl = print "https://www.youtube.com/embed/" $id }}
+                    {{ end }}
                   {{ end }}
 
                   {{ if $embedUrl }}
