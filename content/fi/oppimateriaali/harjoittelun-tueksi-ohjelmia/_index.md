@@ -13,9 +13,9 @@ description: "<em>(linkkien toimivuus tarkistettu 13.3.2026)</em>"
 Huuliharpun (bluesharppu) [interaktiivinen sävelkartta.](/huuliharppufi/interaktiivinenharppu/)
  (näyttää myös tabulatuurit ja sävelet nuottiviivastolla). © Janne Ojajärvi
 
-HarppuTuneFinder - Hae tietokannoista perinnekappaleita ja luo niille automaattisesti tabulatuurit + muita hyödyllisiä toimintoja: [/harpputunefinder](/huuliharppufi/harpputunefinder/)[HarppuTuneFinder](/huuliharppufi/harpputunefinder/)
+HarppuTuneFinder - Hae tietokannoista perinnekappaleita ja luo niille automaattisesti tabulatuurit + muita hyödyllisiä toimintoja: [harpputunefinder](/huuliharppufi/harpputunefinder/)
 
-Visuaalinen metronomi: [/visuaalinen-metronomi/](/huuliharppufi/visuaalinen-metronomi/)  © Janne Ojajärvi
+Visuaalinen metronomi: [visuaalinen-metronomi](/huuliharppufi/visuaalinen-metronomi/)  © Janne Ojajärvi
 
 Bluesharpun interaktiivinen taivutuskaavio [**perustaivutuksilla**](/huuliharppufi/bendingtool2/) ja [**ylitaivutuksilla**](/huuliharppufi/bengtoolfi/).  © Janne Ojajärvi
 
