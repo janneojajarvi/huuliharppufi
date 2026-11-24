@@ -12,7 +12,7 @@
   background: #ffffff;
   border: 1px solid #ddd;
   border-radius: 12px;
-  padding: 25px;
+  padding: 20px;
   max-width: 420px;
   width: 100%;
   margin: 0 auto;
@@ -28,20 +28,20 @@
 }
 
 .metronome-wrapper .metronome-display {
-  height: 140px;
+  height: 130px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   background: #f9f9f9;
   border-radius: 12px;
-  margin-bottom: 25px;
+  margin-bottom: 20px;
   border: 1px solid #eee;
 }
 
 .metronome-wrapper .beat-indicator {
-  width: 60px;
-  height: 60px;
+  width: 55px;
+  height: 55px;
   background: #dfe6e9;
   border-radius: 50%;
   transition: transform 0.08s cubic-bezier(0.1, 0.7, 1.0, 0.1);
@@ -58,53 +58,59 @@
 }
 
 .metronome-wrapper .bpm-text {
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   font-weight: 800;
-  margin-top: 15px;
+  margin-top: 12px;
   color: #2c3e50;
 }
 
 .metronome-wrapper .metro-controls input[type=range] {
   width: 100%;
-  margin: 20px 0;
+  margin: 15px 0;
   cursor: pointer;
 }
 
 .metronome-wrapper .settings-row {
   display: flex;
   justify-content: space-between;
-  align-items: center;
-  gap: 15px;
+  align-items: flex-end;
+  gap: 12px;
 }
 
 .metronome-wrapper .start-stop-btn {
   background: #27ae60;
   color: white;
   border: none;
-  padding: 12px 20px;
+  padding: 11px 20px;
   border-radius: 8px;
   font-weight: bold;
   font-size: 0.95rem;
   cursor: pointer;
   flex-grow: 1;
   transition: background 0.2s;
+  box-sizing: border-box;
 }
 
 .metronome-wrapper .start-stop-btn:hover { background: #2ecc71; }
 .metronome-wrapper .start-stop-btn.running { background: #c0392b; }
 .metronome-wrapper .start-stop-btn.running:hover { background: #e74c3c; }
 
-.metronome-wrapper .setting { text-align: left; }
+.metronome-wrapper .setting { 
+  text-align: left; 
+  flex-grow: 1;
+}
+
 .metronome-wrapper .setting label { 
   display: block; 
-  font-size: 0.75rem; 
+  font-size: 0.7rem; 
   color: #7f8c8d; 
-  margin-bottom: 5px;
+  margin-bottom: 4px;
   text-transform: uppercase;
   letter-spacing: 1px;
 }
 
 .metronome-wrapper select {
+  width: 100%;
   padding: 10px;
   border-radius: 6px;
   border: 1px solid #ccc;
@@ -112,6 +118,23 @@
   font-weight: 600;
   color: #2c3e50;
   outline: none;
+  box-sizing: border-box;
+}
+
+/* Responsiivisuus pienille näytöille: pinotaan elementit allekkain */
+@media (max-width: 480px) {
+  .metronome-wrapper .settings-row {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 12px;
+  }
+  .metronome-wrapper .setting {
+    width: 100%;
+  }
+  .metronome-wrapper .start-stop-btn {
+    width: 100%;
+    padding: 12px;
+  }
 }
 </style>
 
@@ -187,7 +210,6 @@
 
   timeSigSelect.addEventListener('change', () => {
     if (isRunning) {
-      // Käynnistetään uudelleen, jotta tahtilajin vaihdos astuu voimaan puhtaasti
       startStopBtn.click();
       startStopBtn.click();
     }
