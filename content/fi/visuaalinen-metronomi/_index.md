@@ -10,6 +10,6 @@ description: "Visuaalinen metronomi"
 
 
 
-© Janne Ojajärvi / /
+© Janne Ojajärvi
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />
