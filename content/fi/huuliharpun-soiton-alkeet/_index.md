@@ -4,9 +4,8 @@ draft: false
 title: "Huuliharpun soiton alkeet"
 date: "2026-04-29"
 description: "Opi huuliharpunsoiton alkeet helposti! Opas kattaa otteen, yksinuottisen soiton, hengityksen ja perusteet vasta-alkajille."
+video: "https://youtu.be/X_i3uXSuOaY"
 ---
-
-https://youtu.be/X\_i3uXSuOaY
 
 Opetusvideo huuliharpunsoiton alkeisiin. Tässä videossa opetellaan soittamaan huuliharpusta yksittäinen sävel soinnun sijaan. Video tarjoaa vinkkejä yksiäänisen soiton harjoitteluun huulitekniikalla (huuliansatsi, pucker). Lisäksi videossa käsitellään myös hengitystä sekä soitto-otetta.
 
